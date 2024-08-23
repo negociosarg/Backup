@@ -1,0 +1,7 @@
+ {
+        "name": "ESPN ARG",
+        "ico": "https://cdn.broadbandtvnews.com/wp-content/uploads/2020/06/14111741/DAZN-300x225.jpg",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e884b711ab111beb8a7ba1e7bcbdc9bf&key=cb89ee3961599e3e648a5aad60895f34"
+      },
