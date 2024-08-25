@@ -1,0 +1,677 @@
+Datos para encriptados:
+
+Formato:
+
+https://globalserver.tech/teleplay/panel/clv/espn1.json
+
+https://globalserver.tech/teleplay/panel/clv/tlnovelas.json
+
+   {
+        "name": "GOURMET",
+        "ico": "https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/6065f68bb5e4ea711e0b73e7_elgourmet.png",
+        "uri": "https://edge-mix02-coe.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc/Gourmet.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=93d853ac4c8e24cf0295f6f97ee53bd3&key=fa5817fab4fb054ccea1abb9f3d767ed"
+},
+     {
+        "name": "TELEMUNDO*",
+        "ico": "https://i.postimg.cc/SKT2Pm92/telemundo-logo-0-F9-A314635-seeklogo-com.png",
+        "uri": "http://edge-live11-hr.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_Live_dash_enc/Telemundo_HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://globalserver.tech/teleplay/panel/clv/Telemundo.json"
+      }, 
+	  {
+        "name": "TELEMUNDO*",
+        "ico": "https://television-libre.online/img/telemundo.png",
+        "uri": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(WNJU)/master.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e1f756cffcc838e28a3da6541c00ee8b&key=1444b1c17a5c1f78435de12dcff47c8e"
+      },
+ {
+        "name": "PREMIERE",
+        "ico": "https://playertv.net/wp-content/uploads/2024/04/premiere-300x169.webp",
+        "uri": "https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d98239180d8380b3a1bb28d875b1ddf2&key=cf836ced579257d1c76ae8809818e6c4"
+      },
+	    {
+        "name": "PREMIERE 2**",
+        "ico": "https://playertv.net/wp-content/uploads/2024/04/premiere-300x169.webp",
+        "uri": "https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=fd2e8019f37211ca8b78a8b656f1b83a&key=273189c214e85b43ac36298d1c422330"
+      },
+  {
+        "name": "PREMIERE 3**",
+        "ico": "https://playertv.net/wp-content/uploads/2024/04/premiere-300x169.webp",
+        "uri": "https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/8ci7l7dt0d/out/v1/98fe69f2cdc041388004305e63353268/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9547f9aead1237c8a3b1bf0a91ed9995&key=534fab4541fef31921dd970c65d51848"
+      },
+  {
+        "name": "PREMIERE 4**",
+        "ico": "https://playertv.net/wp-content/uploads/2024/04/premiere-300x169.webp",
+        "uri": "https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/zytzybatcd/out/v1/4e59aa00f6784bb98170741d40b33e3e/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ce5d18ffd68650affce1985201983ab7&key=397c64e42507d95e5460830918c22a98"
+      },
+  {
+        "name": "PREMIERE 5**",
+        "ico": "https://playertv.net/wp-content/uploads/2024/04/premiere-300x169.webp",
+        "uri": "https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/j4y12ucrx0/out/v1/9135597c4400465e9e752dc32de587fd/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d5a3ac0b892bfccdf352b6def9cb2764&key=ac0936acc0036fad2273efaa42b1fafd"
+      },
+	    {
+        "name": "PREMIERE 6",
+        "ico": "https://playertv.net/wp-content/uploads/2024/04/premiere-300x169.webp",
+        "uri": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cydwktwhqj/out/v1/c6e2919fe4e04a73935691f8284a4afe/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=05cedc366ce4ec735ee4b33fcefbf01f&key=475d6dd40eaba6896e02b26a6cf34d95",
+        "prot": "0"
+      },
+       {
+        "name": "PREMIERE 7",
+        "ico": "https://playertv.net/wp-content/uploads/2024/04/premiere-300x169.webp",
+        "uri": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wczqphrl5k/out/v1/7a20b4be236a4a9484fdf5cdfcbe79d5/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7ce96e01eee54fb77e5cc4e7b753d6b0&key=184f94303d3357b9a7381ccdeee9b611",
+        "prot": "0"
+      },
+       {
+        "name": "PREMIERE 8",
+        "ico": "https://playertv.net/wp-content/uploads/2024/04/premiere-300x169.webp",
+        "uri": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dabubydklo/out/v1/c272f10312ac4e81bcf2183509703dd1/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7ba384f9d983c731ab1e3702c16e2faf&key=f28adca4375e8a041fd22aef26440009",
+        "prot": "0"
+      },
+
+	    {
+        "name": "DAZN 1",
+        "ico": "https://i.ibb.co/hX8TK84/dazn-laliga-2.webp",
+        "uri": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=44dd9cd370b08a868ead115fe84ecfde&key=bff19ab0a51cf14e848389b152913fd0"
+      },
+      {
+        "name": "DAZN 2",
+        "ico": "https://i.ibb.co/hX8TK84/dazn-laliga-2.webp",
+        "uri": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0eab5a3f3e3b4ba5d42d40ca30d17571&key=f3f061ded9b70e8160590d5802ecda6d"
+      },
+      {
+        "name": "DAZN 3",
+        "ico": "https://i.ibb.co/hX8TK84/dazn-laliga-2.webp",
+        "uri": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bad8efff688c0dbb3711e4a7114c22a3&key=6ba800673b20776c0c850130d45e1920"
+      },
+      {
+        "name": "DAZN 4",
+        "ico": "https://i.ibb.co/hX8TK84/dazn-laliga-2.webp",
+        "uri": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/up7qpwch9b/out/v1/a6d5d1a1287b4893b859c2d6ccf2c65d/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d27104d427e4f87e75b19395a9f8796b&key=723593c70e2d4c4862754398e80168f8"
+      },
+      {
+        "name": "DAZN FORMULA 1",
+        "ico": "https://i.ibb.co/mcp1JdM/DAZN-F1-750x354.jpg",
+        "uri": "https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1061be12d303247426ec25e8369b2647&key=bd622b0e610295de3b0bccb850ccaaaa"
+      },
+      {
+        "name": "DAZN LA LIGA",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/2560px-DAZN_LaLiga_logo.svg.png",
+        "uri": "https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=43d1c3b25207ff38b22ccfe17d302367&key=7b1f85f6e81059473b114c16a25c829a"
+      },
+	  {
+        "name": "TUDN",
+        "ico": "https://i.ibb.co/FVmfFWV/tudn.png",
+        "uri": "http://ultrapremium.cloud:8080/38mera28pa65fu66/52mawu67wedu98/24941",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+{
+        "name": "VIX+",
+        "ico": "https://i.ibb.co/FVmfFWV/tudn.png",
+        "uri": "https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+ {
+        "name": "SPORTV TV 1 PT",
+        "ico": "https://www.thesportsdb.com/images/media/tvlogo/qpyqws1470407526.png",
+        "uri": "http://rr.cdn.iptv.vodafone.pt/sdash_VTV_LIVE/LIVE$151/2.mpd/Manifest?start=LIVE&end=END&device=DASH_P_SSP_LIVE_HD&deviceType=mobile&os=androids",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e360d008f4d34190a420c5cd2d104ee5&key=8c91e9c1f91c616640d083ad58e653f6"
+      },
+ {
+        "name": "COPA AMERICA",
+        "ico": "https://i.ibb.co/fCnWqXS/CAMERICA2024.png",
+        "uri": "https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+{
+        "name": "COPA AMERICA",
+        "ico": "https://i.ibb.co/fCnWqXS/CAMERICA2024.png",
+        "uri": "https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+	  {
+        "name": "PREMIER SPORTS",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Premier_sports_logo_2018.svg/413px-Premier_sports_logo_2018.svg.png",
+        "uri": "https://olam.telka.uk/premiersport_JnD4eF8ALBI4HWrUOpDMUj9sqakB/playlist.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=429857d76d3026b160d1c707e98cb6d4&key=a0c7cc8d78d42082af325149dbdd1aab"
+      },
+	     {
+        "name": "EURO COPA CHANNEL",
+        "ico": "https://i.ibb.co/MDH7gmv/Logo2024.webp",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c6eds/BBC_World_News/SA_Live_dash_enc/BBC_World_News.mpd",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "https://globalserver.tech/teleplay/panel/clv/BBC.json",
+        "prot": "0"
+        },
+		  {
+        "name": "V SPORT 1",
+        "ico": "https://cd-static.telenorcdn.net/cdepg/img/ngp/logo/800/50078-4.png",
+        "uri": "https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/644bb6e91dbc891fd422efc9/manifest.mpd",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4d808f2b9a74536cadbd95be141888ed&key=9dd89f67b8885dc65721a8b1fbeae700",
+        "prot": "0"
+        },
+		 {
+        "name": "V SPORT 2",
+        "ico": "https://cd-static.telenorcdn.net/cdepg/img/ngp/logo/800/50078-4.png",
+        "uri": "https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/644bb6e91dbc891fd422efef/manifest.mpd",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0d3ff38c34985fdd81a37567646322b9&key=6b4504297769acefae2e50920b7c8a77",
+        "prot": "0"
+        },
+		 {
+        "name": "V SPORT 3",
+        "ico": "https://cd-static.telenorcdn.net/cdepg/img/ngp/logo/800/50078-4.png",
+        "uri": "https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/644bb6ea1dbc891fd422f01e/manifest.mpd",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=fdcb8ee4623458e5832a92801fc723b1&key=634a67c44b7b7030872043df95c1a55e",
+        "prot": "0"
+        },
+		
+{
+        "name": "EUROSPORT 1",
+        "ico": "https://i.ibb.co/TLCzQJF/Eurosport-logo-2011-white.png",
+        "uri": "http://176.10.117.3:5000/play/a00g/index.m3u8",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+{
+        "name": "EUROSPORT 2",
+        "ico": "https://i.ibb.co/TLCzQJF/Eurosport-logo-2011-white.png",
+        "uri": "http://185.189.225.157/EuroSport2/index.m3u8",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+{
+        "name": "EUROSPORT 3",
+        "ico": "https://i.ibb.co/TLCzQJF/Eurosport-logo-2011-white.png",
+        "uri": "http://185.189.225.157/EuroSport2/index.m3u8",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "ELEVEN SPORTS 1",
+        "ico": "https://i.ibb.co/Qv8HQFW/344-3440838-eleven-sports-logo-eleven-sports-network-logo-hd-png.png",
+        "uri": "http://cdnx1.plusx.tv:8880/271/mono.m3u8?token=0e318668ba9b1d41dd3333",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "ELEVEN SPORTS 2",
+        "ico": "https://i.ibb.co/Qv8HQFW/344-3440838-eleven-sports-logo-eleven-sports-network-logo-hd-png.png",
+        "uri": "http://cdnx1.plusx.tv:8880/269/mono.m3u8?token=0e318668ba9b1d41dd3333",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+
+      {
+        "name": "ELEVEN SPORTS 3",
+        "ico": "https://i.ibb.co/Qv8HQFW/344-3440838-eleven-sports-logo-eleven-sports-network-logo-hd-png.png",
+        "uri": "http://cdnx1.plusx.tv:8880/272/mono.m3u8?token=0e318668ba9b1d41dd3333",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "ELEVEN SPORTS 4",
+        "ico": "https://i.ibb.co/Qv8HQFW/344-3440838-eleven-sports-logo-eleven-sports-network-logo-hd-png.png",
+        "uri": "http://cdnx1.plusx.tv:8880/272/mono.m3u8?token=0e318668ba9b1d41dd3333",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+   {
+        "name": "SETANTA SPORTS 1",
+        "ico": "https://setantasports.com/wp-content/uploads/2023/09/Group-5.svg",
+        "uri": "https://hls.sweet.tv/stream/qfq2fp954aui9guc8e4d5526tu8uudcnyj342af9kxq8sry8g7n44bwe5rw4k6q68mxhy99h7z5abid8gkju2pcund6c4x89hq96789999.m3u8",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+    {
+        "name": "SETANTA SPORTS KZ",
+        "ico": "https://setantasports.com/wp-content/uploads/2023/09/Group-5.svg",
+        "uri": "https://bkm.beetv.kz/btv/live/hls/000002649.m3u8",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+    {
+        "name": "JS 1",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/250px-J_Sports_Logo.svg.png",
+        "uri": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+    {
+        "name": "JS 2",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/250px-J_Sports_Logo.svg.png",
+        "uri": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+
+  {
+        "name": "JS 3",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/250px-J_Sports_Logo.svg.png",
+        "uri": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+  {
+        "name": "JS 3",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/250px-J_Sports_Logo.svg.png",
+        "uri": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+  {
+        "name": "JS 4",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/250px-J_Sports_Logo.svg.png",
+        "uri": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+  {
+        "name": "JS 4",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/250px-J_Sports_Logo.svg.png",
+        "uri": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+  {
+        "name": "SOLOCALCIO HD",
+        "ico": "https://i.ibb.co/10fwskd/Solocalcio.png",
+        "uri": "https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/PSEk9RaBZJEJr2o6mB6KSIgxRytBCplpxC-su6Sui53YnC42Ls8ixpQYDWSSzPLa1YqQK45Rah1C4ckx1qtsb_TROqIp-yrbEylcZJcCLbECOd0tsatQEcYhUqRtg7OeT9JyD0LPN5HlMryfkfvU58LH-ZMoaellhCWiddbqu3YknkUyg3mAMkZNmqd-t4NO/hls/index.m3u8",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+  {
+        "name": "PADEL TV",
+        "ico": "https://vhx.imgix.net/mypadel/assets/a32a0dbd-54aa-4959-a32b-128480904651.png",
+        "uri": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01970-mypadeldigitals-mypadeltv-samsungspain/playlist.m3u8",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+  {
+        "name": "SPORT TV 1",
+        "ico": "https://i.ibb.co/ncqv8TR/sporttv-logo.jpg",
+        "uri": "https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/RhxZd3p1-mb9MqWpLD2jyqcLAlKg_mZ070I66m5rZqBdP-A8KDca-gUeYPQibl5Ky-vxn7XU3LJclS_1e_HPmF0D2ORbygmySiGlnEppxCjWa1W2skanzcPJjTUIOPk2tpj6sIAp9Jzs4LWHalykvEOJn4k5e_PsVQRGMcu_mZME3RinOmOTFkpxraYA6-b8/hls/index.m3u8",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+    {
+        "name": "LA 1",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png",
+        "uri": "https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+		 {
+        "name": "TVE",
+        "ico": "https://c0.klipartz.com/pngpicture/264/436/gratis-png-television-espanol-tve-internacional-rtve-television-en-espana-obi-logo.png",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c6eds/TV_Espana/SA_Live_dash_enc/TV_Espana.mpd",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=53e0a3741e2e4ff5843f165b53309088&key=45095caabd9a359cd7ea3910d865d643",
+        "prot": "0"
+        },
+
+   {
+        "name": "RTVE",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Logo_RTVE.es.svg/150px-Logo_RTVE.es.svg.png",
+        "uri": "https://ztnr.rtve.es/ztnr/4952053.m3u8",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+ {
+        "name": "RTVE",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Logo_RTVE.es.svg/150px-Logo_RTVE.es.svg.png",
+        "uri": "https://ztnr.rtve.es/ztnr/5473142.m3u8",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+	   {
+        "name": "CHILE 24HS",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/9/92/24_horas_2023_logo.png",
+        "uri": "http://tv.proyectox.vip:8080/live/Hidr13odemsww/nTAuRWcTmD/3206.m3u8",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+
+      {
+        "name": "TVN",
+        "ico": "https://www.tvn.cl/tvn/site/artic/20220922/imag/foto_0000000120220922180533/logo_tvn.png",
+        "uri": "http://tv.proyectox.vip:8080/live/Hidr13odemsww/nTAuRWcTmD/1017.m3u8",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CHILEVISIÓN",
+        "ico": "https://static.wikia.nocookie.net/teleseries-chilenas/images/d/d4/Logo_CHV_2018.jpg/revision/latest?cb=20180216161715&path-prefix=es",
+        "uri": "http://tv.proyectox.vip:8080/live/Hidr13odemsww/nTAuRWcTmD/379451.m3u8",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "MEGA",
+        "ico": "https://static.epg.best/cl/Mega.cl.png",
+        "uri": "http://tv.proyectox.vip:8080/live/Hidr13odemsww/nTAuRWcTmD/153875.m3u8",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "TNT SPORTS",
+        "ico": "https://i.ibb.co/r0tmVNt/TNT-Sports-2024.png",
+        "uri": "http://tv.proyectox.vip:8080/live/Hidr13odemsww/nTAuRWcTmD/361898.m3u8",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+    {
+        "name": "TNT SPORTS 2",
+        "ico": "https://i.ibb.co/r0tmVNt/TNT-Sports-2024.png",
+        "uri": "http://tv.proyectox.vip:8080/live/Hidr13odemsww/nTAuRWcTmD/69931.m3u8",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+    {
+        "name": "TNT SPORTS 3",
+        "ico": "https://i.ibb.co/r0tmVNt/TNT-Sports-2024.png",
+        "uri": "http://tv.proyectox.vip:8080/live/Hidr13odemsww/nTAuRWcTmD/69931.m3u8",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CANAL 13",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Emblema_del_Canal_13_Chile.svg/1280px-Emblema_del_Canal_13_Chile.svg.png",
+        "uri": "http://tv.proyectox.vip:8080/live/Hidr13odemsww/nTAuRWcTmD/140909.m3u8",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "LA RED",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/La_Red_Logotipo_2021.svg/1024px-La_Red_Logotipo_2021.svg.png",
+        "uri": "http://tv.proyectox.vip:8080/live/Hidr13odemsww/nTAuRWcTmD/153874.m3u8",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "LA RED",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/La_Red_Logotipo_2021.svg/1024px-La_Red_Logotipo_2021.svg.png",
+        "uri": "https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CDO",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png",
+        "uri": "http://tv.proyectox.vip:8080/live/Hidr13odemsww/nTAuRWcTmD/180308.m3u8",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CDO 2",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png",
+        "uri": "http://tv.proyectox.vip:8080/live/Hidr13odemsww/nTAuRWcTmD/994.m3u8",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+     {
+        "name": "DIRECTV",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png",
+        "uri": "http://tv.proyectox.vip:8080/live/Hidr13odemsww/nTAuRWcTmD/361902.m3u8",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+     {
+        "name": "PURA NOTICIA",
+        "ico": "https://i.imgur.com/NklUi6Y.png",
+        "uri": "https://pnt.janusmedia.tv/hls/pnt.m3u8",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+	  
+ {
+        "name": "TVI PT",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/1/19/TVI_logo.jpg",
+        "uri": "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+ {
+        "name": "VTC HD",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Logo_VTC1HD.png",
+        "uri": "https://liveh12.vtvcab.vn/hls/ONVTC1_CL/01.m3u8",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+
+ {
+        "name": "BBC HD",
+        "ico": "https://www.pngall.com/wp-content/uploads/15/BBC-Logo-PNG-Photos.png",
+        "uri": "https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+ {
+        "name": "ARD 1",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/9/92/24_horas_2023_logo.png",
+        "uri": "https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+	   {
+        "name": "11 P. DEL ESTE",
+        "ico": "http://canal11.uy/wp-content/uploads/2015/12/log.png",
+        "uri": "https://5e50264bd6766.streamlock.net/canal11ury/videocanal11ury/chunklist_w1342566806.m3u8",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+
+ {
+        "name": "TVFLORIDA",
+        "ico": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlAkVxsRDVYd76hUXWZVSwGZnCak3ojF46XgBOzcIsQ9p2THoomoHhc7OorELAYgSiD1fs_I6l7U8qFFthuTdRwU6p15YRg71qOlH7zwv01AAHyuFL_Lu-LaBgLIOR8gW3HCSFT_Kc4YOi/w117-h117/canal-tvflorida-en-vivo_optimized.jpg",
+        "uri": "https://hostingservicios.info/memfs/752342c3-6c4f-41eb-a19c-db69643da6d0.m3u8",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+	   {
+        "name": "EVENTOS 1",
+        "ico": "https://globalserver.tech/teleplay/revendedor/assets/images/profile/perfil-tv.png",
+        "uri": "http://gtechtecnologia.com/dtv/474c4f424f205456204844.mpd",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d716974633523163a90912f20d40a50b&key=2e2945824b82c72bef9dc21c9f004784",
+        "prot": "0"
+        },
+	 {
+        "name": "GLOBO",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/686px-Globo_logo_and_wordmark.svg.png",
+        "uri": "http://gtechtecnologia.com/dtv/474c4f424f205456204844.mpd",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d716974633523163a90912f20d40a50b&key=2e2945824b82c72bef9dc21c9f004784",
+        "prot": "0"
+        },
+	 {
+        "name": "EVENTOS 2",
+        "ico": "https://globalserver.tech/teleplay/revendedor/assets/images/profile/perfil-tv.png",
+        "uri": "https://chromecast.cvattv.com.ar/live/c4eds/Eventos2_PY/SA_Live_dash_enc/Eventos2_PY.mpd",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0900ce66b82de0fd07aa8f12a48f29a2&key=e5556dba688fda637374ab5c87d7cda6",
+        "prot": "0"
+        },
+		{
+        "name": "TIGO SPORTS",
+        "ico": "https://cd-static.telenorcdn.net/cdepg/img/ngp/logo/800/50078-4.png",
+        "uri": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1c62a216a5fe423f959cb1ca02f62d83&key=54f2fdc83c1da33cd9269bf21e08218c",
+        "prot": "0"
+        },
+		{
+    "name": "SPORT TV 1",
+    "ico": "https://i.ibb.co/ncqv8TR/sporttv-logo.jpg",
+    "uri": "http://extraott.com:80/live/7921751389/6097373662/21231.m3u8",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  
+     {
+        "name": "SUN CHANNEL",
+        "ico": "https://seeklogo.com/images/S/sun-channel-oficial-logo-A64BBF363C-seeklogo.com.png",
+        "uri": "http://cdn.cvattv.com.ar/live/c6eds/Sun_Channel/SA_Live_dash_enc/Sun_Channel.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=158177692aa3463eae5f4e1f72403e9c&key=1c6c026fba9cf7ecb576c7bedce0ead4"
+      },
+   {
+        "name": "D NEWS",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/2/2d/DNews.png",
+        "uri": "https://1264-vos-da-mt.dtvott.com/v1/dash/f761a4100cd1d44ec919aa9543945ae7f63d684e/live_1264/DASH/manifest.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4812da5449a13158a603eac611dfe5da&key=76a8360ce811e5451fb4d3f69d0e48dd"
+      },
+  {
+        "name": "EURONEWS",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/1920px-Euronews_2022.svg.png",
+        "uri": "https://cdn.cvattv.com.ar/live/c6eds/Euronews/SA_Live_dash_enc/Euronews.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d86b0f56d32f45adb0a6b4e488c8f0c2&key=e4f180b0e61be3e80ab602df5e56ff3f"
+      },
+
+  {
+    "name": "TELESUR",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/319px-TeleSUR-Logo.svg.png",
+    "uri": "http://extraott.com:80/live/7921751389/6097373662/21231.m3u8",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+ {
+        "name": "FOX NEWS",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png",
+        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c6eds/Fox_News/SA_Live_dash_enc/Fox_News.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3fe3f31a5e7b48a1b548e9364757ce66&key=32993fc281207fe915f6f1e990957868"
+      },
+    {
+    "name": "CNN",
+    "ico": "https://static.wikia.nocookie.net/logopedia/images/b/b8/CNN-International-Logo.svg/revision/latest?cb=20091201100403",
+    "uri": "https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+ {
+        "name": "RAI ITALIA",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/512px-Rai_Italia_-_Logo_2017.svg.png",
+        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/RAI/SA_Live_dash_enc_2A/RAI.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d214547d7d9a4011a39a899ce6e70071&key=16c2ed0617cf1e123f3af6ea8875a82d"
+      },
+
+   {
+        "name": "TV5 MONDE",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/TV5MONDE_logo.png/798px-TV5MONDE_logo.png",
+        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/TV5_Monde/SA_Live_dash_enc_2A/TV5_Monde.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=62034ff5988b4787b17cdf6f751a3142&key=b3938f0af28b4c0c082b0d4210e389a0"
+      },
+   {
+        "name": "TV CHILE",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/TV5MONDE_logo.png/798px-TV5MONDE_logo.png",
+        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Tv_Chile/SA_Live_dash_enc_2A/Tv_Chile.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c5d0d76e24844235988f9265619e5fec&key=446b71a6deb806c6f129e25de999d07c"
+      },
+  {
+        "name": "CARACOL",
+        "ico": "https://logowik.com/content/uploads/images/caracol-tv-hd2766.logowik.com.webp",
+        "uri": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(CARACOL_INT)/manifest.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1211d1dba12d213a033be86bf5654c04&key=6cf032c1e40195189f39d91500743c64"
+      },
+    {
+    "name": "TV PERU",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/512px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png",
+    "uri": "https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+   {
+    "name": "BOLIVIA TV",
+    "ico": "https://static.wikia.nocookie.net/logopedia/images/7/7a/Bolivia_TV_2019_2.png/revision/latest?cb=20201219023007&path-prefix=es",
+    "uri": "https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }, 
+
+{
+    "name": "GOL TV",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/GOLTV.png/800px-GOLTV.png",
+    "uri": "http://tv.proyectox.vip:8080/live/Hidr13odemsww/nTAuRWcTmD/154242.m3u8",
+    "drm_scheme": "",
+    "drm_license_url": ""
+},
+{
+        "name": "ESPN ARG",
+        "ico": "https://cdn.broadbandtvnews.com/wp-content/uploads/2020/06/14111741/DAZN-300x225.jpg",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e884b711ab111beb8a7ba1e7bcbdc9bf&key=cb89ee3961599e3e648a5aad60895f34"
+      },
+{
+        "name": "ESPN 5990",
+        "ico": "https://cdn.broadbandtvnews.com/wp-content/uploads/2020/06/14111741/DAZN-300x225.jpg",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0b40ae9f78a7bac3b57ecbf72d3c081e&key=65a5bfa3c7a72dde60be9b0c7406c8fc"
+      },
+{
+        "name": "ESPN 90",
+        "ico": "https://cdn.broadbandtvnews.com/wp-content/uploads/2020/06/14111741/DAZN-300x225.jpg",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=65a5bfa3c7a72dde60be9b0c7406c8fc&key=0b40ae9f78a7bac3b57ecbf72d3c081e"
+      },
+
+ {
+        "name": "ESPN ARG333",
+        "ico": "https://cdn.broadbandtvnews.com/wp-content/uploads/2020/06/14111741/DAZN-300x225.jpg",
+        "uri": "https://edge-live11-hr.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=65a5bfa3c7a72dde60be9b0c7406c8fc&key=0b40ae9f78a7bac3b57ecbf72d3c081e"
+      },
+
+
+
+
+
+
