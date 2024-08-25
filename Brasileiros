@@ -1,0 +1,324 @@
+#EXTM3U x-tvg-url="https://repo.cdn.tv.br/html/programs.xml.gz"
+#EXTINF:0 type="stream" channelId="2467" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", TV Cultura
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4559
+#EXTINF:0 type="stream" channelId="2433" name="SBT" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", SBT
+https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="2432" name="Globo" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Globo
+https://cdn-4.nxplay.com.br/GLOBO_SP_TK/index.m3u8
+#EXTINF:0 type="stream" channelId="1031" name="RecordTV" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", RecordTV
+http://embedflix.net/canal/live.php?ch=4
+#EXTINF:0 type="stream" channelId="2435" name="RedeTV!" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", RedeTV!
+https://cdn.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="2434" name="Band SP" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Band SP
+https://cdn-3.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8?
+#EXTINF:0 type="stream" channelId="2573" name="Band News" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Band News
+https://cdn-1.nxplay.com.br/BAND_NEWS_TK/tracks-v1a1/mono.m3u8?
+#EXTINF:0 type="stream" channelId="2246" name="AXN HD" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", AXN HD
+https://cdn-3.nxplay.com.br/AXN_TK/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="2572" name="ARTE 1" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", ARTE 1 HD
+https://cdn-3.nxplay.com.br/ARTE1_TK/index.m3u8
+#EXTINF:0 type="stream" channelId="1208" name="A&E" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", A&E HD
+http://cdn-3.nxplay.com.br/AeE_BRASIL_TK/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="2501" name="AMC HD" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", AMC HD
+https://cdn-3.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
+#EXTINF:0 type="stream" channelId="240" name="Animal Planet HD" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Animal Planet HD
+https://cdn-3.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
+#EXTINF:0 type="stream" channelId="341" name="Discovery Channel HD" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Discovery Channel HD
+https://cdn-3.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
+#EXTINF:0 type="stream" channelId="2890" name="Discovery World HD" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Discovery World HD
+https://cdn-3.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
+#EXTINF:0 type="stream" channelId="1508" name="Discovery Science HD" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Discovery Science HD
+https://cdn-3.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
+#EXTINF:0 type="stream" channelId="2558" name="Discovery Theater HD" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Discovery Theater HD
+https://cdn-3.nxplay.com.br/DISCOVERY_THEATER_NX/index.m3u8
+#EXTINF:0 type="stream" channelId="1418" name="HGTV HD" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", HGTV HD
+https://cdn-3.nxplay.com.br/HGTV_BR_NX/index.m3u8
+#EXTINF:0 type="stream" channelId="2620" name="Discovery Home & Health" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Discovery Home & Health
+https://cdn-3.nxplay.com.br/DISCOVERY_HH_NX/index.m3u8
+#EXTINF:0 type="stream" channelId="2840" name="Discovery Turbo HD" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Discovery Turbo HD
+https://cdn-3.nxplay.com.br/DISCOVERY_TURBO/video.m3u8
+#EXTINF:0 type="stream" channelId="1720" name="Food Network HD" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Food Network HD
+https://cdn-1.nxplay.com.br/FOOD_NETWORK_NX/index.m3u8
+#EXTINF:0 type="stream" channelId="1200" name="Lifetime SD" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Lifetime SD
+https://cdn-3.nxplay.com.br/LIFE_TIME_TK/index.m3u8
+#EXTINF:0 type="stream" channelId="2577" name="Curta!" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Curta!
+https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2632" name="Film & Arts" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Film & Arts
+https://cdn-3.nxplay.com.br/Film_Arts_Brasil_TK/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="HALLO ANIME" group="CANAIS TV" logo="https://cittatelecom.com.br/sao-paulo/wp-content/uploads/sites/4/2023/09/HALLO-anime.png" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", HALLO ANIME
+https://cdn-2.nxplay.com.br/HALLOANIME/index.m3u8?
+#EXTINF:0 type="stream" channelId="-1" name="HALLO CLASSICOS" group="CANAIS TV" logo="https://cittatelecom.com.br/sao-paulo/wp-content/uploads/sites/4/2023/09/HALLO.png" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", HALLO CLASSICOS
+https://cdn-2.nxplay.com.br/HALLOCLASSIC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+#EXTINF:0 type="stream" channelId="-1" name="HALLO FILMES" group="CANAIS TV" logo="https://cittatelecom.com.br/sao-paulo/wp-content/uploads/sites/4/2023/09/HALLO.png" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", HALLO FILMES
+https://cdn-2.nxplay.com.br/HALLOMOVIES/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+#EXTINF:0 type="stream" channelId="-1" name="HALLO DOC" group="CANAIS TV" logo="https://cittatelecom.com.br/sao-paulo/wp-content/uploads/sites/4/2023/09/HALLO-doc.png" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", HALLO DOC
+https://cdn-2.nxplay.com.br/HALLODOC/index.m3u8?
+#EXTINF:0 type="stream" channelId="-1" name="HALLO MUSICAS" group="CANAIS TV" logo="https://cittatelecom.com.br/sao-paulo/wp-content/uploads/sites/4/2023/09/HALLO-music-fundo-transparente.png" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", HALLO MUSICAS
+https://cdn-2.nxplay.com.br/HALLOMUSIC/index.m3u8?
+#EXTINF:0 type="stream" channelId="-1" name="HALLO SERIES" group="CANAIS TV" logo="https://cittatelecom.com.br/sao-paulo/wp-content/uploads/sites/4/2023/09/HALLO-series.png" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", HALLO SERIES
+https://cdn-2.nxplay.com.br/HALLOSERIES/index.m3u8?
+#EXTINF:0 type="stream" channelId="-1" name="Runtime" group="CANAIS TV" logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Runtime
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62c5d32e2c48f9000715b6e9livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+#EXTINF:0 type="stream" channelId="-1" name="Runtime TV e Filmes HD" group="CANAIS TV" logo="https://img3.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_br_1920x1080_0.jpg" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Runtime TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+#EXTINF:0 type="stream" channelId="-1" name="Runtime Ação HD" group="CANAIS TV" logo="https://img2.static-ottera.com/prod/run/linear_channel/thumbnails/widescreen/366x206/runtime_br_action_bg.jpg" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Runtime Ação
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
+#EXTINF:0 type="stream" channelId="-1" name="Runtime Comédia HD" group="CANAIS TV" logo="https://img3.static-ottera.com/prod/run/linear_channel/logo/366x206/br_comedy_bg.jpg" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Runtime Comédia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
+#EXTINF:0 type="stream" channelId="-1" name="Runtime Família" group="CANAIS TV" logo="https://img3.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_familia_16x9_3_0.jpg" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Runtime Família
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
+#EXTINF:0 type="stream" channelId="-1" name="Runtime Romance" group="CANAIS TV" logo="https://img1.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_romance_16x9_2.jpg" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Runtime Romance
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
+#EXTINF:0 type="stream" channelId="-1" name="Runtime Crime" group="CANAIS TV" logo="https://img3.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_crime_16x9_1.jpg" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Runtime Crime
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
+#EXTINF:0 type="stream" channelId="-1" name="Runtime Cine Espanto" group="CANAIS TV" logo="https://img3.static-ottera.com/prod/run/linear_channel/thumbnails/widescreen/366x206/runtime_cinespanto_16x9_1.jpg" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Runtime Cine Espanto
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
+#EXTINF:0 type="stream" channelId="-1" name="Runtime Toons" group="CANAIS TV" logo="https://img1.static-ottera.com/prod/run/linear_channel/logo/366x206/uLDVczoJETxKCu1UvzcUeCk5yNN8c-Dm2UuMf7ybPQw.jpg" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Runtime Toons
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
+#EXTINF:0 type="stream" channelId="-1" name="MOVIE SPHERE" group="CANAIS TV" logo="https://img1.static-ottera.com/prod/run/linear_channel/thumbnails/widescreen/366x206/logo_1.jpg" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Runtime Movie Sphere
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8?
+#EXTINF:0 type="stream" channelId="-1" name="TVZYN" group="CANAIS TV" logo="https://img1.static-ottera.com/prod/run/linear_channel/thumbnails/widescreen/366x206/tv_zyn_thumbnail.jpg" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Runtime TVZYN
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5w3mfvzg9saoi/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1330" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", HBO
+https://brflu.walk-tv.com/5891/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="935" name="HBO 2 HD" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", HBO 2 HD
+https://brflu.walk-tv.com/5857/index.m3u8
+#EXTINF:0 type="stream" channelId="2585" name="HBO PLUS" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", HBO PLUS
+https://brflu.walk-tv.com/5893/index.m3u8
+#EXTINF:0 type="stream" channelId="2583" name="HBO SIGNATURE" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", HBO SIGNATURE
+https://brflu.walk-tv.com/5861/index.m3u8
+#EXTINF:0 type="stream" channelId="2584" name="HBO Family" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", HBO Family
+https://brflu.walk-tv.com/5859/index.m3u8
+#EXTINF:0 type="stream" channelId="1303" name="FX" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", FX
+https://brflu.walk-tv.com/5855/index.m3u8
+#EXTINF:0 type="stream" channelId="59" name="ID HD" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", ID HD
+https://cdn-3.nxplay.com.br/DISCOVERY_ID/index.m3u8
+#EXTINF:0 type="stream" channelId="1040" name="TLC HD" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", TLC HD
+https://cdn-3.nxplay.com.br/TLC_BR_NX/index.m3u8
+#EXTINF:0 type="stream" channelId="1456" name="History HD" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", History HD
+https://cdn-3.nxplay.com.br/HISTORY_TK/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="1202" name="History 2 HD" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", History 2 HD
+http://cdn-3.nxplay.com.br/HISTORY_2_TK/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Life Channel Brasil" group="CANAIS TV" logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/99c3b9e26fccf483d6432e70777816ca.webp" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Life Channel Brasil
+http://cdn2.connectbr.com.br/life/playlist.m3u8?ManoTV
+#EXTINF:0 type="stream" channelId="-1" name="Rakuten Documentários | português e inglês" group="CANAIS TV" logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Rakuten_TV_2017_logo.png" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Rakuten Documentários
+https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8?ManoTV
+#EXTINF:0 type="stream" channelId="5077" name="REDE SUPER" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", REDE SUPER
+https://cdn-2.nxplay.com.br/REDE_SUPER/index.m3u8?
+#EXTINF:0 type="stream" channelId="2593" name="Prime box Brazil" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Prime box Brazil
+http://cdn-3.nxplay.com.br/PRIME_HD/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="MyTime Movies" group="CANAIS TV" logo="https://img.vidks.net/v2x/l/mytime-movie-brazil.webp?b102" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", MyTime Movies
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8?ManoTV
+#EXTINF:0 type="stream" channelId="530" name="Canal Sony HD" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Canal Sony HD
+https://cdn-3.nxplay.com.br/SONY_CHANNEL/index.m3u8
+#EXTINF:0 type="stream" channelId="1214" name="Sony Movies HD" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Sony Movies
+https://cdn-3.nxplay.com.br/SONY_MOVIES/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Sony One Classics" group="CANAIS TV" logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/560dfea6-13fc-45c5-abb5-0692213c6010/dfz5di7-2f12463b-059e-4dba-a261-043a94caa4dd.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU2MGRmZWE2LTEzZmMtNDVjNS1hYmI1LTA2OTIyMTNjNjAxMFwvZGZ6NWRpNy0yZjEyNDYzYi0wNTllLTRkYmEtYTI2MS0wNDNhOTRjYWE0ZGQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.fle-Ljwl0-VZitnieUChaKahpxlgd20HftAl-xutZSU" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Sony One Classics
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="SONY ONE EMOCOES" group="CANAIS TV" logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/560dfea6-13fc-45c5-abb5-0692213c6010/dfz5di7-2f12463b-059e-4dba-a261-043a94caa4dd.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU2MGRmZWE2LTEzZmMtNDVjNS1hYmI1LTA2OTIyMTNjNjAxMFwvZGZ6NWRpNy0yZjEyNDYzYi0wNTllLTRkYmEtYTI2MS0wNDNhOTRjYWE0ZGQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.fle-Ljwl0-VZitnieUChaKahpxlgd20HftAl-xutZSU" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Sony One Emoçoes
+https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8?ManoTV
+#EXTINF:0 type="stream" channelId="177" name="STAR CHANNEL" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", STAR CHANNEL
+http://cdn2.connectbr.com.br:80/Star/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="4226" name="SPTV" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", SPTV
+https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2588" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Megapix
+https://brflu.walk-tv.com/5897/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="2603" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Telecine Action
+https://brflu.walk-tv.com/5875/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="2608" name="Telecine Pipoca" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Telecine Pipoca
+https://brflu.walk-tv.com/5877/index.m3u8
+#EXTINF:0 type="stream" channelId="2606" name="Telecine Fun" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Telecine Fun
+https://brflu.walk-tv.com/5901/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="2610" name="Telecine Premium" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Telecine Premium
+https://brflu.walk-tv.com/5879/index.m3u8
+#EXTINF:0 type="stream" channelId="2605" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Telecine Cult
+https://brflu.walk-tv.com/5899/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="2611" name="Telecine Touch" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Telecine Touch
+https://brflu.walk-tv.com/5880/index.m3u8
+#EXTINF:0 type="stream" channelId="1052" name="TNT HD" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", TNT
+https://cdn-3.nxplay.com.br/TNT_TK/index.m3u8
+#EXTINF:0 type="stream" channelId="2557" name="Warner Channel" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Warner Channel
+http://cdn-3.nxplay.com.br/WARNER_CHANNEL/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="1719" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Paramount Channel
+https://brflu.walk-tv.com/5827/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="2625" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Studio Universal
+https://brflu.walk-tv.com/5834/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="3229" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", USA
+http://38.110.1.93:14570/udp/233.7.70.128:5000
+#EXTINF:0 type="stream" channelId="1192" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", syfy HD
+https://brflu.walk-tv.com/5835/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="2896" name="SPACE HD [Alter]" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", SPACE
+https://cdn-3.nxplay.com.br/SPACE_TK/index.m3u8
+#EXTINF:0 type="stream" channelId="1326" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Cinemax
+https://brflu.walk-tv.com/5783/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="2686" name="TNT Séries" group="CANAIS TV" logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", TNT Séries
+https://cdn-3.nxplay.com.br/TNT_SERIES_TK/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="TNT NOVELAS" group="CANAIS TV" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/640px-Logo_TNT_Novelas.png" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", TNT NOVELAS
+http://cdn-3.nxplay.com.br/TNT_NOVELAS_TK/index.m3u8?
+#EXTINF:0 type="stream" channelId="40" name="Cartoon Network" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Cartoon Network
+http://cdn-3.nxplay.com.br/CARTOON_NETWORK_TK/tracks-v1a1/mono.m3u8?
+#EXTINF:0 type="stream" channelId="1305" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Cartoonito
+https://cdn-3.nxplay.com.br/CARTOONITO_TK/index.m3u8
+#EXTINF:0 type="stream" channelId="19" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Disney channel
+https://brflu.walk-tv.com/5787/tracks-v1a1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="334" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Nickelodeon HD
+https://brflu.walk-tv.com/5825/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="2505" name="DISCOVERY KIDS HD" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", DISCOVERY KIDS HD
+https://cdn-3.nxplay.com.br/DISCOVERY_KIDS_NX/tracks-v1a1/mono.m3u8?
+#EXTINF:0 type="stream" channelId="2581" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", GLOOB
+https://brflu.walk-tv.com/5812/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="DREAM WORKS" group="CANAIS TV" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/1200px-DreamWorks_Channel_Logo.svg.png" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Dreamworks
+https://cdn-3.nxplay.com.br/DREAMWORKS/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Tooncast HD" group="CANAIS TV" logo="https://cittatelecom.com.br/sao-paulo/wp-content/uploads/sites/4/2022/02/tooncast.png" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Tooncast HD
+https://cdn-3.nxplay.com.br/TOONCAST_TK/index.m3u8
+#EXTINF:0 type="stream" channelId="2908" name="Zoomoo" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Zoomoo
+https://cdn-3.nxplay.com.br/ZOOMOO_HD_NX_TK/index.m3u8
+#EXTINF:0 type="stream" channelId="2616" name="ViVA" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", ViVA
+https://brflu.walk-tv.com/5850/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="2582" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", GNT
+https://brflu.walk-tv.com/5813/index.m3u8
+#EXTINF:0 type="stream" channelId="3545" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", TCM HD
+https://brflu.walk-tv.com/5837/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="895" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", TCM
+https://cdn-2.nxplay.com.br/TCM_TK/index.m3u8?
+#EXTINF:0 type="stream" channelId="2590" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Multishow
+https://brflu.walk-tv.com/5822/index.m3u8
+#EXTINF:0 type="stream" channelId="1190" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Comedy Central
+https://brflu.walk-tv.com/5867/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="3126" name="Trace Brasil" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Trace Brasil
+https://cdn-3.nxplay.com.br/TRACE_BRAZUCA/index.m3u8
+#EXTINF:0 type="stream" channelId="3442" name="Trace Sport Stars" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Trace Sport Stars
+https://cdn-3.nxplay.com.br/TRACE_SPORT/index.m3u8
+#EXTINF:0 type="stream" channelId="2594" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Canal OFF
+https://brflu.walk-tv.com/5826/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="2576" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Canal Brasil
+https://brflu.walk-tv.com/5796/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CANAIS TV" logo="https://provider-static.plex.tv/epg/cms/production/8430bfd1-b119-4f3d-8992-8921cad397e2/dark_matter_tv_logo_dark.png" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Dark Matter
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_darkmatter_002.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CANAIS TV" logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/homefull.png" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Home Full
+https://cc-9flatd4lam6vc.akamaized.net/5.m3u8
+#EXTINF:0 type="stream" channelId="1973" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", MTV
+https://brflu.walk-tv.com/5821/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="2617" name="Woohoo Surf" group="CANAIS TV" logo="http://tv.mapfibra.com.br/logos_menu/WOOHOO.png" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Woohoo
+http://cdn-3.nxplay.com.br/WOOHOO_TK/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CANAIS TV" logo="https://imagens.nxplay.com.br/658c5034ea23c_2c1322ea5c0a2ed883ce6389af8cfeb2.png" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", WooHoo Surf
+https://cdn-3.nxplay.com.br/WOOHOO_FAST/tracks-v1a1/mono.m3u8?
+#EXTINF:0 type="stream" channelId="2623" name="Play TV" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Play TV
+https://isaocorp.cloudecast.com/playtv/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CANAIS TV" logo="https://geekdot.live/wp-content/uploads/2023/08/cropped-esi-180x180.png" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Geekdot
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CANAIS TV" logo="https://www.xtremetv.com.br/public/29744-2024-03-07.png" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", XtremeTV
+https://stmv1.srvif.com/xtremetv/xtremetv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CANAIS TV" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Loading_TV.svg/1920px-Loading_TV.svg.png" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Loading
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="745" group="CANAIS TV" logo="https://img.vidks.net/v2x/l/anime-tv.webp?b102" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", AnimeTV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CANAIS TV" logo="https://img.vidks.net/v2x/l/wording.webp?b102" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Wording
+https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CANAIS TV" logo="https://img.vidks.net/v2x/l/anime-station.webp?b102" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", AnimeStation
+https://stmv1.srvif.com/otaku/otaku/paylist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CANAIS TV" logo="https://sato.tv.br/wp-content/uploads/2021/06/logo-sato-1.png" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Sato+
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4388
+#EXTINF:0 type="stream" channelId="1137" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Hello Tv
+http://cdn.connectbr.com.br:80/Hello/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CANAIS TV" logo="https://www.ubisoftbrasil.tv/themes/custom/ubl/ubisoft_tv/logo.png" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Ubsoft Tv
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6291
+#EXTINF:0 type="stream" channelId="-1" group="CANAIS TV" logo="https://canalstart.com.br/site/assets/img/logo.webp" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Canal Start
+https://stmv1.srvif.com/canalstart/canalstart/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CANAIS TV" logo="https://img.vidks.net/v2x/l/darkflix-tv.webp?b102" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", DarkFlix
+https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8?
+#EXTINF:0 type="stream" channelId="-1" group="CANAIS TV" logo="https://d14z5zgripclfw.cloudfront.net/account856-i854/channel/5/thumb_BORA-1597857054.png" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Bora Filmes
+https://cdn-3.nxplay.com.br/BORA_FILMES/index.m3u8?
+#EXTINF:0 type="stream" channelId="-1" group="CANAIS TV" logo="http://baitaconteudo.com/wp-content/uploads/2021/10/entretendo_newLogo.png" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Entretendo
+http://cdn.connectbr.com.br/Entretendo/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CANAIS TV" logo="https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", K pop tv play
+https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CANAIS TV" logo="https://play-lh.googleusercontent.com/DNfPCtTBPrgZYJB8Af8riMIki3gaPKrMs5cHI4ALFs3zS5-DHZACQtOpJAbHnFX0jQ" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", The Kpop
+https://ythls.armelin.one/channel/UCoRXPcv8XK5fAplLbk9PTww.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CANAIS TV" logo="https://upload.wikimedia.org/wikipedia/en/9/92/Show_Champion_Logo.png" aspect-ratio="3:2" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", New Kpop
+https://newidco-newkid-1-br.lg.wurl.tv/3000.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CANAIS TV" logo="http://tv.mapfibra.com.br/logos_menu/PLAYPOCAFILMES.png" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Playpoca Filmes
+http://168.205.87.198:8555/live/1427/123456/238.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CANAIS TV" logo="http://tv.mapfibra.com.br/logos_menu/PLAYPOCASERIES.png" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Playpoca Series
+http://168.205.87.198:8555/live/1427/123456/239.m3u8
+#EXTINF:0 type="stream" channelId="280" group="CANAIS TV" logo="http://tv.mapfibra.com.br/logos_menu/FASHIONTV.png" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Fashion Tv
+http://168.205.87.198:8555/live/1427/123456/260.m3u8
+#EXTINF:0 type="stream" channelId="2614" name="TV RA TIM BUM" group="CANAIS TV" logo="http://tv.mapfibra.com.br/logos_menu/RATIMBUM.png" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Rá-Tim-Bum
+http://cdn-3.nxplay.com.br/TV_RA_TIM_BUM/index.m3u8?
+#EXTINF:0 type="stream" channelId="-1" group="CANAIS TV" logo="http://tv.mapfibra.com.br/logos_menu/AWTV.png" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Awtv
+http://168.205.87.198:8555/live/1427/123456/181.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CANAIS TV" logo="http://tv.mapfibra.com.br/logos_menu/CHESPIRITO.png" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Chesperito
+http://168.205.87.198:8555/live/1427/123456/159.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CANAIS TV" logo="http://tv.mapfibra.com.br/logos_menu/S%C3%89RIESCL%C3%81SSICAS.png" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Series Classicas
+http://168.205.87.198:8555/live/1427/123456/107.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CANAIS TV" logo="http://tv.mapfibra.com.br/logos_menu/KIDS.png" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Kids
+http://168.205.87.198:8555/live/1427/123456/143.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CANAIS TV" logo="http://tv.mapfibra.com.br/logos_menu/E-MUSICBLACK.png" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", E-Black
+https://cdn-3.nxplay.com.br/MEGA_TK/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CANAIS TV" logo="http://tv.mapfibra.com.br/logos_menu/E-MUSICPOP.png" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", E-Pop
+https://cdn-3.nxplay.com.br/Cult_TK/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CANAIS TV" logo="http://tv.mapfibra.com.br/logos_menu/E-MUSICHITS.png" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", E-Hits
+https://cdn-3.nxplay.com.br/HITTS_TK/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CANAIS TV" logo="http://tv.mapfibra.com.br/logos_menu/E-MUSICCLASSICS.png" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", E-Classicos
+https://cdn-3.nxplay.com.br/CLASSICHITS_TK/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CANAIS TV" logo="http://tv.mapfibra.com.br/logos_menu/E-MUSICLATINO.png" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", E-Latino
+https://cdn-3.nxplay.com.br/AMERICOLATINO_TK/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CANAIS TV" logo="http://tv.mapfibra.com.br/logos_menu/E-MUSICPARTY.png" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", E-Party
+https://cdn-3.nxplay.com.br/BRAmusic_TK/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CANAIS TV" logo="http://tv.mapfibra.com.br/logos_menu/E-MUSICROCK.png" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", E-Rock
+http://168.205.87.198:8555/live/1427/123456/237.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CANAIS TV" logo="https://imagens.nxplay.com.br/663e1b3b8ca41_edde9d18864d83b7873ab172cdea787d.png" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Parafernalha
+https://cdn-3.nxplay.com.br/parafernaria/tracks-v1a1/mono.m3u8?
+#EXTINF:0 type="stream" channelId="-1" group="CANAIS TV" logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/GRJNGO_POR__1000x1000_circle.png?$ORIGIN_PNG$" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Grjngo Filmes de Faroeste
+http://d1ve86tcjfn74e.cloudfront.net/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CANAIS TV" logo="https://imagens.nxplay.com.br/663e1d46aee73_b1a2984c3f9ad40e8421e779c53a0b88.png" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", So Play Fuel Tv
+https://cdn-3.nxplay.com.br/FUEL_TV_BROADPEAK/index.m3u8?
+#EXTINF:0 type="stream" channelId="-1" group="CANAIS TV" logo="https://imagens.nxplay.com.br/65a9632777c74_5bfe78f974953c4be4976d2e8ac2b1d0.png" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", So Play Ação
+http://cdn-3.nxplay.com.br/soplay_acao/tracks-v1a1/mono.m3u8?
+#EXTINF:0 type="stream" channelId="-1" group="CANAIS TV" logo="https://imagens.nxplay.com.br/65a9659b317b8_f145d55d985ad3fe5e9696d43d338198.png" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", So Play Nacional
+https://cdn-3.nxplay.com.br/europaplay/tracks-v1a1/mono.m3u8?
+#EXTINF:0 type="stream" channelId="-1" name="HTO FILMES" group="CANAIS TV" logo="https://imagens.nxplay.com.br/652da95f231d6_b8d5ca089b29e7f557b46d3f5612bae8.png" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", So Play Hto Filmes
+https://cdn-3.nxplay.com.br/HTO_Filmes/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CANAIS TV" logo="http://tv.mapfibra.com.br/logos_menu/BOXBRASILPLAY.png" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Box Brazil Play
+http://168.205.87.198:8555/live/1427/123456/258.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CANAIS TV" logo="http://tv.mapfibra.com.br/logos_menu/BOXKIDSTV.png" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Box Kids
+http://168.205.87.198:8555/live/1427/123456/259.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CANAIS TV" logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/45d06aa9853eca087126b08d34e90543.webp" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Cine Tv Hits
+https://stmv1.conectastreaming.com/hitstv/hitstv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CANAIS TV" logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8496a9f383a5f83083b72d70b3d1ca2b.webp" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Emotion Tv
+https://stmv1.srvif.com/emotion/emotion/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CANAIS TV" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfGzOTrxmkTPDVqMtSUubS86lbH2qdyu4JGnhbdM5BWA&s" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Tv Aracati
+https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CANAIS TV" logo="https://www.glntv.com.br/admin/assets/img/logo.png?May172024620pm08" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Gln Tv
+https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CANAIS TV" logo="https://play-lh.googleusercontent.com/GSTgH13yI5fo0t4TqEe8cd9y94fEtdIlxSS54evCGMuEMHI71N14Dnq6jUJvcgPpOA" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Tv Mais Brasil
+https://stmv1.paineltv.net/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CANAIS TV" logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ad61476e5c6bb78d3f6893528d82ee40.webp" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Tv Litoral
+https://video01.logicahost.com.br/tvlitoralrn/tvlitoralrn/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CANAIS TV" logo="data:image/png;base64,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" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Clubinho Fun
+http://cdn.connectbr.com.br:80/Clubinho/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CANAIS TV" logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/MyTime_Movie_Network_476x476circle.png?$ORIGIN_PNG$" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", MyTime Movie Network
+http://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CANAIS TV" logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/Nosey_Escandalos_476x476Circle.png?$ORIGIN_PNG$" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Nosey Escândalos
+https://nosey-4-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CANAIS TV" logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/AngerManagement_Samsung_BR_Circle_476x476.png?$ORIGIN_PNG$" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Tratamento de Choque
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-tratamentodechoque-runtimelatam/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CANAIS TV" logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/TPC_SAMSUNG_CIRCLE_1000x1000.png?$ORIGIN_PNG$" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", The Pet Collective
+https://the-pet-collective-international-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CANAIS TV" logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/FailArmy_476x476circle.png?$ORIGIN_PNG$" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", FailArmy
+https://failarmy-international-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CANAIS TV" logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/samsungtvplus_jflgags_circle_1000x1000_en_Carlos_Pacheco.png?$ORIGIN_PNG$" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Just For Laughts GAGS
+https://distributionsjustepourrire-justforlaughsgags-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CANAIS TV" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Filmrise.svg/1200px-Filmrise.svg.png" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", FILMRISE
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_filmrisefreeseries_002.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CANAIS TV" logo="https://play-lh.googleusercontent.com/A9_fFGyVCaGvLabtDayHp-wGioER4GkcesRvoC0yi4FjcfnIHjRoUejUBv1ldOFsAkY=w240-h480-rw" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", Vila Tv
+https://streamserver.streamingdevideo.com.br/8072/8072/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CANAIS TV" logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/PlayPlus.png" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", PlayPlus 1
+http://embedflix.net/canal/live.php?ch=1
+#EXTINF:0 type="stream" channelId="-1" group="CANAIS TV" logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/PlayPlus.png" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", PlayPlus 2
+http://embedflix.net/canal/live.php?ch=2
+#EXTINF:0 type="stream" channelId="2595" group="CANAIS TV" size="Medium" background="https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg", COMBATE
+https://brflu.walk-tv.com/5865/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 channel-id="pluto-5f5a545d0dbf7f0007c09408" tvg-id="5f5a545d0dbf7f0007c09408" tvg-logo="https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/colorLogoPNG.png" tvg-chno="66" group-title="" , Pluto TV Filmes Nacionais
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=e1760207-0a78-8a50-619d-f898605668f9&advertisingId=e1760207-0a78-8a50-619d-f898605668f9&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
