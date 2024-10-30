@@ -10096,29 +10096,12 @@ https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_116/output/manifes
 #EXTINF:-1 tvg-id="ts35" group-title="TATA - VPN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-108-j5fl5wwg-v3/imageContent-108-j5fl5wwg-m3.png" ,SONY SPORTS TEN 5 HD
 https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_254/output/manifest.mpd
 
-Peliculas y Series 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"9T0xZ+8zORev6zzUJKmZmA", "kid":"xx3WP0EaUJmESnP76FDJ/Q"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="ts35" group-title="TATA - VPN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-108-j5fl5wwg-v3/imageContent-108-j5fl5wwg-m3.png" ,SONY SPORTS TEN 5 HD
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_254/output/manifest.mpd
 
-{
-  "provider": {
-    "epg": "url/to/epg/xml.gz"
-  },
-  "categories": {
-    "main": {
-      "name": "MOVIES",
-      "name:es": "PELICULS Y SERIES"
-    }
-  },
-  "channels": [
-    {
-      "category": "TERROR",
-      "name": "LA PISCINA",
-      "name:es": "La piscina (2024)\n",
-      "url": "http://multiplay.plus:8080/movie/eG1Gn92EniDGmv4/62883xx52773M/495399.mkv"
-    }
-  ]
-}
-
-
-
-
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP: PELICULAS Y SERIES
+#EXTINF:-1 tvg-id="LA PISCINA" group-title="PELICULAS Y SERIES" tvg-logo="" ,LA PISCINA
+http://multiplay.plus:8080/movie/eG1Gn92EniDGmv4/62883xx52773M/495399.mkv
