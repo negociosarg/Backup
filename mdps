@@ -10098,24 +10098,25 @@ https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_254/output/manifes
 
 Peliculas y Series 
 
-[
-
-  {
-    "name": "La piscina (2024)\n",
-    "name:lv": "Testa video",
-    "category": "Action",
-    "info": {
-      "poster": "https://image.tmdb.org/t/p/w780/bHy9CZdMeH1cnQnsTcyaGu7Yiz.jpg",
-      "rating": "5.5",
-      "genre": [
-        "drama",
-        "history"
-      ]
-    },
-    "video": "http://multiplay.plus:8080/movie/eG1Gn92EniDGmv4/62883xx52773M/495399.mkv"}]
- 
-
-
+{
+  "provider": {
+    "epg": "url/to/epg/xml.gz"
+  },
+  "categories": {
+    "main": {
+      "name": "MOVIES",
+      "name:es": "PELICULS Y SERIES"
+    }
+  },
+  "channels": [
+    {
+      "category": "TERROR",
+      "name": "LA PISCINA",
+      "name:es": "La piscina (2024)\n",
+      "url": "http://multiplay.plus:8080/movie/eG1Gn92EniDGmv4/62883xx52773M/495399.mkv"
+    }
+  ]
+}
 
 
 
