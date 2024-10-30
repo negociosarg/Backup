@@ -10096,8 +10096,58 @@ https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_116/output/manifes
 #EXTINF:-1 tvg-id="ts35" group-title="TATA - VPN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-108-j5fl5wwg-v3/imageContent-108-j5fl5wwg-m3.png" ,SONY SPORTS TEN 5 HD
 https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_254/output/manifest.mpd
 
-
-
+Peliculas y Series 
+[
+  {
+    "name": "La piscina (2024)\n",
+    "name:lv": "Testa video",
+    "category": "Action",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w780/bHy9CZdMeH1cnQnsTcyaGu7Yiz.jpg",
+      "rating": "5.5",
+      "genre": [
+        "drama",
+        "history"
+      ]
+    },
+    "video": "http://multiplay.plus:8080/movie/eG1Gn92EniDGmv4/62883xx52773M/495399.mkv"
+  },
+  {
+    "name": "Test serial",
+    "category": "Drama",
+    "info": {
+      "genre": [
+        "drama",
+        "history"
+      ]
+    },
+    "seasons": [
+      {
+        "season": 1,
+        "info": {
+          "genre": [
+            "drama",
+            "history"
+          ]
+        },
+        "episodes": [
+          {
+            "episode": 1,
+            "name": "Intro",
+            "info": {
+              "plot": "Something happens...",
+              "cast": [
+                "John Dow1",
+                "Jane Dow2"
+              ]
+            },
+            "video": "http://episodes/file.mp4"
+          }
+        ]
+      }
+    ]
+  }
+]
 
 
 
