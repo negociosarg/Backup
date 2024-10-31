@@ -37,6 +37,9 @@ https://unlimited1-buenosaires.dps.live/carastv/carastv.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="107" tvg-id="TVPublicaHD.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/C7TVP.png?raw=true" group-title="Nacionales", TV Pública
 https://chromecast.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_2A/Canal7.mpd
 
+
+CORDOBA
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=103ce214b4d04c8eb4dd43670e956dad:20e030576b8dc4df0d1c68e16af3bc0f
 #EXTINF:-1 tvg-id="TelefeCordoba.ar" tvg-logo="https://git.io/JOTOu" group-title="Córdoba", Telefé Córdoba
