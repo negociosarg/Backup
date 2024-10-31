@@ -206,7 +206,7 @@ https://chromecast.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc/T
 #EXTINF:-1 tvg-chno="281" tvg-id="TNTSportsHDArgentina.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSP.png?raw=true" group-title="🇦🇷 Pack Fútbol", TNT Sports
 https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd
 
-#EXTINF:-1 tvg-id="TNT.Premium.ar" tvg-logo="https://i.imgur.com/84erChI.png" tvg-group="🇦🇷 Pack Fútbol",TNT Sports Argentina (FULL HD)
+#EXTINF:-1 tvg-id="TNT.Premium.ar" tvg-logo="https://i.imgur.com/84erChI.png" tvg-group="🇦🇷 Pack Fútbol",TNT Sports FHD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
 http://vps-4088879-x.dattaweb.com/3516820717/3516820717/174.m3u8
@@ -216,7 +216,7 @@ http://vps-4088879-x.dattaweb.com/3516820717/3516820717/174.m3u8
 #EXTINF:-1 tvg-chno="280" tvg-id="ESPNPremiumHD.ar" tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" group-title="🇦🇷 Pack Fútbol", ESPN Premium
 https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" group-title="🇦🇷 Pack Fútbol", ESPN PREMIUM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" group-title="🇦🇷 Pack Fútbol", ESPN Premium 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
 https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd
@@ -233,7 +233,7 @@ http://chromecast.cvattv.com.ar/live/c4eds/ESPN2_UY/SA_Live_dash_enc/ESPN2_UY.mp
  
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed53871dc50dcdc59a6271db3c8c51b3:0c21dc8629e3f2e6fe9efa8b80dc447e
-#EXTINF:-1 tvg-id="ESPN 3 HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/85/CH_LOGO/800/542/0/0/85904894074972.png" group-title="deportes", ESPN 3
+#EXTINF:-1 tvg-id="ESPN 3 HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/85/CH_LOGO/800/542/0/0/85904894074972.png" group-title="Deportes", ESPN 3
 https://chromecast.cvattv.com.ar/live/c7eds/ESPN3_Uy-Py/SA_Live_dash_enc/ESPN3_Uy-Py.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
