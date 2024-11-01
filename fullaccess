@@ -3756,17 +3756,17 @@ http://vps-4088879-x.dattaweb.com/3516820717/3516820717/31.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aVeC39m.png" tvg-group="🇦🇷 Argentina",DW Español
 http://vps-4088879-x.dattaweb.com/3516820717/3516820717/32.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2RXRCwv.jpg" tvg-group="Internacionales",BBC News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2RXRCwv.jpg" tvg-group="🌍 Internacionales",BBC News
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=019f72f2091d4cbea59ff8c85b117f86:a4eac51195506752f9f63ad24def9c37
 http://vps-4088879-x.dattaweb.com/3516820717/3516820717/33.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ypQ4ZwG.png" tvg-group="Internacionales",FOX News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ypQ4ZwG.png" tvg-group="🌍 Internacionales",FOX News
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fe3f31a5e7b48a1b548e9364757ce66:32993fc281207fe915f6f1e990957868
 http://vps-4088879-x.dattaweb.com/3516820717/3516820717/34.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LW2tfHT.jpg" tvg-group="Internacionales",AccuWeather Now
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LW2tfHT.jpg" tvg-group="🌍 Internacionales",AccuWeather Now
 http://vps-4088879-x.dattaweb.com/3516820717/3516820717/35.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0DgkRgd.png" tvg-group="Locales",Teledoce
@@ -3815,35 +3815,35 @@ http://vps-4088879-x.dattaweb.com/3516820717/3516820717/45.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" tvg-group="MX",Azteca Internacional
 http://vps-4088879-x.dattaweb.com/3516820717/3516820717/46.m3u8
  
-#EXTINF:-1 tvg-id="Cable.News.Network.en.EspaÃ±ol.(Latin.America).(CNNESP).ar" tvg-logo="https://i.imgur.com/Dp7ZOqr.png" tvg-group="Internacionales",CNN En Español
+#EXTINF:-1 tvg-id="Cable.News.Network.en.EspaÃ±ol.(Latin.America).(CNNESP).ar" tvg-logo="https://i.imgur.com/Dp7ZOqr.png" tvg-group="🌍 Internacionales",CNN En Español
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b20ed9da0e5457c9dfd3ae0b6092491:98997a7020c18cb28174a2490147830a
 http://vps-4088879-x.dattaweb.com/3516820717/3516820717/47.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hKwhUfb.png" tvg-group="Internacionales",Antena 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hKwhUfb.png" tvg-group="🌍 Internacionales",Antena 3
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1e1ad422a6714482b66fa702c16e50c6:4fdf28a0ab91356ca55a75f4e9bf8c92
 http://vps-4088879-x.dattaweb.com/3516820717/3516820717/48.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7qmszS8.png" tvg-group="Internacionales",A3 Cine
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7qmszS8.png" tvg-group="🌍 Internacionales",A3 Cine
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d6ff881a6f07986a80d6ad6f041b57d4:b401c87c2ab11a1a488ee1c474b109ae
 http://vps-4088879-x.dattaweb.com/3516820717/3516820717/49.m3u8
  
-#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/3516820717decode.appspot.com/o/img%2FMega.png?alt=media&token=b385afd2-012e-4585-b8cf-e175326e9823" tvg-group="Internacionales",MEGA
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/3516820717decode.appspot.com/o/img%2FMega.png?alt=media&token=b385afd2-012e-4585-b8cf-e175326e9823" tvg-group="🌍 Internacionales",MEGA
 http://vps-4088879-x.dattaweb.com/3516820717/3516820717/50.m3u8
  
-#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/3516820717decode.appspot.com/o/img%2Ftrecepy.webp?alt=media&token=c6b9e5d8-770c-4171-ab49-d800e4e27386" tvg-group="Internacionales",trece Paraguay
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/3516820717decode.appspot.com/o/img%2Ftrecepy.webp?alt=media&token=c6b9e5d8-770c-4171-ab49-d800e4e27386" tvg-group="🌍 Internacionales",trece Paraguay
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a8093cdcb2d504bd38f16764bd21b6e5:bfcf3b033b5f0b5ae020751a6746326f
 http://vps-4088879-x.dattaweb.com/3516820717/3516820717/51.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hMPh6Xg.png" tvg-group="Internacionales",TVE España
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hMPh6Xg.png" tvg-group="🌍 Internacionales",TVE España
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=53e0a3741e2e4ff5843f165b53309088:45095caabd9a359cd7ea3910d865d643
 http://vps-4088879-x.dattaweb.com/3516820717/3516820717/52.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IUVRm5L.png" tvg-group="Internacionales",24 Horas España
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IUVRm5L.png" tvg-group="🌍 Internacionales",24 Horas España
 http://vps-4088879-x.dattaweb.com/3516820717/3516820717/53.m3u8
 
 #EXTINF:-1 tvg-id="MTV.Latin.America.(South.Feed).(MTV).ar" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/10/logo-MTV.png" tvg-group="Musicales",MTV
