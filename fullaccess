@@ -1170,7 +1170,8 @@ https://chromecast.cvattv.com.ar/live/c3eds/Canal_U/SA_Live_dash_enc_C/Canal_U.m
 #EXTINF:-1, tvg-id="VTV.uy" tvg-name="VTV" tvg-logo="https://dl.dropbox.com/scl/fi/j4p5brzwswii95bs08b2g/vtv.png?rlkey=dqxls5mo4n3idcc6rajqyeawd&dl=1", VTV Uruguay
 https://chromecast.cvattv.com.ar/live/c3eds/VTV_HD/SA_Live_dash_enc_2A/VTV_HD.mpd
 
-
+#EXTINF:-1 tvg-chno="907" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CARAS.png?raw=true" group-title="Estilos de Vida", Caras TV
+https://unlimited1-buenosaires.dps.live/carastv/carastv.smil/playlist.m3u8
 
 mundiales e internacionales
 
@@ -4431,12 +4432,22 @@ http://vps-4088879-x.dattaweb.com/3516820717/3516820717/254.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JRlA666.jpeg" group-title="Deportes",UFC
 http://vps-4088879-x.dattaweb.com/3516820717/3516820717/255.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key={"c18b6aa739be4c0b774605fcfb5d6b68":"e41c3a6f7532b2e3a828d9580124c89d"}
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_1_MK_logo.png" group-title="Deportes",Arena Sport 1 Ricardo
 https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
 
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_1_MK_logo.png" group-title="Arena Sports",Arena Sport 1 PRUEBA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c18b6aa739be4c0b774605fcfb5d6b68":"e41c3a6f7532b2e3a828d9580124c89d"}
+https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key={"c18b6aa739be4c0b774605fcfb5d6b68":"e41c3a6f7532b2e3a828d9580124c89d"}
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_1_MK_logo.png" group-title="Deportes",Arena Sport 1 Ricardo 2
+https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
+
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_1_MK_logo.png" group-title="Arena Sports",Arena Sport 1 PRUEBA2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"c18b6aa739be4c0b774605fcfb5d6b68":"e41c3a6f7532b2e3a828d9580124c89d"}
 https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
