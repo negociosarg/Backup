@@ -3337,32 +3337,6 @@ https://cdn.cvattv.com.ar/live/c4eds/Canal12URU/SA_Live_dash_enc_2A/Canal12URU.m
 #EXTINF:-1 tvg-logo="https://github.com/rolnando-play/RP/raw/master/app/canalesImg/globo.png" group-title="🇧🇷 BRASIL", GLOBO TV
 https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://www.univervideo.com/public/images/logo/logo.svg" group-title="🇧🇷 BRASIL", Universal
-https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/37a7f2bbd24082bb8f947686020c3e82.webp" group-title="🇧🇷 BRASIL", ALL SPORTS
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a1e4076264abe6b6ccde87a587966abe.webp" group-title="🇧🇷 BRASIL", Retro Cartoon
-https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW7sbIgtm6R5YfT1CAChjdoyZ1jOLpqlWHXg&usqp=CAU" group-title="🇧🇷 BRASIL", GLOBO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d716974633523163a90912f20d40a50b:2e2945824b82c72bef9dc21c9f004784
-http://gtechtecnologia.com/dtv/474c4f424f205456204844.mpd
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTwYRUNQdMWVsOmGEZ86Xn3zQtBBEO3EHSwCDZEug0zw&s" group-title="🇧🇷 BRASIL", SBT
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ad3dca103185934acff7a0e9000c112:3f396659d841a55cd1381e6735ecfa1d
-http://gtechtecnologia.com/dtv/534254204844202842524153494c29.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/1024px-BandSports_logo.svg.png" group-title="🇧🇷 BRASIL", BAND SPORTS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bd1af42db82f5a17a0d75246f25f5201:a9edd4e2c410923e9cbcb261102e5008
-https://0055-jbc.dtvott.com/dash_live_0054/manifest.mpd
-
 #EXTINF:-1  tvg-logo="https://futebolplayhd.stream/imagens-futebol/a871af6c1cd17cf8c44a2a62a244b689.jpg" group-title="⚽DEPORTES BRASIL",SPORTV 
 #EXTVLCOPT:http-referrer=https://sathoshinamoto.com/
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
@@ -3371,9 +3345,7 @@ https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs
 #EXTVLCOPT:http-referrer=https://sathoshinamoto.com/
 https://newedge.eu-central-1.edge.mycdn.live/live/sportv224ha/sportv224ha_2000/index.m3u8
 
-
-
-
+DEPORTES DE BRASIL
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WWrRh4X/Band-Sports.png" group-title="⚽DEPORTES BRASIL", BAND SPORTS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3425,7 +3397,7 @@ https://dr.jellyfin.es/live/iad-nitro/live/clients/dash/enc/wczqphrl5k/out/v1/7a
 #KODIPROP:inputstream.adaptive.license_key=7ba384f9d983c731ab1e3702c16e2faf:f28adca4375e8a041fd22aef26440009
 https://dr.jellyfin.es/live/iad-nitro/live/clients/dash/enc/dabubydklo/out/v1/c272f10312ac4e81bcf2183509703dd1/cenc.mpd
 
-
+⚽ DAZN
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/569wj9v/DAZN1.png" group-title="⚽ DAZN",, DAZN  1  ES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
