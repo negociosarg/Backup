@@ -4432,8 +4432,8 @@ http://vps-4088879-x.dattaweb.com/3516820717/3516820717/254.m3u8
 http://vps-4088879-x.dattaweb.com/3516820717/3516820717/255.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"c18b6aa739be4c0b774605fcfb5d6b68":"e41c3a6f7532b2e3a828d9580124c89d"}
-#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_1_MK_logo.png" group-title="Deportes",Arena Sport 1
+#KODIPROP:inputstream.adaptive.license_key={"e41c3a6f7532b2e3a828d9580124c89d":"c18b6aa739be4c0b774605fcfb5d6b68"}
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_1_MK_logo.png" group-title="Deportes",Arena Sport 1 Ricardo
 https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
