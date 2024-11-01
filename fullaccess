@@ -4323,7 +4323,7 @@ http://vps-4088879-x.dattaweb.com/3516820717/3516820717/174.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"c26371079e89206d63e1454893e881b6":"adac3c3b3774e411d6e49724f7ea0ee3"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://player.sensa.com.ar/
-#EXTINF:-1 tvg-id="TNT.Premium.ar" tvg-logo="https://i.imgur.com/84erChI.png" group-title="Deportes",TNT Sports FULL HD (Respaldo)
+#EXTINF:-1 tvg-id="TNT.Premium.ar" tvg-logo="https://i.imgur.com/84erChI.png" group-title="🇦🇷 Pack Fútbol"TNT Sports FULL HD (Respaldo)
 http://vps-4088879-x.dattaweb.com/3516820717/3516820717/249.m3u8
 
 #EXTINF:-1 tvg-id="TNT.Premium.ar" tvg-logo="https://i.imgur.com/84erChI.png" tvg-group="Deportes",TNT Sports Argentina (SD)
