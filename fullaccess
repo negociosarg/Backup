@@ -4786,11 +4786,6 @@ https://rikstv-live2.telenorcdn.net/rikstv/1469/2/dash/TV2_Sport_2/manifest.mpd
 #EXTINF:-1 group-title="MPD SPORT" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tv-2-sport-2-1583.png", TV2 Sport
 https://tv2-play-ew-aws-arn-dash-a.akamaized.net/__cl/cg:live/__c/tv2_sport_x/__op/cenc/__f/single.mpd
 
-#EXTINF:-1 tvg-logo="https://e0.365dm.com/tvlogos/channels/1301-Logo.svg" group-title="🇬🇧 | SKY SPORTS UK",Sky Sports Main Event UHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"112fc5efca96a3cd7ee42ac46c733550":"227eaef1366fa61610a467bd87d10b13","112f6c710ad7beca0690bcab317378f5":"4e6c6fc00df4d5ed5e23e6d727eb227b"}
-https://linear408-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_2160_120/Live/channel(sportsmaineventuhd)/manifest_2160-atmos-120.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45608e64154b156f6884926c87f6f3ec:c66a1ff7638d0ce1f729f557221de5d7
 #EXTINF:-1 group-title="MPD SPORT" tvg-logo="https://www.viaplaygroup.com/sites/default/files/brands-and-products/vsport_sport1_logo_vert_rgb_pos_1270x270_0.jpg", V Sport 1 NO 
