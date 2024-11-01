@@ -2670,7 +2670,12 @@ http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.tvar.io/imagenes/albardontv.png" group-title="🇦🇷 Argentina - Interior", Albardon TV
 https://vd01.streaminghd.net.ar:3451/stream/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/60sFBfY/og-image.jpg" group-title="🇦🇷 Argentina - Interior", CANAL 12 CORDOBA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/El_doce_tv_cba_logo.png/133px-El_doce_tv_cba_logo.png" group-title="Córdoba", CANAL 12 CORDOBA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90422640d3e846159fa450f83870ed4a:abb3cd94aece1a462df25a8f21085cca
+https://edge-mix02-mun.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc/Canal_12_CBA.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/El_doce_tv_cba_logo.png/133px-El_doce_tv_cba_logo.png" group-title="🇦🇷 Argentina - Interior", CANAL 12 CORDOBA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=90422640d3e846159fa450f83870ed4a:abb3cd94aece1a462df25a8f21085cca
 https://edge-mix02-mun.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc/Canal_12_CBA.mpd
@@ -2681,10 +2686,16 @@ https://edge-mix02-mun.cvattv.com.ar/live/c4eds/Canal10_CBA_HD/SA_Live_dash_enc/
 #EXTINF:-1 tvg-logo="https://static.tvar.io/imagenes/telefecba.png" group-title="🇦🇷 Argentina - Interior", TELEFE CORDOBA
 https://cdn.cvattv.com.ar/live/c6eds/Canal_8_CBA/SA_Live_dash_enc_2A/Canal_8_CBA.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/60sFBfY/og-image.jpg" group-title="🇦🇷 Argentina - Interior", CANAL 12 CORDOBA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/El_doce_tv_cba_logo.png/133px-El_doce_tv_cba_logo.png" group-title="🇦🇷 Argentina - Interior", CANAL 12 CORDOBA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=90422640d3e846159fa450f83870ed4a:abb3cd94aece1a462df25a8f21085cca
 https://cdn.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc/Canal_12_CBA.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/El_doce_tv_cba_logo.png/133px-El_doce_tv_cba_logo.png" group-title="Cordoba", CANAL 12 CORDOBA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90422640d3e846159fa450f83870ed4a:abb3cd94aece1a462df25a8f21085cca
+https://cdn.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc/Canal_12_CBA.mpd
+
 
 #EXTINF:-1 tvg-logo="https://static.tvar.io/imagenes/canal13riocuarto.jpg" group-title="🇦🇷 Argentina - Interior", CANAL 13 RIO CUARTO
 http://stmvideo2.livecastv.com/telediario/telediario/playlist.m3u8
