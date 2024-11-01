@@ -328,17 +328,17 @@ https://chromecast.cvattv.com.ar/live/c7eds/PX_Sports/SA_Live_dash_enc_2A/PX_Spo
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=48d0e34c8797c5c2a742d2630a8fb975:fb5d12b9d8febe836e5670abd003ddca
-#EXTINF:-1 tvg-chno="206" tvg-id="Eventos.UY" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EVNTD.png?raw=true" group-title="Deportes", Ebentos 1 
+#EXTINF:-1 tvg-chno="206" tvg-id="Eventos.UY" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EVNTD.png?raw=true" group-title="Deportes", EVENTOS 1 
 https://chromecast.cvattv.com.ar/live/c7eds/Eventos_HD_Uy/SA_Live_dash_enc_EXTRA/Eventos_HD_Uy.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=87bfded2bdfbd3ad9dce4d30b2739fd1:e80b0d66d60fa0a2d24d8b36055a6fef
-#EXTINF:-1 tvg-chno="206" tvg-id="Eventos2.UY" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EVNTD.png?raw=true" group-title="Deportes", Ebentos 2 
+#EXTINF:-1 tvg-chno="206" tvg-id="Eventos2.UY" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EVNTD.png?raw=true" group-title="Deportes", EVENTOS 2 
 https://chromecast.cvattv.com.ar/live/c4eds/Eventos_2_UY/SA_Live_dash_enc_C/Eventos_2_UY.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f774b06a300783596f27b552226de9c0:4d6256b28b487bcf906bcf0328635747
-#EXTINF:-1 tvg-chno="206" tvg-id="Eventos3.UY" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EVNTD.png?raw=true" group-title="Deportes", Ebentos 3 
+#EXTINF:-1 tvg-chno="206" tvg-id="Eventos3.UY" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EVNTD.png?raw=true" group-title="Deportes", EVENTOS 3 
 https://chromecast.cvattv.com.ar/live/c4eds/Eventos3_UY/SA_Live_dash_enc_C/Eventos3_UY.mpd
 
 infantiles
@@ -965,12 +965,12 @@ https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(C
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b2aae44a74144be8b2118e20d1412bab:8a7ae996d12d8d5d5637d1044f8e08b7
-#EXTINF:-1 tvg-chno="1150" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/FMEVT.png?raw=true" group-title="Música y Radios", Flow Music Eventos
+#EXTINF:-1 tvg-chno="1150" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/FMEVT.png?raw=true" group-title="Eventos Flow HD", Flow Music Eventos
 https://chromecast.cvattv.com.ar/live/c7eds/Flow_Music_XP/SA_Live_dash_enc_2A/Flow_Music_XP.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b2aae44a74144be8b2118e20d1412bab:8a7ae996d12d8d5d5637d1044f8e08b7
-#EXTINF:-1 tvg-chno="1150" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/FMEVT.png?raw=true" group-title="🇦🇷 Argentina", Flow Music Eventos
+#EXTINF:-1 tvg-chno="1150" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/FMEVT.png?raw=true" group-title="Eventos Flow HD", Flow Music Eventos
 https://chromecast.cvattv.com.ar/live/c7eds/Flow_Music_XP/SA_Live_dash_enc_2A/Flow_Music_XP.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4365,12 +4365,12 @@ http://vps-4088879-x.dattaweb.com/3516820717/3516820717/239.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"48d0e34c8797c5c2a742d2630a8fb975":"fb5d12b9d8febe836e5670abd003ddca"}
-#EXTINF:-1 tvg-id="espn6.py" tvg-logo="https://i.imgur.com/MCnwIMK.png" group-title="Deportes",Eventos Flow
+#EXTINF:-1 tvg-id="espn6.py" tvg-logo="https://i.imgur.com/MCnwIMK.png" group-title="Eventos Flow HD",Eventos Flow
 http://vps-4088879-x.dattaweb.com/3516820717/3516820717/171.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"5c86e237317c2231ac1bc130e995fad6":"dcacf7b239ee03df3c69ca11dbcde4eb"}
-#EXTINF:-1 tvg-id="Eventos .ar" tvg-logo="https://i.imgur.com/so7HCmC.png" group-title="Deportes",Eventos1HD
+#EXTINF:-1 tvg-id="Eventos .ar" tvg-logo="https://i.imgur.com/so7HCmC.png" group-title="Eventos Flow HD",Eventos 1 HD
 http://vps-4088879-x.dattaweb.com/3516820717/3516820717/272.m3u8
 
 #EXTINF:-1 tvg-id="mls.us" tvg-logo="https://i.imgur.com/DBIYmWz.png" group-title="Deportes",MLS
