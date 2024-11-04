@@ -873,6 +873,13 @@ http://csc-nod-edge01.sensa.com.ar/bpk-tv/TelediarioTelevision/default/index.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://somos.com.ar/wp-content/uploads/2021/12/cropped-logo@2x.png" group-title="🇦🇷 Argentina - Interior", Somos Bahía Blanca
 https://cdn.cvattv.com.ar/live/c3eds/Somos_Bahia_Blanca/SA_Live_dash_enc_EXTRA/Somos_Bahia_Blanca.mpd
 
+#EXTINF:-1 tvg-logo="https://somos.com.ar/wp-content/uploads/2021/12/cropped-logo@2x.png" group-title="🇦🇷 Argentina - Interior", Somos Bahía Blanca 2
+#KODIPROP:inputstream.adaptive.license_key=64c7e9ed4e3930b54d020c08a6792f10&key=737b6374d4492e8c233ca2c2ebac9b85
+#EXTINF:-1 tvg-id="" tvg-logo="https://somos.com.ar/wp-content/uploads/2021/12/cropped-logo@2x.png" group-title="🇦🇷 Argentina - Interior", Somos Bahía Blanca 2
+https://cdn.cvattv.com.ar/live/c3eds/Somos_Bahia_Blanca/SA_Live_dash_enc_EXTRA/Somos_Bahia_Blanca.mpd
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c3579af87560a1dbc599c882516f95&key=cdfe03336cc80ef7c3dd9eb19f298d04
 #EXTINF:-1 tvg-id="" tvg-logo=, Somos Chaco
