@@ -1279,9 +1279,11 @@ https://chromecast.cvattv.com.ar/live/c4eds/Latam_Rural/SA_Live_dash_enc_C/Latam
 
 BRASIL
 
+
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b4f56d5c19b45fb3e75a73b6ec06e6c:c464e2b6ded2b52e1e7753b3a859abce
-#EXTINF:-1 tvg-id="New-Brasil" tvg-logo="https://i.ibb.co/5vSfGjj/new-brasil.png", New Brasil
+#EXTINF:-1 tvg-id="New-Brasil" tvg-logo="https://i.ibb.co/5vSfGjj/new-brasil.png", group-title="🇧🇷 BRASIL", New Brasil
 https://chromecast.cvattv.com.ar/live/c7eds/Bandeirantes/SA_Live_dash_enc/Bandeirantes.mpd
 
 #EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/default/band.svg" group-title="SPORTS",BAND
@@ -1294,7 +1296,7 @@ https://chromecast.cvattv.com.ar/live/c7eds/Bandeirantes/SA_Live_dash_enc/Bandei
 https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOBNHD/dsc2/manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/default/band.svg" group-title="SPORTS",BAND
+#EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/default/band.svg" group-title="🇧🇷 BRASIL",BAND
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"eb1a381423dba5a015ab153f51963d64":"354110a92a3176fa4004d5f772a3349b","71e0b26d9074f28859ec81298c2abcf6":"259b82830b8b7eedabce6a74a67a4f2a"}
@@ -1303,7 +1305,7 @@ https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOBNHD/dsc2/manifest.mp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.188 Safari/537.36 CrKey/1.54.250118
 https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOBNHD/dsc2/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/default/band.svg" group-title="SPORTS",BAND
+#EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/default/band.svg" group-title="🇧🇷 BRASIL",BAND
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"eb1a381423dba5a015ab153f51963d64":"354110a92a3176fa4004d5f772a3349b","71e0b26d9074f28859ec81298c2abcf6":"259b82830b8b7eedabce6a74a67a4f2a"}
@@ -1320,8 +1322,74 @@ https://chromecast.cvattv.com.ar/live/c6eds/RAI/SA_Live_dash_enc_2A/RAI.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b0bd8ea11b3f4c219903085ef1d44b0d:9a25709a72c2ca93cb738665736cfa5a
-#EXTINF:-1 tvg-id="Rede-Record" tvg-logo="https://i.postimg.cc/DmVv4ZCT/rede-record.png", Rede Record Brasil
+#EXTINF:-1 tvg-id="Rede-Record" tvg-logo="https://i.postimg.cc/DmVv4ZCT/rede-record.png", group-title="🇧🇷 BRASIL", Rede Record Brasil
 http://chromecast.cvattv.com.ar/live/c3eds/Rede_Record/SA_Live_dash_enc/Rede_Record.mpd
+
+
+#EXTINF:-1 tvg-logo="https://github.com/rolnando-play/RP/raw/master/app/canalesImg/globo.png" group-title="🇧🇷 BRASIL", Rede Globo
+https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://futebolplayhd.stream/imagens-futebol/a871af6c1cd17cf8c44a2a62a244b689.jpg" group-title="⚽DEPORTES BRASIL",SPORTV 
+#EXTVLCOPT:http-referrer=https://sathoshinamoto.com/
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://futebolplayhd.stream/imagens-futebol/2eba08a5c8a782eec8926624737456d0.jpg" group-title="⚽DEPORTES BRASIL",SPORTV 2
+#EXTVLCOPT:http-referrer=https://sathoshinamoto.com/
+https://newedge.eu-central-1.edge.mycdn.live/live/sportv224ha/sportv224ha_2000/index.m3u8
+
+⚽DEPORTES BRASIL
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WWrRh4X/Band-Sports.png" group-title="⚽DEPORTES BRASIL", BAND SPORTS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd1af42db82f5a17a0d75246f25f5201:a9edd4e2c410923e9cbcb261102e5008
+https://0055-jbc.dtvott.com/dash_live_0054/manifest.mpd?da=1&country=BR&accountType=DTH&deviceType=web
+
+#EXTINF:-1 tvg-logo="https://images.uncyc.org/pt/f/f1/Logotipo_PFC.png" group-title="⚽DEPORTES BRASIL", PREMIERE  CLUBES
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d98239180d8380b3a1bb28d875b1ddf2:cf836ced579257d1c76ae8809818e6c4
+https://dr.jellyfin.es/live/iad-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://images.uncyc.org/pt/f/f1/Logotipo_PFC.png" group-title="⚽DEPORTES BRASIL", PREMIERE  CLUBES  OP2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=50653a20839a57c8b2d3cde6ddc46cdb:8a505419dccb50ee07ecebf5a6b44c63
+https://0064-jbc.dtvott.com/dash_live_0079/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Sf3Fz0L/premiere.png" group-title="⚽DEPORTES BRASIL", PREMIERE 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd2e8019f37211ca8b78a8b656f1b83a:273189c214e85b43ac36298d1c422330
+https://dr.jellyfin.es/live/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Sf3Fz0L/premiere.png" group-title="⚽DEPORTES BRASIL", PREMIERE 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9547f9aead1237c8a3b1bf0a91ed9995:534fab4541fef31921dd970c65d51848
+https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/8ci7l7dt0d/out/v1/98fe69f2cdc041388004305e63353268/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Sf3Fz0L/premiere.png" group-title="⚽DEPORTES BRASIL", PREMIERE 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce5d18ffd68650affce1985201983ab7:397c64e42507d95e5460830918c22a98
+https://dr.jellyfin.es/live/iad-nitro/live/clients/dash/enc/zytzybatcd/out/v1/4e59aa00f6784bb98170741d40b33e3e/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Sf3Fz0L/premiere.png" group-title="⚽DEPORTES BRASIL", PREMIERE 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d5a3ac0b892bfccdf352b6def9cb2764:ac0936acc0036fad2273efaa42b1fafd
+https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/j4y12ucrx0/out/v1/9135597c4400465e9e752dc32de587fd/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Sf3Fz0L/premiere.png" group-title="⚽DEPORTES BRASIL", PREMIERE 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=05cedc366ce4ec735ee4b33fcefbf01f:475d6dd40eaba6896e02b26a6cf34d95
+https://dr.jellyfin.es/live/iad-nitro/live/clients/dash/enc/cydwktwhqj/out/v1/c6e2919fe4e04a73935691f8284a4afe/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Sf3Fz0L/premiere.png" group-title="⚽DEPORTES BRASIL", PREMIERE 7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ce96e01eee54fb77e5cc4e7b753d6b0:184f94303d3357b9a7381ccdeee9b611
+https://dr.jellyfin.es/live/iad-nitro/live/clients/dash/enc/wczqphrl5k/out/v1/7a20b4be236a4a9484fdf5cdfcbe79d5/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Sf3Fz0L/premiere.png" group-title="⚽DEPORTES BRASIL", PREMIERE 8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ba384f9d983c731ab1e3702c16e2faf:f28adca4375e8a041fd22aef26440009
+https://dr.jellyfin.es/live/iad-nitro/live/clients/dash/enc/dabubydklo/out/v1/c272f10312ac4e81bcf2183509703dd1/cenc.mpd
+
+
 
 
 
@@ -3386,68 +3454,6 @@ https://cdn.cvattv.com.ar/live/c4eds/Canal4_URU/SA_Live_dash_enc/Canal4_URU.mpd
 #KODIPROP:inputstream.adaptive.license_key=dfde9d35d7438bfdf61da5dfac0557c1:acb13370c03a7254e2bb9cc9d2125017
 https://cdn.cvattv.com.ar/live/c4eds/Canal12URU/SA_Live_dash_enc_2A/Canal12URU.mpd
 
-#EXTINF:-1 tvg-logo="https://github.com/rolnando-play/RP/raw/master/app/canalesImg/globo.png" group-title="🇧🇷 BRASIL", GLOBO TV
-https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
-
-#EXTINF:-1  tvg-logo="https://futebolplayhd.stream/imagens-futebol/a871af6c1cd17cf8c44a2a62a244b689.jpg" group-title="⚽DEPORTES BRASIL",SPORTV 
-#EXTVLCOPT:http-referrer=https://sathoshinamoto.com/
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
-
-#EXTINF:-1  tvg-logo="https://futebolplayhd.stream/imagens-futebol/2eba08a5c8a782eec8926624737456d0.jpg" group-title="⚽DEPORTES BRASIL",SPORTV 2
-#EXTVLCOPT:http-referrer=https://sathoshinamoto.com/
-https://newedge.eu-central-1.edge.mycdn.live/live/sportv224ha/sportv224ha_2000/index.m3u8
-
-DEPORTES DE BRASIL
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WWrRh4X/Band-Sports.png" group-title="⚽DEPORTES BRASIL", BAND SPORTS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bd1af42db82f5a17a0d75246f25f5201:a9edd4e2c410923e9cbcb261102e5008
-https://0055-jbc.dtvott.com/dash_live_0054/manifest.mpd?da=1&country=BR&accountType=DTH&deviceType=web
-
-#EXTINF:-1 tvg-logo="https://images.uncyc.org/pt/f/f1/Logotipo_PFC.png" group-title="⚽DEPORTES BRASIL", PREMIERE  CLUBES
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d98239180d8380b3a1bb28d875b1ddf2:cf836ced579257d1c76ae8809818e6c4
-https://dr.jellyfin.es/live/iad-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://images.uncyc.org/pt/f/f1/Logotipo_PFC.png" group-title="⚽DEPORTES BRASIL", PREMIERE  CLUBES  OP2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=50653a20839a57c8b2d3cde6ddc46cdb:8a505419dccb50ee07ecebf5a6b44c63
-https://0064-jbc.dtvott.com/dash_live_0079/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Sf3Fz0L/premiere.png" group-title="⚽DEPORTES BRASIL", PREMIERE 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fd2e8019f37211ca8b78a8b656f1b83a:273189c214e85b43ac36298d1c422330
-https://dr.jellyfin.es/live/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Sf3Fz0L/premiere.png" group-title="⚽DEPORTES BRASIL", PREMIERE 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9547f9aead1237c8a3b1bf0a91ed9995:534fab4541fef31921dd970c65d51848
-https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/8ci7l7dt0d/out/v1/98fe69f2cdc041388004305e63353268/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Sf3Fz0L/premiere.png" group-title="⚽DEPORTES BRASIL", PREMIERE 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce5d18ffd68650affce1985201983ab7:397c64e42507d95e5460830918c22a98
-https://dr.jellyfin.es/live/iad-nitro/live/clients/dash/enc/zytzybatcd/out/v1/4e59aa00f6784bb98170741d40b33e3e/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Sf3Fz0L/premiere.png" group-title="⚽DEPORTES BRASIL", PREMIERE 5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d5a3ac0b892bfccdf352b6def9cb2764:ac0936acc0036fad2273efaa42b1fafd
-https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/j4y12ucrx0/out/v1/9135597c4400465e9e752dc32de587fd/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Sf3Fz0L/premiere.png" group-title="⚽DEPORTES BRASIL", PREMIERE 6
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=05cedc366ce4ec735ee4b33fcefbf01f:475d6dd40eaba6896e02b26a6cf34d95
-https://dr.jellyfin.es/live/iad-nitro/live/clients/dash/enc/cydwktwhqj/out/v1/c6e2919fe4e04a73935691f8284a4afe/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Sf3Fz0L/premiere.png" group-title="⚽DEPORTES BRASIL", PREMIERE 7
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ce96e01eee54fb77e5cc4e7b753d6b0:184f94303d3357b9a7381ccdeee9b611
-https://dr.jellyfin.es/live/iad-nitro/live/clients/dash/enc/wczqphrl5k/out/v1/7a20b4be236a4a9484fdf5cdfcbe79d5/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Sf3Fz0L/premiere.png" group-title="⚽DEPORTES BRASIL", PREMIERE 8
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ba384f9d983c731ab1e3702c16e2faf:f28adca4375e8a041fd22aef26440009
-https://dr.jellyfin.es/live/iad-nitro/live/clients/dash/enc/dabubydklo/out/v1/c272f10312ac4e81bcf2183509703dd1/cenc.mpd
 
 ⚽ DAZN
 
