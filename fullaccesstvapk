@@ -1192,6 +1192,14 @@ mundiales e internacionales
 #EXTINF:-1 tvg-id="Al-Jazeera" tvg-logo="http://78.47.174.211/logos/aljazeera.png", Al Jazeera
 https://chromecast.cvattv.com.ar/live/c7eds/Alljazzera/SA_Live_dash_enc/Alljazzera.mpd
 
+#EXTINF:-1 tvg-chno="803" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Willow_Xtra_2023_stacked.svg/revision/latest/scale-to-width-down/250?cb=20240927132403" group-title="🌍 Internacionales", Willow HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"475d7932b5f352bb92016b75b60c58fa": "ea37faa137ae8f644105c4fcc189a35f"} 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://linear-novi.stvacdn.spectrum.com/LIVE/5248/bpk-tv/10364/drm/manifest.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1e1ad422a6714482b66fa702c16e50c6:4fdf28a0ab91356ca55a75f4e9bf8c92
 #EXTINF:-1 tvg-chno="803" tvg-id="Antena3InternacionalHD.es" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ANTN3.png?raw=true" group-title="🌍 Internacionales", Antena 3 Internacional
