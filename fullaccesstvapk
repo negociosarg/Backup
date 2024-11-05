@@ -1243,6 +1243,16 @@ https://chromecast.cvattv.com.ar/live/c7eds/DNews/SA_Live_dash_enc/DNews.mpd
 #EXTINF:-1 tvg-chno="807" tvg-id="DWEspanol.de" tvg-logo="https://git.io/JOTLM" group-title="🌍 Internacionales", Deutsche Welle
 https://chromecast.cvattv.com.ar/live/c6eds/DW/SA_Live_dash_enc/DW.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"QLnyUEVbQ7Oy6mhFq4Gryg", "kid":"kimBTGKbQG+N6Y0vI8looA" } ], "type":"temporary" }
+#EXTINF:-1 group-title="🌍 Internacionales" tvg-id="Blue Ant Entertainment HD" tvg-chno="473" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/201907160638240897f5.png",473 Blue Ant Entertainment
+https://tglmp02.akamaized.net/out/v1/621a7089e63144e4be7891cd9bfb10e2/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"rUUgLmT2bvNrP2D6yTzEfw", "kid":"I0HC7NPPSGWIG7D6Eofejw" } ], "type":"temporary" }
+#EXTINF:-1 group-title="🌍 Internacionales" tvg-id="Blue Ant Extreme HD" tvg-chno="474" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073944056u4a.png",474 Blue Ant Extreme
+https://tglmp04.akamaized.net/out/v1/421a3cd3bdcd492f8f4b5efb2363ed2c/manifest.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d86b0f56d32f45adb0a6b4e488c8f0c2:e4f180b0e61be3e80ab602df5e56ff3f
