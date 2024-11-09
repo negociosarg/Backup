@@ -3598,11 +3598,6 @@ http://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-502/stream.mpd
 #EXTINF:-1 tvg-logo="https://www.pngall.com/wp-content/uploads/2018/04/Under-Construction-PNG-Clipart.png", Información y canal de pruebas 240
 http://vps-4088879-x.dattaweb.com/live/EE0BF6582862DB1F9769F186ABC8B5AC/240.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://player.sensa.com.ar/
-#EXTINF:-1 tvg-id="Telefe.(TELFE2).ar" tvg-logo="https://i.imgur.com/gDvf2Tz.png" group-title="🇦🇷 Argentina",Telefe (Full HD)
-http://vps-4088879-x.dattaweb.com/3516820717/3516820717/245.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"3cec1b1ea9799dda5596e64f37e5ed20":"c69f3afde2085dcaaaddbf55246a0323"}
@@ -3614,44 +3609,26 @@ http://vps-4088879-x.dattaweb.com/3516820717/3516820717/213.m3u8
 #KODIPROP:inputstream.adaptive.license_key=27965a5e47515c52af970def8230142c:fbe3bc448126a05697b4750ab0d294bb
 http://vps-4088879-x.dattaweb.com/3516820717/3516820717/3.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://player.sensa.com.ar/
-#EXTINF:-1 tvg-id="El.Trece.(Canal.13).(CNL13).ar" tvg-logo="https://i.imgur.com/oZ9fsgI.png" group-title="🇦🇷 Argentina",El Trece (Full HD)
-http://vps-4088879-x.dattaweb.com/3516820717/3516820717/246.m3u8
 
 #EXTINF:-1 x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz" tvg-id="América.TV.HDTV.(AMERHD).ar" tvg-logo="https://i.imgur.com/hlm0lXN.png" tvg-group="🇦🇷 Argentina",America
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45
 http://vps-4088879-x.dattaweb.com/3516820717/3516820717/4.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://player.sensa.com.ar/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hlm0lXN.png" group-title="🇦🇷 Argentina",America (Full HD)
-http://vps-4088879-x.dattaweb.com/3516820717/3516820717/247.m3u8
+
 
 #EXTINF:-1 x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz" tvg-id="Canal.Nueve.HDTV.(CNL9).ar" tvg-logo="https://i.imgur.com/II0v1EW.png" tvg-group="🇦🇷 Argentina",El Nueve
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=24f4ff211136ae6512a1b552200db405:602122f8426c5c942b8c18d299cc6020
 http://vps-4088879-x.dattaweb.com/3516820717/3516820717/5.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://player.sensa.com.ar/
-#EXTINF:-1 tvg-id="Canal.Nueve.HDTV.(CNL9).ar" tvg-logo="https://i.imgur.com/II0v1EW.png" group-title="🇦🇷 Argentina",El Nueve (Full HD)
-http://vps-4088879-x.dattaweb.com/3516820717/3516820717/244.m3u8
 
 #EXTINF:-1 x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz" tvg-id="TV.Pública.(PUBLICA).ar" tvg-logo="https://i.imgur.com/q3Eq9kF.png" tvg-group="🇦🇷 Argentina",TV Publica HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc8c82ac2ec7e9799527c29db7354e81:cc4aae173dd2ef17ae26be3f7ae87662
 http://vps-4088879-x.dattaweb.com/3516820717/3516820717/6.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://player.sensa.com.ar/
-#EXTINF:-1 tvg-id="TV.Pública.(PUBLICA).ar" tvg-logo="https://i.imgur.com/q3Eq9kF.png" group-title="🇦🇷 Argentina",TV Publica (Full HD)
-http://vps-4088879-x.dattaweb.com/3516820717/3516820717/268.m3u8
+
 
 #EXTINF:-1 tvg-id="C5N.(C5N).ar" tvg-logo="https://i.imgur.com/qJuGP8I.png" tvg-group="🇦🇷 Argentina",C5N
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -3662,11 +3639,6 @@ http://vps-4088879-x.dattaweb.com/3516820717/3516820717/7.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b1b027dd011af20fd9956c16dc084fb:45f75aacf06593c9b693fe427c67e5b8
 http://vps-4088879-x.dattaweb.com/3516820717/3516820717/8.m3u8
-
-#EXTINF:-1 tvg-id="TN.(Todo.Noticias).Argentina.(TN).ar" tvg-logo="https://i.imgur.com/34FZ10u.png" tvg-group="🇦🇷 Argentina",TN (Full HD)
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ceb1cd0622cd7e88fcdc99fe3a55de6:951637093d41c7388a1ef3f620cfea21
-http://vps-4088879-x.dattaweb.com/3516820717/3516820717/9.m3u8
 
 #EXTINF:-1 tvg-id="Canal.26.Noticias.(26TV).ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png" tvg-group="🇦🇷 Argentina",Canal 26
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
