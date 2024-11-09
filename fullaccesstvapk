@@ -867,15 +867,17 @@ https://chromecast.cvattv.com.ar/live/c3eds/Canal_Universidad/SA_Live_dash_enc_C
 #EXTINF:-1 tvg-id="" tvg-logo=, TeleDiario TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 http://csc-nod-edge01.sensa.com.ar/bpk-tv/TelediarioTelevision/default/index.mpd
+Red Somos
+
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=64c7e9ed4e3930b54d020c08a6792f10&key=737b6374d4492e8c233ca2c2ebac9b85
-#EXTINF:-1 tvg-id="" tvg-logo="https://somos.com.ar/wp-content/uploads/2021/12/cropped-logo@2x.png" group-title="🇦🇷 Argentina - Interior", Somos Bahía Blanca
+#EXTINF:-1 tvg-id="" tvg-logo="https://somos.com.ar/wp-content/uploads/2021/12/cropped-logo@2x.png" group-title="🇦🇷 Argentina - Red Somos", Somos Bahía Blanca
 https://cdn.cvattv.com.ar/live/c3eds/Somos_Bahia_Blanca/SA_Live_dash_enc_EXTRA/Somos_Bahia_Blanca.mpd
 
-#EXTINF:-1 tvg-logo="https://somos.com.ar/wp-content/uploads/2021/12/cropped-logo@2x.png" group-title="🇦🇷 Argentina - Interior", Somos Bahía Blanca 2
+#EXTINF:-1 tvg-logo="https://somos.com.ar/wp-content/uploads/2021/12/cropped-logo@2x.png" group-title="🇦🇷 Argentina - Red Somos", Somos Bahía Blanca 2
 #KODIPROP:inputstream.adaptive.license_key=64c7e9ed4e3930b54d020c08a6792f10&key=737b6374d4492e8c233ca2c2ebac9b85
-#EXTINF:-1 tvg-id="" tvg-logo="https://somos.com.ar/wp-content/uploads/2021/12/cropped-logo@2x.png" group-title="🇦🇷 Argentina - Interior", Somos Bahía Blanca 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://somos.com.ar/wp-content/uploads/2021/12/cropped-logo@2x.png" group-title="🇦🇷 Argentina - Red Somos", Somos Bahía Blanca 2
 https://cdn.cvattv.com.ar/live/c3eds/Somos_Bahia_Blanca/SA_Live_dash_enc_EXTRA/Somos_Bahia_Blanca.mpd
 
 
@@ -904,7 +906,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/Somos_La_Plata/SA_Live_dash_enc/Somo
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bffd3b447aa44a429a703245836e46fa:13be31c0bcb76b28b1248bf64ab3926e
-#EXTINF:-1 tvg-id="SOMOS-LA-PLATA" tvg-logo="https://i.ibb.co/vBWtKxB/somos-la-plata.png", group-title="🇦🇷 Argentina - Interior", Somos La Plata 2
+#EXTINF:-1 tvg-id="SOMOS-LA-PLATA" tvg-logo="https://i.ibb.co/vBWtKxB/somos-la-plata.png", group-title="🇦🇷 Argentina - Red Somos", Somos La Plata 2
 https://chromecast.cvattv.com.ar/live/c6eds/Somos_La_Plata/SA_Live_dash_enc/Somos_La_Plata.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -947,9 +949,6 @@ https://chromecast.cvattv.com.ar/live/c4eds/Somos_Salta/SA_Live_dash_enc/Somos_S
 #KODIPROP:inputstream.adaptive.license_key=1344e18e45e6e6e5ec0a302d769c8e52:913cfe90bb3af2d402eada6ad50ce22d
 #EXTINF:-1 tvg-id="Somos-Santa-Fe" tvg-logo="https://i.ibb.co/jLvNjBM/somos-santa-fe.png", Somos Santa Fe
 https://chromecast.cvattv.com.ar/live/c5eds/Somos_STF/SA_Live_dash_enc/Somos_STF.mpd
-
-
-
 
 
 
