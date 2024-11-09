@@ -1,11 +1,11 @@
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=64c7e9ed4e3930b54d020c08a6792f10&key=737b6374d4492e8c233ca2c2ebac9b85
-#EXTINF:-1 tvg-id="" tvg-logo="https://somos.com.ar/wp-content/uploads/2021/12/cropped-logo@2x.png" group-title="🇦🇷 Argentina - Interior", Somos Bahía Blanca
+#EXTINF:-1 tvg-id="" tvg-logo="https://somos.com.ar/wp-content/uploads/2021/12/cropped-logo@2x.png" group-title="🇦🇷 Argentina - Red Somos", Somos Bahía Blanca
 https://cdn.cvattv.com.ar/live/c3eds/Somos_Bahia_Blanca/SA_Live_dash_enc_EXTRA/Somos_Bahia_Blanca.mpd
 
 #EXTINF:-1 tvg-logo="https://somos.com.ar/wp-content/uploads/2021/12/cropped-logo@2x.png" group-title="🇦🇷 Argentina - Red Somos", Somos Bahía Blanca 2
 #KODIPROP:inputstream.adaptive.license_key=64c7e9ed4e3930b54d020c08a6792f10&key=737b6374d4492e8c233ca2c2ebac9b85
-#EXTINF:-1 tvg-id="" tvg-logo="https://somos.com.ar/wp-content/uploads/2021/12/cropped-logo@2x.png" group-title="🇦🇷 Argentina - Interior", Somos Bahía Blanca 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://somos.com.ar/wp-content/uploads/2021/12/cropped-logo@2x.png" group-title="🇦🇷 Argentina - Red Somos", Somos Bahía Blanca 2
 https://cdn.cvattv.com.ar/live/c3eds/Somos_Bahia_Blanca/SA_Live_dash_enc_EXTRA/Somos_Bahia_Blanca.mpd
 
 
@@ -34,7 +34,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/Somos_La_Plata/SA_Live_dash_enc/Somo
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bffd3b447aa44a429a703245836e46fa:13be31c0bcb76b28b1248bf64ab3926e
-#EXTINF:-1 tvg-id="SOMOS-LA-PLATA" tvg-logo="https://i.ibb.co/vBWtKxB/somos-la-plata.png", group-title="🇦🇷 Argentina - Interior", Somos La Plata 2
+#EXTINF:-1 tvg-id="SOMOS-LA-PLATA" tvg-logo="https://i.ibb.co/vBWtKxB/somos-la-plata.png", group-title="🇦🇷 Argentina - Red Somos", Somos La Plata 2
 https://chromecast.cvattv.com.ar/live/c6eds/Somos_La_Plata/SA_Live_dash_enc/Somos_La_Plata.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
