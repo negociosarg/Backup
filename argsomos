@@ -1,81 +1,59 @@
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=64c7e9ed4e3930b54d020c08a6792f10&key=737b6374d4492e8c233ca2c2ebac9b85
-#EXTINF:-1 tvg-id="" tvg-logo="https://somos.com.ar/wp-content/uploads/2021/12/cropped-logo@2x.png" group-title="🇦🇷 Argentina - Red Somos", Somos Bahía Blanca
-https://cdn.cvattv.com.ar/live/c3eds/Somos_Bahia_Blanca/SA_Live_dash_enc_EXTRA/Somos_Bahia_Blanca.mpd
-
-#EXTINF:-1 tvg-logo="https://somos.com.ar/wp-content/uploads/2021/12/cropped-logo@2x.png" group-title="🇦🇷 Argentina - Red Somos", Somos Bahía Blanca 2
-#KODIPROP:inputstream.adaptive.license_key=64c7e9ed4e3930b54d020c08a6792f10&key=737b6374d4492e8c233ca2c2ebac9b85
-#EXTINF:-1 tvg-id="" tvg-logo="https://somos.com.ar/wp-content/uploads/2021/12/cropped-logo@2x.png" group-title="🇦🇷 Argentina - Red Somos", Somos Bahía Blanca 2
-https://cdn.cvattv.com.ar/live/c3eds/Somos_Bahia_Blanca/SA_Live_dash_enc_EXTRA/Somos_Bahia_Blanca.mpd
-
-
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c3579af87560a1dbc599c882516f95&key=cdfe03336cc80ef7c3dd9eb19f298d04
-#EXTINF:-1 tvg-id="" tvg-logo=, group-title="🇦🇷 Argentina - Red Somos", Somos Chaco
-https://cdn.cvattv.com.ar/live/c4eds/Somos_Resistencia/SA_Live_dash_enc_EXTRA/Somos_Resistencia.mpd
+#KODIPROP:inputstream.adaptive.license_key=64c7e9ed4e3930b54d020c08a6792f10:737b6374d4492e8c233ca2c2ebac9b85
+#EXTINF:-1 tvg-id="Somos-Bahia" tvg-logo="https://somos.com.ar/wp-content/uploads/2021/12/cropped-logo@2x.png",  group-title="🇦🇷 Argentina - Red Somos",Somos Bahía Blanca
+https://cdn.cvattv.com.ar/live/c3eds/Somos_Bahia_Blanca/SA_Live_dash_enc_EXTRA/Somos_Bahia_Blanca.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f0179a4ba9f407dfdee057a33f8f220c:e0c3f11cb1d7f8d17b7a1532f29edb0b
-#EXTINF:-1 tvg-id="Somos-Corrientes" tvg-logo="https://i.ibb.co/Jy849HS/somos-corrientes.png", Somos Corrientes
-https://chromecast.cvattv.com.ar/live/c4eds/Somos_Corrientes/SA_Live_dash_enc/Somos_Corrientes.mpd
+#EXTINF:-1 tvg-id="Somos-Corrientes" tvg-logo="https://i.ibb.co/Jy849HS/somos-corrientes.png", group-title="🇦🇷 Argentina - Red Somos", Somos Corrientes
+https://edge-mix05-coe.cvattv.com.ar/live/c4eds/Somos_Corrientes/SA_Live_dash_enc/Somos_Corrientes.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=513f2056bf40d9123918fd7939fbf065:075ee6dd9b67d88be5642eaa510e91cb
 #EXTINF:-1 tvg-id="Somos-El-Balle" tvg-logo="https://i.ibb.co/bdxBzMQ/somos-el-valle.png", group-title="🇦🇷 Argentina - Red Somos", Somos El Valle
-https://chromecast.cvattv.com.ar/live/c4eds/Somos_El_Valle/SA_Live_dash_enc_C/Somos_El_Valle.mpd
+https://edge-mix05-coe.cvattv.com.ar/live/c4eds/Somos_El_Valle/SA_Live_dash_enc_C/Somos_El_Valle.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bffd3b447aa44a429a703245836e46fa:13be31c0bcb76b28b1248bf64ab3926e
 #EXTINF:-1 tvg-id="SOMOS-LA-PLATA" tvg-logo="https://i.ibb.co/vBWtKxB/somos-la-plata.png", group-title="🇦🇷 Argentina - Red Somos", Somos La Plata
-https://chromecast.cvattv.com.ar/live/c6eds/Somos_La_Plata/SA_Live_dash_enc/Somos_La_Plata.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bffd3b447aa44a429a703245836e46fa:13be31c0bcb76b28b1248bf64ab3926e
-#EXTINF:-1 tvg-id="SOMOS-LA-PLATA" tvg-logo="https://i.ibb.co/vBWtKxB/somos-la-plata.png", group-title="🇦🇷 Argentina - Red Somos", Somos La Plata 2
-https://chromecast.cvattv.com.ar/live/c6eds/Somos_La_Plata/SA_Live_dash_enc/Somos_La_Plata.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31721d8f9c6f7bf78e191cac3086234e&key=88e5e0d312b133908f1fa23ff62d0224
-#EXTINF:-1 tvg-id="" tvg-logo=, Somos Misiones
-https://chromecast.cvattv.com.ar/live/c4eds/Somos_Posadas/SA_Live_dash_enc_EXTRA/Somos_Posadas.mpd
+https://edge-mix05-coe.cvattv.com.ar/live/c6eds/Somos_La_Plata/SA_Live_dash_enc/Somos_La_Plata.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b57763b8d9c205d609ea509432201fac:a476cf79190fe4810efdd81e32317ff3
-#EXTINF:-1 tvg-id="SOMOS-MAR-DEL-PLATA-NECOCHEA" tvg-logo="https://i.ibb.co/Mpxwj59/somos-mar-del-plata.png", group-title="🇦🇷 Argentina - Red Somos",Somos Mar del Plata Necochea
-https://chromecast.cvattv.com.ar/live/c4eds/Canal_Ciudad_MDQ/SA_Live_dash_enc/Canal_Ciudad_MDQ.mpd
+#EXTINF:-1 tvg-id="SOMOS-MAR-DEL-PLATA-NECOCHEA" tvg-logo="https://i.ibb.co/Mpxwj59/somos-mar-del-plata.png", group-title="🇦🇷 Argentina - Red Somos", SOMOS MAR DEL PLATA NECOCHEA
+https://edge-mix05-coe.cvattv.com.ar/live/c4eds/Canal_Ciudad_MDQ/SA_Live_dash_enc/Canal_Ciudad_MDQ.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ee8a6cc35fdb4ab7adeed9d16593459f:5ca774838d5c887f7a8d7dee64b9a6b0
-#EXTINF:-1 tvg-id="Somos-norte" tvg-logo="https://i.ibb.co/qnXjFGd/somos-salta.png", group-title="🇦🇷 Argentina - Red Somos",Somos Norte
-https://chromecast.cvattv.com.ar/live/c6eds/Somos_Norte/SA_Live_dash_enc/Somos_Norte.mpd
+#EXTINF:-1 tvg-id="Somos-norte" tvg-logo="https://i.ibb.co/qnXjFGd/somos-salta.png", group-title="🇦🇷 Argentina - Red Somos", Somos Norte
+https://edge-mix05-coe.cvattv.com.ar/live/c6eds/Somos_Norte/SA_Live_dash_enc/Somos_Norte.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7071b5b3283cebd376d1ba9c6e53ba6e:87a6c4c8baaefb073270e92f092b4c25
-#EXTINF:-1 tvg-id="Somos-Rafaela" tvg-logo="https://i.ibb.co/b5KqPnJ/somos-rafaela.png", group-title="🇦🇷 Argentina - Red Somos",Somos Rafaela
-https://chromecast.cvattv.com.ar/live/c4eds/Somos_Rafaela/SA_Live_dash_enc/Somos_Rafaela.mpd
+#EXTINF:-1 tvg-id="Somos-Rafaela" tvg-logo="https://i.ibb.co/b5KqPnJ/somos-rafaela.png", group-title="🇦🇷 Argentina - Red Somos", Somos Rafaela
+https://edge-mix05-coe.cvattv.com.ar/live/c4eds/Somos_Rafaela/SA_Live_dash_enc/Somos_Rafaela.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=51581658f7be364136e69a2e5cd5191c:ad9419d3cbe0572dd928445d83f42c72
-#EXTINF:-1 tvg-id="" tvg-logo=, Somos Río Cuarto
-https://chromecast.cvattv.com.ar/live/c4eds/Somos_Rio_4to/SA_Live_dash_cenc/Somos_Rio_4to.mpd
+#EXTINF:-1 tvg-id="Somos-Rio-Cuarto" tvg-logo="https://somos.com.ar/wp-content/uploads/2021/12/cropped-logo@2x.png",  group-title="🇦🇷 Argentina - Red Somos", Somos Río Cuarto
+https://edge-mix05-coe.cvattv.com.ar/live/c4eds/Somos_Rio_4to/SA_Live_dash_cenc/Somos_Rio_4to.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=863ed7f26cf51850b9ed735545c788ce:789edf190d78baefb569e8ca09ac86c2
 #EXTINF:-1 tvg-id="Somos-Rosario" tvg-logo="https://i.ibb.co/BCtZVZT/somos-rosario.png", group-title="🇦🇷 Argentina - Red Somos", Somos Rosario
-https://chromecast.cvattv.com.ar/live/c5eds/Somos_Rosario/SA_Live_dash_enc/Somos_Rosario.mpd
+https://edge-mix05-coe.cvattv.com.ar/live/c5eds/Somos_Rosario/SA_Live_dash_enc/Somos_Rosario.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9879546bcfd8a4231ce7502062f424fb:e071693afea3e58f8b28bf5b2311e3fc
-#EXTINF:-1 tvg-id="Somos-Salta-Jujuy" tvg-logo="https://i.ibb.co/qnXjFGd/somos-salta.png", group-title="🇦🇷 Argentina - Red Somos", Somos Salta Jujuy
-https://chromecast.cvattv.com.ar/live/c4eds/Somos_Salta/SA_Live_dash_enc/Somos_Salta.mpd
+#EXTINF:-1 tvg-id="Somos-Salta-Jujuy" tvg-logo="https://i.ibb.co/qnXjFGd/somos-salta.png",  group-title="🇦🇷 Argentina - Red Somos", Somos Salta Jujuy
+https://edge-mix05-coe.cvattv.com.ar/live/c4eds/Somos_Salta/SA_Live_dash_enc/Somos_Salta.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1344e18e45e6e6e5ec0a302d769c8e52:913cfe90bb3af2d402eada6ad50ce22d
-#EXTINF:-1 tvg-id="Somos-Santa-Fe" tvg-logo="https://i.ibb.co/jLvNjBM/somos-santa-fe.png", group-title="🇦🇷 Argentina - Red Somos", Somos Santa Fe
-https://chromecast.cvattv.com.ar/live/c5eds/Somos_STF/SA_Live_dash_enc/Somos_STF.mpd
+#EXTINF:-1 tvg-id="Somos-Santa-Fe" tvg-logo="https://i.ibb.co/jLvNjBM/somos-santa-fe.png",  group-title="🇦🇷 Argentina - Red Somos", Somos Santa Fe
+https://edge-mix05-coe.cvattv.com.ar/live/c5eds/Somos_STF/SA_Live_dash_enc/Somos_STF.mpd
 
 
