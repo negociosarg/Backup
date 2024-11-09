@@ -1557,16 +1557,6 @@ http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/1
 #EXTINF:-1 tvg-id="New-Brasil" tvg-logo="https://i.ibb.co/5vSfGjj/new-brasil.png", group-title="🇧🇷 BRASIL", New Brasil
 https://chromecast.cvattv.com.ar/live/c7eds/Bandeirantes/SA_Live_dash_enc/Bandeirantes.mpd
 
-#EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/default/band.svg" group-title="SPORTS",BAND
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"eb1a381423dba5a015ab153f51963d64":"354110a92a3176fa4004d5f772a3349b","71e0b26d9074f28859ec81298c2abcf6":"259b82830b8b7eedabce6a74a67a4f2a"}
-#EXTVLCOPT:http-referer=https://www.clarotvmais.com.br/
-#EXTVLCOPT:http-origin=https://www.clarotvmais.com.br
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.188 Safari/537.36 CrKey/1.54.250118
-https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOBNHD/dsc2/manifest.mpd
-
-
 #EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/default/band.svg" group-title="🇧🇷 BRASIL",BAND
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
