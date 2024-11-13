@@ -288,6 +288,16 @@ http://45.189.108.146:1935/cdn3/goltv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/euk6d7rq2vt77e7ttt6tz/vtvplus.png?rlkey=jubnbfbirssq1hur4kqp44ojd&dl=1" tvg-group="🇦🇷 Deportes Uruguay", VTV Uruguay
 https://chromecast.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_Live_dash_enc/VTV_Plus_HD.mpd
 
+#EXTINF:0 CUID="1979" tvg-name="VTV Plus" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjNxxcq70jHl1QPBGC8_FEs1tIX0U-dorcL4g7WL3siBai0pTFDiJqSzeexwKpk_w20-jO5L3Zp2npvj2fBWGjVGWVbJXVUdO5WqZfnxbVT2o.png" group-title="⚽Deportes Uruguay",VTV Plus
+http://tvplanet.online/live/Logitech25/Logitech25/1070325.m3u8
+
+#EXTINF:0 CUID="2482" tvg-name="VTV Plus (OP2)" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjNxxcq70jHl1QPBGC8_FEs1tIX0U-dorcL4g7WL3siBai0pTFDiJqSzeexwKpk_w20-jO5L3Zp2npvj2fBWGjVGWVbJXVUdO5WqZfnxbVT2o.png" group-title="⚽Deportes Uruguay",VTV Plus (OP2)
+http://tvplanet.online/live/Logitech25/Logitech25/1071706.m3u8
+
+#EXTINF:0 CUID="738" tvg-name="Directv Sports Uruguay" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/DirecTVSportsLA.png/revision/latest/scale-to-width-down/250?cb=20180331121606" group-title="⚽Deportes Uruguay",Directv Sports Uruguay
+http://tvplanet.online/live/Logitech25/Logitech25/589329.m3u8
+
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a0aa01337a2148bda1e21862295ae037:fee0f87a0527497351fc54ce36ad1de2
 #EXTINF:-1 tvg-chno="209" tvg-id="AmericaSports.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/AMESP.png?raw=true" group-title="🇦🇷 Deportes", América Sports
