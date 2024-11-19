@@ -95,3 +95,11 @@ https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/j4y12ucrx0/o
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b3f1c9271d9d51999a401da6ded4d376&key=9ebd349045e5c8435e2cc50eeaf7d227
 https://0055-jbc.dtvott.com/dash_live_0057/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+ {
+        "name": "CANAL 9 ",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc/Canal9.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=24f4ff211136ae6512a1b552200db405&key=602122f8426c5c942b8c18d299cc6020",
+        "icono": "https://i.postimg.cc/2S9JLKLG/Canal-9.png"
+      },
