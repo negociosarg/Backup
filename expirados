@@ -45,3 +45,18 @@ https://chromecast.cvattv.com.ar/live/c3eds/Canal_U/SA_Live_dash_enc_C/Canal_U.m
 #KODIPROP:inputstream.adaptive.license_key=5235d8ee29f14ce6b26ea5d828aee77a:6bf6bd339e3098babc2ab0b984cd2376
 #EXTINF:-1 tvg-id="Telesur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/TeleSUR_Logo.jpg", Telesur
 https://chromecast.cvattv.com.ar/live/c6eds/Telesur/SA_Live_dash_enc/Telesur.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WsDVtKJ/AATXAJxna-EZa9-Kmw-LXr-Yq-Dc-MZTf88wo-Sug34-Gkqy5u-E-5-Q-s900-c-k-c0xffffffff-no-rj-mo.jpg" group-title="🇦🇷 Argentina", C5N
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=050df5c6e78c774e78c3e99eef8a1b29:0e4141d6ab21a36cbc4da777ab3096d4
+https://cdn.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc/C5N.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S3j0Kw5/televisionnacionaluruguay-500x500-300x300.jpg" group-title="🇺🇾 URUGUAY", TNU
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c50518d7f59f4c0aa9a3079fe2b014fd:96038f76a2ba33866ea54eb4b260573f
+https://cdn.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/SA_Live_dash_enc_2A/TV_Nacional_Uy.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
+#EXTINF:-1 tvg-logo="https://berita.99.co/wp-content/uploads/2021/03/cara-berlangganan-mola-tv.jpg", group-title="Deportes Internacionales", Event MolaTV 1
+https://live.mocdn.tv/out/v1/678ab9a54d9844568af751dcaf418d97/manifest_L1.mpd
