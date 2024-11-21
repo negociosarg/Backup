@@ -2456,10 +2456,10 @@ http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/1
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b4f56d5c19b45fb3e75a73b6ec06e6c:c464e2b6ded2b52e1e7753b3a859abce
-#EXTINF:-1 tvg-id="New-Brasil" tvg-logo="https://i.ibb.co/5vSfGjj/new-brasil.png", group-title="🇧🇷 BRASIL", New Brasil
+#EXTINF:-1 tvg-id="New-Brasil" tvg-logo="https://i.ibb.co/5vSfGjj/new-brasil.png", group-title="🇧🇷 Brasil", New Brasil
 https://chromecast.cvattv.com.ar/live/c7eds/Bandeirantes/SA_Live_dash_enc/Bandeirantes.mpd
 
-#EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/default/band.svg" group-title="🇧🇷 BRASIL",BAND
+#EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/default/band.svg" group-title="🇧🇷 Brasil",BAND
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"eb1a381423dba5a015ab153f51963d64":"354110a92a3176fa4004d5f772a3349b","71e0b26d9074f28859ec81298c2abcf6":"259b82830b8b7eedabce6a74a67a4f2a"}
@@ -2468,7 +2468,7 @@ https://chromecast.cvattv.com.ar/live/c7eds/Bandeirantes/SA_Live_dash_enc/Bandei
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.188 Safari/537.36 CrKey/1.54.250118
 https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOBNHD/dsc2/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/default/band.svg" group-title="🇧🇷 BRASIL",BAND
+#EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/default/band.svg" group-title="🇧🇷 Brasil",BAND
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"eb1a381423dba5a015ab153f51963d64":"354110a92a3176fa4004d5f772a3349b","71e0b26d9074f28859ec81298c2abcf6":"259b82830b8b7eedabce6a74a67a4f2a"}
@@ -2485,11 +2485,11 @@ https://chromecast.cvattv.com.ar/live/c6eds/RAI/SA_Live_dash_enc_2A/RAI.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b0bd8ea11b3f4c219903085ef1d44b0d:9a25709a72c2ca93cb738665736cfa5a
-#EXTINF:-1 tvg-id="Rede-Record" tvg-logo="https://i.postimg.cc/DmVv4ZCT/rede-record.png", group-title="🇧🇷 BRASIL", Rede Record Brasil
+#EXTINF:-1 tvg-id="Rede-Record" tvg-logo="https://i.postimg.cc/DmVv4ZCT/rede-record.png", group-title="🇧🇷 Brasil", Rede Record Brasil
 http://chromecast.cvattv.com.ar/live/c3eds/Rede_Record/SA_Live_dash_enc/Rede_Record.mpd
 
 
-#EXTINF:-1 tvg-logo="https://github.com/rolnando-play/RP/raw/master/app/canalesImg/globo.png" group-title="🇧🇷 BRASIL", Rede Globo
+#EXTINF:-1 tvg-logo="https://github.com/rolnando-play/RP/raw/master/app/canalesImg/globo.png" group-title="🇧🇷 Brasil", Rede Globo
 https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://futebolplayhd.stream/imagens-futebol/a871af6c1cd17cf8c44a2a62a244b689.jpg" group-title="⚽DEPORTES BRASIL",SPORTV 
