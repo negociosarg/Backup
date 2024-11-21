@@ -2733,54 +2733,6 @@ https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k54p59F0/BNB-DIGITAL-TV.jpg" group-title="Documentales y Noticias",BNB DIGITAL HD
 https://vdo.grupolimalive.com:3375/live/bnbdigitallive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KwxzMMq/latino-kids-hd.jpg" group-title="Anime y Series",LATINO KIDS HD
-https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwzMd603/BIGTV01.jpg" group-title="Anime y Series",BIG TV HD
-https://ssh101-fl.bozztv.com/ssh101/bigchannel/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/sxhdVLHw/Gogogo-Play-Bolivia23.jpg" group-title="Anime y Series",GOGOPLAY TV HD
-https://fl1002.bozztv.com/ssh101/gogoplay/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0mchcCP/PLANETA-KIDS-HD.jpg" group-title="Anime y Series",PLANETA TV KIDS HD
-https://tls-cl.cdnz.cl/planetatvkids/live/chunklist_w1512543000.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WzJLqDM/ANIME-STATION-HD.jpg" group-title="Anime y Series",ANIME STATION TV HD
-https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/q50cC4c/LOGOS-TV-KIDS-HD.jpg" group-title="Anime y Series",LOGOS TV KIDS
-https://streamer1.streamhost.org/salive/logoskidsH/chunklist_w578670889.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MMGhvkY/GRACIA-TV-HD.jpg" group-title="Anime y Series",GRACIA TV HD
-https://v4.tustreaming.cl/graciatv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vm8YTgqH/FAN-POP-HD.jpg" group-title="Anime y Series",ENERGEEK FANPOP HD
-https://wifispeed.trapemn.tv:1936/energeek/canal-1p/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9mJCtHC/RETRO-HD-ANIME.jpg" group-title="Anime y Series",ENERGEEK RETRO HD
-https://wifispeed.trapemn.tv:1936/energeek/canal-2p/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ch1xSz2/MONI-TV-HD.jpg" group-title="Anime y Series",MONI TV HD
-https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bb1TFCC/magictvkids-HD.jpg" group-title="Anime y Series",MAGICKIDS TV HD
-https://magicstream.ddns.net/magicstream/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vBj4w62/varied-tv-hd.jpg" group-title="Anime y Series",VARIED TV HD
-https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xdN5BFS0/PANDAMAX-HD.jpg" group-title="Anime y Series",PANDAMAX TV HD
-https://stream.wifiexpert.cl/telenorte/pandamaxch/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xCJhqyJ/DELTA-TV-HD-02.jpg" group-title="Anime y Series",DELTA TV HD
-https://vsrv1.az-streamingserver.com:3068/live/vdsocmnulive.m3u8
-
-#EXTINF:-1 tvg-id="MAGICKIDS" tvg-logo="https://i.postimg.cc/kMvg16hg/magictvkids-HD.jpg" group-title="Anime y Series",MAGICKIDS HD
-https://magicstream.ddns.net/magicstream/stream.m3u8
-
-#EXTINF:-1 tvg-id="RETROMAGICO" tvg-logo="https://i.postimg.cc/QxdxvYcB/RETRO-MAGICO-HD.jpg" group-title="Anime y Series",RETROMAGICO HD
-https://fl1002.bozztv.com/ssh101/retromagicochnl/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1ZDWTJ0/teleritmohd.jpg" group-title="Musicales",TELE RITMO HD
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
