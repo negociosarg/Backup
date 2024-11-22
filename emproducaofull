@@ -156,38 +156,38 @@ deportes
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=da8a49a594160cc0059f07b9f71cd39a:37ca91dd799b351a02445151c7f61070
-#EXTINF:-1 tvg-id="VTVPlus.uy.uy" tvg-logo="https://dl.dropbox.com/scl/fi/euk6d7rq2vt77e7ttt6tz/vtvplus.png?rlkey=jubnbfbirssq1hur4kqp44ojd&dl=1" group-title="⚽Deportes", VTV Uruguay
+#EXTINF:-1 tvg-id="VTVPlus.uy.uy" tvg-logo="https://dl.dropbox.com/scl/fi/euk6d7rq2vt77e7ttt6tz/vtvplus.png?rlkey=jubnbfbirssq1hur4kqp44ojd&dl=1" group-title="Uruguay⚽Deportes", VTV Uruguay
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 http://flow-live.dlt.qwilted-cds.cqloud.com/live/c3eds/VTV_Plus_HD/SA_Live_dash_enc/VTV_Plus_HD.mpd
 
-#EXTINF:-1 tvg-chno="206" tvg-id="SportMax.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EVNTD.png?raw=true" group-title="⚽Deportes",  SportMax
+#EXTINF:-1 tvg-chno="206" tvg-id="SportMax.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EVNTD.png?raw=true" group-title="Argentina⚽Deportes",  SportMax
 https://streaming-cl.sh1ny.space/memfs/8f9ec7e3-88d4-40c6-8a61-16162780fd33.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png", group-title="⚽Deportes", D Sports
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png", group-title="Argentina⚽Deportes", D Sports
 http://177.53.155.236:8000/play/a0co/index.m3u8
 
-#EXTINF:-1 tvg-id="GOL TV HD.cl" tvg-logo="https://dl.dropbox.com/scl/fi/b5vv58w3mdjkopsb9edhy/goltv.jpg?rlkey=digisjr7amuf7j7xudugbe3m4&dl=1", group-title="⚽Deportes", Gol TV
+#EXTINF:-1 tvg-id="GOL TV HD.cl" tvg-logo="https://dl.dropbox.com/scl/fi/b5vv58w3mdjkopsb9edhy/goltv.jpg?rlkey=digisjr7amuf7j7xudugbe3m4&dl=1", group-title="Uruguay⚽Deportes", Gol TV
 http://45.189.108.146:1935/xmp_trans/goltv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="212" tvg-id="DeporTV.ar" tvg-logo="https://git.io/JOTOg" group-title="⚽Deportes", DeporTV
+#EXTINF:-1 tvg-chno="212" tvg-id="DeporTV.ar" tvg-logo="https://git.io/JOTOg" group-title="Argentina⚽Deportes", DeporTV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1904c4d846a99e940903174bdbab74f0:08a4ca972cd037a1fe042515c310bfe1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 http://cdn.sensa.com.ar/live/eds/Deportv/live_dash_cld/Deportv.mpd
 
-#EXTINF:-1 tvg-chno="221" tvg-id="ClaroSports.mx.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CLASP.png?raw=true" group-title="⚽Deportes", Claro Sports
+#EXTINF:-1 tvg-chno="221" tvg-id="ClaroSports.mx.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CLASP.png?raw=true" group-title="Argentina⚽Deportes", Claro Sports
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 http://cdn.sensa.com.ar/live/eds/ClaroSports/live_dash_cld/ClaroSports.mpd
 
-#EXTINF:-1 tvg-chno="201" tvg-id="TyCSports.ar" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png" group-title="⚽Deportes", TyC Sports
+#EXTINF:-1 tvg-chno="201" tvg-id="TyCSports.ar" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png" group-title="Argentina⚽Deportes", TyC Sports
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=53d0cf6c1d49c16f5180f86e1870b00f:7eb6743b5f44b52ba27c88229c8c7ae2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 http://cdn.sensa.com.ar/live/eds/TYCSports/live_dash_cld/TYCSports.mpd
 
-#EXTINF:-1 tvg-id="TyCSports2.ar" tvg-logo="https://i.ibb.co/ZJMgxxp/tyc-sports2.png" group-title="⚽Deportes", TYC SPORTS 2
+#EXTINF:-1 tvg-id="TyCSports2.ar" tvg-logo="https://i.ibb.co/ZJMgxxp/tyc-sports2.png" group-title="Argentina⚽Deportes", TYC SPORTS 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0ae7b0708be4edf3453c1ab9d6976974:8b31a9788f6dc12640ba69560fcb4b39
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
@@ -254,67 +254,67 @@ http://cdn.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd
 http://cdn.sensa.com.ar/live/eds/FoxSportsPremium/live_dash_cld/FoxSportsPremium.mpd
 
 
-#EXTINF:-1 tvg-chno="206" tvg-id="ESPN HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/800/542/0/0/25899985073189.png" group-title="⚽Deportes", ESPN
+#EXTINF:-1 tvg-chno="206" tvg-id="ESPN HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/800/542/0/0/25899985073189.png" group-title="Argentina⚽Deportes", ESPN
 http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn1/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="206" tvg-id="ESPN 2 HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/800/542/0/0/32397574073429.png" group-title="⚽Deportes", ESPN 2
+#EXTINF:-1 tvg-chno="206" tvg-id="ESPN 2 HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/800/542/0/0/32397574073429.png" group-title="Argentina⚽Deportes", ESPN 2
 http://bantel-cdn1.iptvperu.tv:1935/cdnwen/ESPN2.stream/playlist.m3u8
  
-#EXTINF:-1 tvg-id="ESPN 3 HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/85/CH_LOGO/800/542/0/0/85904894074972.png" group-title="⚽Deportes", ESPN 3
+#EXTINF:-1 tvg-id="ESPN 3 HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/85/CH_LOGO/800/542/0/0/85904894074972.png" group-title="Argentina⚽Deportes", ESPN 3
 http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn3/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="208" tvg-id="ESPN 4 HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/83/CH_LOGO/800/542/0/0/16514023071132.png" group-title="⚽Deportes", ESPN 4
+#EXTINF:-1 tvg-chno="208" tvg-id="ESPN 4 HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/83/CH_LOGO/800/542/0/0/16514023071132.png" group-title="Argentina⚽Deportes", ESPN 4
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=034653d3413f23e87249d1fb7e68359a:a0d6b849f17c430e9cc02d07739a4e4a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 http://cdn.sensa.com.ar/live/eds/ESPN4/live_dash_cld/ESPN4.mpd
 
-#EXTINF:-1 tvg-chno="206" tvg-id="ESPN 5 HD.uy" tvg-logo="https://i.ibb.co/JzvWVcS/5522598607348.png" group-title="⚽Deportes", ESPN 5
+#EXTINF:-1 tvg-chno="206" tvg-id="ESPN 5 HD.uy" tvg-logo="https://i.ibb.co/JzvWVcS/5522598607348.png" group-title="Argentina⚽Deportes", ESPN 5
 http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn5/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="206" tvg-id="ESPN 6 HD.uy" tvg-logo="https://i.ibb.co/ZYmDHdM/15905984073899.png" group-title="⚽Deportes", ESPN 6
+#EXTINF:-1 tvg-chno="206" tvg-id="ESPN 6 HD.uy" tvg-logo="https://i.ibb.co/ZYmDHdM/15905984073899.png" group-title="Argentina⚽Deportes", ESPN 6
 http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn6/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="206" tvg-id="ESPN 7 HD.uy" tvg-logo="https://i.ibb.co/W2mSmQb/12041360073463.png" group-title="⚽Deportes", ESPN 7
+#EXTINF:-1 tvg-chno="206" tvg-id="ESPN 7 HD.uy" tvg-logo="https://i.ibb.co/W2mSmQb/12041360073463.png" group-title="Argentina⚽Deportes", ESPN 7
 http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn7/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="202" tvg-id="FoxSports.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/FOXSP.png?raw=true" group-title="⚽Deportes", FOX Sports
+#EXTINF:-1 tvg-chno="202" tvg-id="FoxSports.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/FOXSP.png?raw=true" group-title="Argentina⚽Deportes", FOX Sports
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a61b644fdc68568b5be3e2629041564:a1672cdfb5de64707151128f811da667
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 http://cdn.sensa.com.ar/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd
 
-#EXTINF:-1 tvg-chno="203" tvg-id="FoxSports2.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/FXSP2.png?raw=true" group-title="⚽Deportes", FOX Sports 2
+#EXTINF:-1 tvg-chno="203" tvg-id="FoxSports2.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/FXSP2.png?raw=true" group-title="Argentina⚽Deportes", FOX Sports 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ec1c5620f5c1553d3238988714e71b2:b8917b12e851dfc7bb8a3b832348b3be
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 http://cdn.sensa.com.ar/live/eds/FoxSports2/live_dash_cld/FoxSports2.mpd
 
-#EXTINF:-1 tvg-chno="204" tvg-id="FoxSports3Panregional.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/FXSP3.png?raw=true" group-title="⚽Deportes", FOX Sports 3
+#EXTINF:-1 tvg-chno="204" tvg-id="FoxSports3Panregional.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/FXSP3.png?raw=true" group-title="Argentina⚽Deportes", FOX Sports 3
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c7f87e51c56a87a59cab7ec98fd062db:c3f0d7d067e385900a0e6d4c8e406a68
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 http://cdn.sensa.com.ar/live/eds/FoxSports3/live_dash_cld/FoxSports3.mpd
 
-#EXTINF:-1 tvg-chno="206" tvg-id="SportMax.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EVNTD.png?raw=true" group-title="⚽Deportes", SportMax
+#EXTINF:-1 tvg-chno="206" tvg-id="SportMax.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EVNTD.png?raw=true" group-title="Argentina⚽Deportes", SportMax
 https://streaming-cl.sh1ny.space/memfs/8f9ec7e3-88d4-40c6-8a61-16162780fd33.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png", D Sports
 http://177.53.155.236:8000/play/a0co/index.m3u8
 
-#EXTINF:-1 tvg-chno="209" tvg-id="AmericaSports.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/AMESP.png?raw=true" group-title="⚽Deportes", América Sports
+#EXTINF:-1 tvg-chno="209" tvg-id="AmericaSports.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/AMESP.png?raw=true" group-title="Argentina⚽Deportes", América Sports
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f9a70c294ea75346b991a61c55ff1d8f:7012eb6cd752998ee5cfbe68517491f5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 http://cdn.sensa.com.ar/live/eds/AmericaSports/live_dash_cld/AmericaSports.mpd
 
-#EXTINF:-1 tvg-chno="210" tvg-id="GarageTVLatinAmerica.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/GRGTV.png?raw=true" group-title="⚽Deportes", Garage TV
+#EXTINF:-1 tvg-chno="210" tvg-id="GarageTVLatinAmerica.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/GRGTV.png?raw=true" group-title="Argentina⚽Deportes", Garage TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ad1be5752980085910010adb9d72532d:8acfaacb600b382bfe18962964355ce6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 http://cdn.sensa.com.ar/live/eds/ElGarage/live_dash_cld/ElGarage.mpd
 
-#EXTINF:-1 tvg-chno="214" tvg-id="GolfChannelLatinAmerica.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/GOLFC.png?raw=true" group-title="⚽Deportes", Golf TV
+#EXTINF:-1 tvg-chno="214" tvg-id="GolfChannelLatinAmerica.us" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/GOLFC.png?raw=true" group-title="Argentina⚽Deportes", Golf TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=be71d8107de961319fc6a47d9f1c79ad:02071a1c9846318c60480d4086be8e9b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
@@ -751,7 +751,7 @@ http://cdn.sensa.com.ar/live/eds/DiscoveryTheater/live_dash_cld/DiscoveryTheater
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 http://cdn.sensa.com.ar/live/eds/DiscoveryTravelAndLiving/live_dash_cld/DiscoveryTravelAndLiving.mpd
 
-#EXTINF:-1 tvg-chno="211" tvg-id="Discovery Turbo HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DSCTR.png?raw=true" group-title="⚽Deportes", Discovery Turbo
+#EXTINF:-1 tvg-chno="211" tvg-id="Discovery Turbo HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DSCTR.png?raw=true" group-title="Argentina⚽Deportes", Discovery Turbo
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6902d50ec036d30146b12b927f4363d4:d40dc5eb6e0f8fbd58ab7dd6b91143b5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
