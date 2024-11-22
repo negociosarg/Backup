@@ -154,7 +154,20 @@ http://cdn.sensa.com.ar/live/eds/PakaPaka/live_dash_cld/PakaPaka.mpd
 
 deportes
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=da8a49a594160cc0059f07b9f71cd39a:37ca91dd799b351a02445151c7f61070
+#EXTINF:-1 tvg-id="VTVPlus.uy.uy" tvg-logo="https://dl.dropbox.com/scl/fi/euk6d7rq2vt77e7ttt6tz/vtvplus.png?rlkey=jubnbfbirssq1hur4kqp44ojd&dl=1" group-title="⚽Deportes", VTV Uruguay
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://flow-live.dlt.qwilted-cds.cqloud.com/live/c3eds/VTV_Plus_HD/SA_Live_dash_enc/VTV_Plus_HD.mpd
 
+#EXTINF:-1 tvg-chno="206" tvg-id="SportMax.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EVNTD.png?raw=true" group-title="⚽Deportes",  SportMax
+https://streaming-cl.sh1ny.space/memfs/8f9ec7e3-88d4-40c6-8a61-16162780fd33.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png", group-title="⚽Deportes", D Sports
+http://177.53.155.236:8000/play/a0co/index.m3u8
+
+#EXTINF:-1 tvg-id="GOL TV HD.cl" tvg-logo="https://dl.dropbox.com/scl/fi/b5vv58w3mdjkopsb9edhy/goltv.jpg?rlkey=digisjr7amuf7j7xudugbe3m4&dl=1", group-title="⚽Deportes", Gol TV
+http://45.189.108.146:1935/xmp_trans/goltv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="212" tvg-id="DeporTV.ar" tvg-logo="https://git.io/JOTOg" group-title="⚽Deportes", DeporTV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -303,11 +316,32 @@ http://cdn.sensa.com.ar/live/sta01/PXSports/live_dash_cld/PXSports.mpd
 
 
 
-
-
 infantiles
 
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7f30c43e47544412221fd64201d92f4b:f83d09d75a0946b1d71aa48c201b4d8b
+#EXTINF:-1 tvg-chno="310" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DRWKS.png?raw=true" group-title="Infantiles y Familiares", Dreamworks TV
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://flow-live.dlt.qwilted-cds.cqloud.com/live/c7eds/Dreamworks/SA_Live_dash_enc_2A/Dreamworks.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8e88e1572dcd2b31a10026668d628d61:ab95bdc2655aff4f4a8e512fb68c80df
+#EXTINF:-1 tvg-chno="301" tvg-id="PLIM PLIM TV" tvg-logo="https://i.ibb.co/HgqtG9q/plim-plim.png" group-title="Infantiles y Familiares", PLIM PLIM TV
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://flow-live.dlt.qwilted-cds.cqloud.com/live/c6eds/Plim_Plim/SA_Live_dash_enc/Plim_Plim.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=10638a722eb54c64bfb0e7a77483686a:41a7d3d522e19215b7e8f611b6902d61
+#EXTINF:-1 tvg-id="Tooncast.us.uy" tvg-chno="312" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TCAST.png?raw=true" group-title="Infantiles y Familiares", Tooncast
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://flow-live.dlt.qwilted-cds.cqloud.com/live/c6eds/Tooncast/SA_Live_dash_enc_2A/Tooncast.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dcd89337a501ab929c01a039774089dc:e96cc7be9139a8d581b3f5eebebfc10d
+#EXTINF:-1 tvg-id="KIDOO" tvg-logo="https://dl.dropbox.com/scl/fi/z8296ru65sv7idhivi2gm/kidoo.png?rlkey=75o8qsatemf9z87s5um3qonp6&dl=1", KidOO
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://cdn-mun.cvattv.com.ar/live/c6eds/Kidoo/SA_Live_dash_enc/Kidoo.mpd
 
 #EXTINF:-1 tvg-chno="311" tvg-id="Baby TV.uy" tvg-logo="https://1.bp.blogspot.com/-QY72YPUZ_-A/X8_CSWEtfxI/AAAAAAAA7kg/S8H7gAJczlImH4fE131WrPpb_VRz2Md4ACLcBGAsYHQ/s500/babytv-2017.png" group-title="Infantiles y Familiares", Baby TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -315,7 +349,7 @@ infantiles
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 http://cdn.sensa.com.ar/live/sta01/BabyTV/live_dash_cld/BabyTV.mpd
 
-#EXTINF:-1 tvg-id="CanalInfantil" tvg-logo="https://dl.dropbox.com/scl/fi/quey4nnf41249gpxk2u14/canal-infantil.jpg?rlkey=nlgxwp78pqffqd6ppl8zsf2o0&dl=1", Canal Infantil
+#EXTINF:-1 tvg-id="CanalInfantil" tvg-logo="https://dl.dropbox.com/scl/fi/quey4nnf41249gpxk2u14/canal-infantil.jpg?rlkey=nlgxwp78pqffqd6ppl8zsf2o0&dl=1",  group-title="Infantiles y Familiares", Canal Infantil
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=39673983f4ba22f0f80c0934ce0424c8:cd9f3498cb63cc72d1317b14a67ab93c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
@@ -371,7 +405,7 @@ http://cdn.sensa.com.ar/live/eds/NickJrCo/live_dash_cld/NickJrCo.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 http://cdn.sensa.com.ar/live/eds/Tooncast/live_dash_cld/Tooncast.mpd
 
-#EXTINF:-1 tvg-id="ZooMoo.sg" tvg-logo="https://www.dropbox.com/scl/fi/kon8vexrj1s65pctcbjis/zoomoo.webp?rlkey=a5xyd3h3lc5l4rgh12ynevgww&dl=1", Zoo Mo
+#EXTINF:-1 tvg-id="ZooMoo.sg" tvg-logo="https://www.dropbox.com/scl/fi/kon8vexrj1s65pctcbjis/zoomoo.webp?rlkey=a5xyd3h3lc5l4rgh12ynevgww&dl=1",  group-title="Infantiles y Familiares", Zoo Mo
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=070660c4a07ab644fba62dab07306d43:6786eb56337a318fce0b7f9cccf96478
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
