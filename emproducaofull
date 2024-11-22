@@ -1306,7 +1306,7 @@ http://45.189.108.146:1935/xmp_trans/goltv.stream/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=da8a49a594160cc0059f07b9f71cd39a:37ca91dd799b351a02445151c7f61070
-#EXTINF:-1 ch-number="806" tvg-id="VTVPlus.uy.uy" tvg-logo="https://dl.dropbox.com/scl/fi/euk6d7rq2vt77e7ttt6tz/vtvplus.png?rlkey=jubnbfbirssq1hur4kqp44ojd&dl=1" group-title="Uruguay ⚽ Deportes", VTV Uruguay
+#EXTINF:-1 ch-number="806" tvg-id="VTVPlus.uy.uy" tvg-logo="https://dl.dropbox.com/scl/fi/euk6d7rq2vt77e7ttt6tz/vtvplus.png?rlkey=jubnbfbirssq1hur4kqp44ojd&dl=1" group-title="Uruguay⚽Deportes", VTV Uruguay
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 http://flow-live.dlt.qwilted-cds.cqloud.com/live/c3eds/VTV_Plus_HD/SA_Live_dash_enc/VTV_Plus_HD.mpd
 
@@ -1329,25 +1329,25 @@ http://multiplay.plus/:8080/live/Superliga2025/20581410265ad76b/86068.m3u8
 http://multiplay.plus/:8080/live/Superliga2025/20581410265ad76b/86069.m3u8
 
 
-#EXTINF:-1 tvg-id="TV CIUDAD" tvg-name="TV CIUDAD OPCION 1" tvg-logo="https://dl.dropbox.com/scl/fi/xb8mxyjfndxc2a8b26s94/tvciudad.png?rlkey=tdm6cihv0v8kpneo2t8m3j2hv&dl=1" group-title="Uruguay",TV CIUDAD OPCION 1
+#EXTINF:-1 tvg-id="TV CIUDAD" tvg-name="TV CIUDAD OPCION 1" tvg-logo="https://i.ibb.co/RzgWVPV/713px-TV-Ciudad-Logo-Nuevo-removebg-preview.png" group-title="Uruguay",TV CIUDAD OPCION 1
 http://multiplay.plus/:8080/live/Superliga2025/20581410265ad76b/86076.m3u8
-#EXTINF:-1 tvg-id="TV CIUDAD" tvg-name="TV CIUDAD (exclusivo)" tvg-logo="https://dl.dropbox.com/scl/fi/xb8mxyjfndxc2a8b26s94/tvciudad.png?rlkey=tdm6cihv0v8kpneo2t8m3j2hv&dl=1" group-title="Uruguay",TV CIUDAD (exclusivo)
+#EXTINF:-1 tvg-id="TV CIUDAD" tvg-name="TV CIUDAD (exclusivo)" tvg-logo="https://i.ibb.co/RzgWVPV/713px-TV-Ciudad-Logo-Nuevo-removebg-preview.png" group-title="Uruguay",TV CIUDAD (exclusivo)
 http://multiplay.plus/:8080/live/Superliga2025/20581410265ad76b/86077.m3u8
 #EXTINF:-1 tvg-id="Maroñas Entertainment" tvg-name="MAROÑAS TV" tvg-logo="https://seeklogo.com/images/M/maro__as-logo-E873D14D49-seeklogo.com.png" group-title="Uruguay",MAROÑAS TV
 http://multiplay.plus/:8080/live/Superliga2025/20581410265ad76b/86080.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHARRUA TV" tvg-logo="https://static.wixstatic.com/media/f8faa2_b19584fbaeb44266bddc2664e3a64331~mv2.jpg/v1/fill/w_275,h_130,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/logo%2520CHARRUATV_2018_edited.jpg" group-title="Uruguay",CHARRUA TV
 http://multiplay.plus/:8080/live/Superliga2025/20581410265ad76b/86082.m3u8
-#EXTINF:-1 tvg-id="VTVUR" tvg-name="VTV OPCION 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Logo_VTV_nuevo.png" group-title="Uruguay ⚽ Deportes",VTV OPCION 1
+#EXTINF:-1 tvg-id="VTVUR" tvg-name="VTV OPCION 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Logo_VTV_nuevo.png" group-title="Uruguay",VTV OPCION 1
 http://multiplay.plus/:8080/live/Superliga2025/20581410265ad76b/86088.m3u8
-#EXTINF:-1 tvg-id="VTVUR" tvg-name="VTV OPCION 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Logo_VTV_nuevo.png" group-title="Uruguay ⚽ Deportes",VTV OPCION 2
+#EXTINF:-1 tvg-id="VTVUR" tvg-name="VTV OPCION 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Logo_VTV_nuevo.png" group-title="Uruguay",VTV OPCION 2
 http://multiplay.plus/:8080/live/Superliga2025/20581410265ad76b/86089.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VTV OPCION 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Logo_VTV_nuevo.png" group-title="Uruguay ⚽ Deportes",VTV OPCION 3
+#EXTINF:-1 tvg-id="" tvg-name="VTV OPCION 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Logo_VTV_nuevo.png" group-title="Uruguay",VTV OPCION 3
 http://multiplay.plus/:8080/live/Superliga2025/20581410265ad76b/86090.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VTV PLUS OPCION 1" tvg-logo="http://imgfz.com/i/dTApbyc.png" group-title="Uruguay ⚽ Deportes",VTV PLUS OPCION 1
+#EXTINF:-1 tvg-id="" tvg-name="VTV PLUS OPCION 1" tvg-logo="https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png" group-title="Uruguay⚽Deportes",VTV PLUS OPCION 1
 http://multiplay.plus/:8080/live/Superliga2025/20581410265ad76b/86091.m3u8
-#EXTINF:-1 tvg-id="VTVMUR" tvg-name="VTV PLUS OPCION 2" tvg-logo="http://imgfz.com/i/dTApbyc.png" group-title="Uruguay ⚽ Deportes",VTV PLUS OPCION 2
+#EXTINF:-1 tvg-id="VTVMUR" tvg-name="VTV PLUS OPCION 2" tvg-logo="https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png" group-title="Uruguay⚽Deportes",VTV PLUS OPCION 2
 http://multiplay.plus/:8080/live/Superliga2025/20581410265ad76b/86092.m3u8
-#EXTINF:-1 tvg-id="VTVMUR" tvg-name="VTV PLUS OPCION 3" tvg-logo="http://imgfz.com/i/dTApbyc.png" group-title="Uruguay ⚽ Deportes",VTV PLUS OPCION 3
+#EXTINF:-1 tvg-id="VTVMUR" tvg-name="VTV PLUS OPCION 3" tvg-logo="https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png" group-title="Uruguay⚽Deportes",VTV PLUS OPCION 3
 http://multiplay.plus/:8080/live/Superliga2025/20581410265ad76b/86093.m3u8
 
 
