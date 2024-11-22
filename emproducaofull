@@ -1055,6 +1055,194 @@ http://flow-live.dlt.qwilted-cds.cqloud.com/live/c4eds/Somos_Salta/SA_Live_dash_
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 http://flow-live.dlt.qwilted-cds.cqloud.com/live/c5eds/Somos_STF/SA_Live_dash_enc/Somos_STF.mpd
 
+Brasil
+
+#EXTM3U
+#EXTINF:0 CUID="65" tvg-name="Sportv 4k" tvg-id="sportv.br" tvg-logo="https://logo.iptveditor.com/sportv.png" group-title="Brasil",Sportv 4k
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/80
+#EXTINF:0 CUID="66" tvg-name="Star +2" tvg-logo="https://logo.iptveditor.com/star.png" group-title="Brasil",Star +2
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/39
+#EXTINF:0 CUID="67" tvg-name="Star +1" tvg-logo="https://logo.iptveditor.com/star.png" group-title="Brasil",Star +1
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/38
+#EXTINF:0 CUID="68" tvg-name="PARAMOUNT PLUS 4 HD" tvg-logo="https://logo.iptveditor.com/mparamountplus4.png" group-title="Brasil",PARAMOUNT PLUS 4 HD
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/37
+#EXTINF:0 CUID="69" tvg-name="Paramount plus 3" tvg-logo="https://logo.iptveditor.com/mparamountplus3.png" group-title="Brasil",Paramount plus 3
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/36
+#EXTINF:0 CUID="70" tvg-name="Paramount plus 2" tvg-logo="https://logo.iptveditor.com/mparamountplus2.png" group-title="Brasil",Paramount plus 2
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/35
+#EXTINF:0 CUID="71" tvg-name="Paramount plus 1 hd" tvg-logo="https://logo.iptveditor.com/paramountplus.png" group-title="Brasil",Paramount plus 1 hd
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/34
+#EXTINF:0 CUID="72" tvg-name="Globo minas 4Kk" tvg-id="globobelohorizonte.br" tvg-logo="https://logo.iptveditor.com/globominas.png" group-title="Brasil",Globo minas 4Kk
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/29
+#EXTINF:0 CUID="73" tvg-name="Sportv 3 HD" tvg-id="sportv3.br" tvg-logo="https://logo.iptveditor.com/sportv3.png" group-title="Brasil",Sportv 3 HD
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/28
+#EXTINF:0 CUID="74" tvg-name="TNT HD" tvg-id="tnt.br" tvg-logo="https://logo.iptveditor.com/tnt.png" group-title="Brasil",TNT HD
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/27
+#EXTINF:0 CUID="75" tvg-name="Band Nordeste HD" group-title="Brasil",Band Nordeste HD
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/26
+#EXTINF:0 CUID="76" tvg-name="Jovem pan 4kk" tvg-logo="https://logo.iptveditor.com/jovempannews.png" group-title="Brasil",Jovem pan 4kk
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/25
+#EXTINF:0 CUID="77" tvg-name="Globo news df" tvg-id="globonews.br" tvg-logo="https://logo.iptveditor.com/globonews.png" group-title="Brasil",Globo news df
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/24
+#EXTINF:0 CUID="78" tvg-name="Band sports 4k" tvg-id="bandsports.br" tvg-logo="https://logo.iptveditor.com/bandsports.png" group-title="Brasil",Band sports 4K
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/23
+#EXTINF:0 CUID="79" tvg-name="CNN BRASIL hdd" tvg-id="cnnbrasil.br" tvg-logo="https://logo.iptveditor.com/cnnbrasil.png" group-title="Brasil",CNN BRASIL hdd
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/22
+#EXTINF:0 CUID="80" tvg-name="GLOBO INTEGRAÇÃO JUIZ DE FORA hd" tvg-id="globobelohorizonte.br" group-title="Brasil",GLOBO INTEGRAÇÃO JUIZ DE FORA hd
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/21
+#EXTINF:0 CUID="81" tvg-name="FX" tvg-id="fx.br" tvg-logo="https://logo.iptveditor.com/fx.png" group-title="Brasil",FX
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/20
+#EXTINF:0 CUID="82" tvg-name="HBO MAX 2 HD" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="Brasil",HBO MAX 2 HD
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/19
+#EXTINF:0 CUID="83" tvg-name="Amazon Prime 1" group-title="Brasil",Amazon Prime 1
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/17
+#EXTINF:0 CUID="84" tvg-name="Sbt 4k" tvg-id="sbt.br" tvg-logo="https://logo.iptveditor.com/sbt.png" group-title="Brasil",Sbt 4k
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/16
+#EXTINF:0 CUID="85" tvg-name="Sportv 1 HD" tvg-id="sportv.br" tvg-logo="https://logo.iptveditor.com/sportv1.png" group-title="Brasil",Sportv 1 HD
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/14
+#EXTINF:0 CUID="86" tvg-name="Amazon prime 2" group-title="Brasil",Amazon prime 2
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/13
+#EXTINF:0 CUID="87" tvg-name="Sportv 2 HD" tvg-id="sportv2.br" tvg-logo="https://logo.iptveditor.com/sportv2.png" group-title="Brasil",Sportv 2 HD
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/9
+#EXTINF:0 CUID="88" tvg-name="Record HD" tvg-id="recordtv.br" tvg-logo="https://logo.iptveditor.com/record.png" group-title="Brasil",Record HD
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/8
+#EXTINF:0 CUID="89" tvg-name="Discovery channel HD" tvg-id="discoverychannel.br" tvg-logo="https://logo.iptveditor.com/discoverychannel.png" group-title="Brasil",Discovery channel HD
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/7
+#EXTINF:0 CUID="90" tvg-name="Premiere 3 hd" tvg-id="premiere3.br" tvg-logo="https://logo.iptveditor.com/premiere3.png" group-title="Brasil",Premiere 3 hd
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/6
+#EXTINF:0 CUID="91" tvg-name="Globo rj 4kk" tvg-id="globorj.br" tvg-logo="https://logo.iptveditor.com/globorj.png" group-title="Brasil",Globo rj 4kk
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/5
+#EXTINF:0 CUID="92" tvg-name="Premiere 2 hd" tvg-id="premiere2.br" tvg-logo="https://logo.iptveditor.com/premiere2.png" group-title="Brasil",Premiere 2 hd
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/4
+#EXTINF:0 CUID="93" tvg-name="Espn hd" tvg-id="espn.br" tvg-logo="https://logo.iptveditor.com/espn.png" group-title="Brasil",Espn hd
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/1
+#EXTINF:0 CUID="1" tvg-name="Globo news 4kk" tvg-id="globonews.br" tvg-logo="https://logo.iptveditor.com/globonews.png" group-title="Brasil - Rede Globo",Globo news 4kk
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/117
+#EXTINF:0 CUID="2" tvg-name="Globo rpc curitiba 4kk" tvg-id="rpccuritiba.br" group-title="Brasil - Rede Globo",Globo rpc curitiba 4kk
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/118
+#EXTINF:0 CUID="3" tvg-name="Record minas 4kk" tvg-id="recordtvminas.br" tvg-logo="https://logo.iptveditor.com/recordtvminas.png" group-title="Brasil - Rede Globo",Record minas 4kk
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/120
+#EXTINF:0 CUID="4" tvg-name="Globo nordeste 4kk" tvg-id="globonordeste.br" tvg-logo="https://logo.iptveditor.com/globonordeste.png" group-title="Brasil - Rede Globo",Globo nordeste 4kk
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/121
+#EXTINF:0 CUID="5" tvg-name="Rede Tv HD" tvg-id="redetv.br" tvg-logo="https://logo.iptveditor.com/redetv.png" group-title="Brasil - Rede Globo",Rede Tv HD
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/122
+#EXTINF:0 CUID="6" tvg-name="JOVEM PAN NEWS HD" tvg-logo="https://logo.iptveditor.com/jovempannews.png" group-title="Brasil - Rede Globo",JOVEM PAN NEWS HD
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/123
+#EXTINF:0 CUID="7" tvg-name="Universal channel hd" tvg-logo="https://logo.iptveditor.com/universalchannel.png" group-title="Brasil - Rede Globo",Universal channel hd
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/125
+#EXTINF:0 CUID="8" tvg-name="Multishow HD" tvg-id="multishow.br" tvg-logo="https://logo.iptveditor.com/multishow.png" group-title="Brasil - Rede Globo",Multishow HD
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/128
+#EXTINF:0 CUID="9" tvg-name="GLOBO NSC BLUMENAU HD" group-title="Brasil - Rede Globo",GLOBO NSC BLUMENAU HD
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/129
+#EXTINF:0 CUID="10" tvg-name="Megapix HD" tvg-id="megapix.br" tvg-logo="https://logo.iptveditor.com/megapix.png" group-title="Brasil - Rede Globo",Megapix HD
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/130
+#EXTINF:0 CUID="11" tvg-name="HBO MAX 1" tvg-logo="https://logo.iptveditor.com/hbomax.png" group-title="Brasil - Rede Globo",HBO MAX 1
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/131
+#EXTINF:0 CUID="12" tvg-name="Paramount plus 1" tvg-logo="https://logo.iptveditor.com/paramountplus.png" group-title="Brasil - Rede Globo",Paramount plus 1
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/133
+#EXTINF:0 CUID="13" tvg-name="Ufc" tvg-logo="https://logo.iptveditor.com/ufc.png" group-title="Brasil - Rede Globo",Ufc
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/134
+#EXTINF:0 CUID="14" tvg-name="GLOBO TV ANHANGUERA GOIAS" tvg-id="globoanhanguera.br" tvg-logo="https://logo.iptveditor.com/tvanhangueragoiania.png" group-title="Brasil - Rede Globo",GLOBO TV ANHANGUERA GOIAS
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/137
+#EXTINF:0 CUID="15" tvg-name="GLOBO TV TEM BAURo" tvg-logo="https://logo.iptveditor.com/globotvtem bauru.png" group-title="Brasil - Rede Globo",GLOBO TV TEM BAURo
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/138
+#EXTINF:0 CUID="16" tvg-name="EPTV RIBEIRAO PRETO" tvg-logo="https://logo.iptveditor.com/eptvribeiraopreto.png" group-title="Brasil - Rede Globo",EPTV RIBEIRAO PRETO
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/139
+#EXTINF:0 CUID="17" tvg-name="Discovery H&H" tvg-id="discovery.br" tvg-logo="https://logo.iptveditor.com/discovery.png" group-title="Brasil - Rede Globo",Discovery H&H
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/140
+#EXTINF:0 CUID="18" tvg-name="VIVA HD" tvg-id="viva.br" tvg-logo="https://logo.iptveditor.com/viva.png" group-title="Brasil - Rede Globo",VIVA HD
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/126
+#EXTINF:0 CUID="19" tvg-name="RECORD PARANA HD" group-title="Brasil - Rede Globo",RECORD PARANA HD
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/141
+#EXTINF:0 CUID="20" tvg-name="Record RJ" tvg-id="recordtvrio.br" tvg-logo="https://logo.iptveditor.com/recordrs.png" group-title="Brasil - Rede Globo",Record RJ
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/142
+#EXTINF:0 CUID="21" tvg-name="ESPN 4" tvg-id="espn.br" tvg-logo="https://logo.iptveditor.com/espn4.png" group-title="Brasil - Rede Globo",ESPN 4
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/143
+#EXTINF:0 CUID="22" tvg-name="GLOBO BRASILIA HD CC3" tvg-id="globobrasília.br" tvg-logo="https://logo.iptveditor.com/globobrasilia.png" group-title="Brasil - Rede Globo",GLOBO BRASILIA HD CC3
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/144
+#EXTINF:0 CUID="23" tvg-name="#TNT NOVELA" tvg-logo="https://logo.iptveditor.com/tntnovelas.png" group-title="Brasil - Rede Globo",#TNT NOVELA
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/145
+#EXTINF:0 CUID="24" tvg-name="#WARNER CHANNEL" tvg-id="warnerchannel.br" tvg-logo="https://logo.iptveditor.com/warnerchannel.png" group-title="Brasil - Rede Globo",#WARNER CHANNEL
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/146
+#EXTINF:0 CUID="25" tvg-name="#USA NETWORK" tvg-id="foodnetwork.br" tvg-logo="https://logo.iptveditor.com/network.png" group-title="Brasil - Rede Globo",#USA NETWORK
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/147
+#EXTINF:0 CUID="26" tvg-name="#TRU TV" tvg-id="trutv.br" tvg-logo="https://logo.iptveditor.com/trutv.png" group-title="Brasil - Rede Globo",#TRU TV
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/148
+#EXTINF:0 CUID="27" tvg-name="#TELECINE FUN" tvg-id="telecinefun.br" tvg-logo="https://logo.iptveditor.com/telecinefun.png" group-title="Brasil - Rede Globo",#TELECINE FUN
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/152
+#EXTINF:0 CUID="28" tvg-name="#TCM" tvg-id="tcm.br" tvg-logo="https://logo.iptveditor.com/tcm.png" group-title="Brasil - Rede Globo",#TCM
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/155
+#EXTINF:0 CUID="29" tvg-name="#PRIME BOX BRASIL" tvg-logo="https://logo.iptveditor.com/primeboxbrasil.png" group-title="Brasil - Rede Globo",#PRIME BOX BRASIL
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/159
+#EXTINF:0 CUID="30" tvg-name="#PARAMOUNT CHANNEL" tvg-id="paramountchannel.br" tvg-logo="https://logo.iptveditor.com/paramountchannel.png" group-title="Brasil - Rede Globo",#PARAMOUNT CHANNEL
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/160
+#EXTINF:0 CUID="31" tvg-name="#OFF" tvg-id="off.br" tvg-logo="https://logo.iptveditor.com/off.png" group-title="Brasil - Rede Globo",#OFF
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/161
+#EXTINF:0 CUID="32" tvg-name="#LIFETIME" tvg-id="lifetime.br" tvg-logo="https://logo.iptveditor.com/lifetime.png" group-title="Brasil - Rede Globo",#LIFETIME
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/162
+#EXTINF:0 CUID="33" tvg-name="#HBO SIGNATURE" tvg-id="hbosignature.br" tvg-logo="https://logo.iptveditor.com/hbosignature.png" group-title="Brasil - Rede Globo",#HBO SIGNATURE
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/164
+#EXTINF:0 CUID="34" tvg-name="#HBO POP" tvg-id="hbopop.br" tvg-logo="https://logo.iptveditor.com/hbopop.png" group-title="Brasil - Rede Globo",#HBO POP
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/165
+#EXTINF:0 CUID="35" tvg-name="#HBO PLUS" tvg-id="hboplus.br" tvg-logo="https://logo.iptveditor.com/hboplus.png" group-title="Brasil - Rede Globo",#HBO PLUS
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/166
+#EXTINF:0 CUID="36" tvg-name="#HBO" tvg-id="hbo.br" tvg-logo="https://logo.iptveditor.com/hbo.png" group-title="Brasil - Rede Globo",#HBO
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/168
+#EXTINF:0 CUID="37" tvg-name="#FUTURA" tvg-id="futura.br" tvg-logo="https://logo.iptveditor.com/futura.png" group-title="Brasil - Rede Globo",#FUTURA
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/172
+#EXTINF:0 CUID="38" tvg-name="#CANAL BRASIL" tvg-id="canalbrasil.br" tvg-logo="https://logo.iptveditor.com/canalbrasil.png" group-title="Brasil - Rede Globo",#CANAL BRASIL
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/175
+#EXTINF:0 CUID="39" tvg-name="PREMIERE 5" tvg-id="premiere5.br" tvg-logo="https://logo.iptveditor.com/premiere5.png" group-title="Brasil - Rede Globo",PREMIERE 5
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/178
+#EXTINF:0 CUID="40" tvg-name="PREMIERE 6" tvg-id="premiere6.br" tvg-logo="https://logo.iptveditor.com/premiere6.png" group-title="Brasil - Rede Globo",PREMIERE 6
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/179
+#EXTINF:0 CUID="41" tvg-name="XTELECINE PIPOCA" tvg-id="telecinepipoca.br" tvg-logo="https://logo.iptveditor.com/telecinepipoca.png" group-title="Brasil - Rede Globo",XTELECINE PIPOCA
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/151
+#EXTINF:0 CUID="42" tvg-name="#HBO+" tvg-logo="https://logo.iptveditor.com/hbo.png" group-title="Brasil - Rede Globo",#HBO+
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/171
+#EXTINF:0 CUID="43" tvg-name="#HBO MUNDI" tvg-id="hbomundi.br" tvg-logo="https://logo.iptveditor.com/hbomundi.png" group-title="Brasil - Rede Globo",#HBO MUNDI
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/167
+#EXTINF:0 CUID="44" tvg-name="#HBO XTREME" tvg-id="hboxtreme.br" tvg-logo="https://logo.iptveditor.com/hboxtreme.png" group-title="Brasil - Rede Globo",#HBO XTREME
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/163
+#EXTINF:0 CUID="45" tvg-name="#HBO 2" tvg-id="hbo2.br" tvg-logo="https://logo.iptveditor.com/hbo2.png" group-title="Brasil - Rede Globo",#HBO 2
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/170
+#EXTINF:0 CUID="46" tvg-name="#STAR CHANNEL" tvg-id="starchannel.br" tvg-logo="https://logo.iptveditor.com/starchannel.png" group-title="Brasil - Rede Globo",#STAR CHANNEL
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/158
+#EXTINF:0 CUID="47" tvg-name="GLOBO RPC FOZ DO IGUAÇU" tvg-id="rpcfoziguaçu.br" group-title="Brasil - Rede Globo",GLOBO RPC FOZ DO IGUAÇU
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/136
+#EXTINF:0 CUID="48" tvg-name="XTELECINE PREMIUM" tvg-id="telecinepremium.br" tvg-logo="https://logo.iptveditor.com/telecinepremium.png" group-title="Brasil - Rede Globo",XTELECINE PREMIUM
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/150
+#EXTINF:0 CUID="49" tvg-name="#STUDIO UNIVERSAL." tvg-id="studiouniversal.br" tvg-logo="https://logo.iptveditor.com/studiouniversal.png" group-title="Brasil - Rede Globo",#STUDIO UNIVERSAL.
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/157
+#EXTINF:0 CUID="50" tvg-name="#HBO FAMILY" tvg-id="hbofamily.br" tvg-logo="https://logo.iptveditor.com/hbofamily.png" group-title="Brasil - Rede Globo",#HBO FAMILY
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/169
+#EXTINF:0 CUID="51" tvg-name="#TELECINE CULT" tvg-id="telecinecult.br" tvg-logo="https://logo.iptveditor.com/telecinecult.png" group-title="Brasil - Rede Globo",#TELECINE CULT
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/153
+#EXTINF:0 CUID="52" tvg-name="XTELECINE TOUCH" tvg-id="telecinetouch.br" tvg-logo="https://logo.iptveditor.com/telecinetouch.png" group-title="Brasil - Rede Globo",XTELECINE TOUCH
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/149
+#EXTINF:0 CUID="53" tvg-name="#SONY CHANNEL" tvg-logo="https://logo.iptveditor.com/sonychannel.png" group-title="Brasil - Rede Globo",#SONY CHANNEL
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/174
+#EXTINF:0 CUID="54" tvg-name="#FILM & ARTES" tvg-id="film&arts.br" tvg-logo="https://logo.iptveditor.com/filmarts.png" group-title="Brasil - Rede Globo",#FILM & ARTES
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/173
+#EXTINF:0 CUID="55" tvg-name="#AMC" tvg-id="amc.br" tvg-logo="https://logo.iptveditor.com/amc.png" group-title="Brasil - Rede Globo",#AMC
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/177
+#EXTINF:0 CUID="56" tvg-name="#ARTES 1" tvg-logo="https://logo.iptveditor.com/arte.png" group-title="Brasil - Rede Globo",#ARTES 1
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/176
+#EXTINF:0 CUID="57" tvg-name="#TELECINE ACTION" tvg-id="telecineaction.br" tvg-logo="https://logo.iptveditor.com/telecineaction.png" group-title="Brasil - Rede Globo",#TELECINE ACTION
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/154
+#EXTINF:0 CUID="58" tvg-name="AXN HD" tvg-id="axn.br" tvg-logo="https://logo.iptveditor.com/axn.png" group-title="Brasil - Rede Globo",AXN HD
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/124
+#EXTINF:0 CUID="59" tvg-name="Globo Bahia" tvg-id="globotvbahia.br" tvg-logo="https://logo.iptveditor.com/globobaia.png" group-title="Brasil - Rede Globo",Globo Bahia
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/135
+#EXTINF:0 CUID="60" tvg-name="Record sp interior hd" tvg-logo="https://logo.iptveditor.com/recordtvinteriorsp.png" group-title="Brasil - Rede Globo",Record sp interior hd
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/127
+#EXTINF:0 CUID="61" tvg-name="RECORD SP 4K" tvg-logo="https://logo.iptveditor.com/recordsp.png" group-title="Brasil - Rede Globo",RECORD SP 4K
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/116
+#EXTINF:0 CUID="62" tvg-name="#TBS" tvg-id="tbs.br" tvg-logo="https://logo.iptveditor.com/tbs.png" group-title="Brasil - Rede Globo",#TBS
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/156
+#EXTINF:0 CUID="63" tvg-name="Sbt rj 4kk" tvg-logo="https://logo.iptveditor.com/sbtrj.png" group-title="Brasil - Rede Globo",Sbt rj 4kk
+http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/119
+
 
 Eventos
 
