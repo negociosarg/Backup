@@ -1243,6 +1243,118 @@ http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/156
 #EXTINF:0 CUID="63" tvg-name="Sbt rj 4kk" tvg-logo="https://logo.iptveditor.com/sbtrj.png" group-title="Brasil - Rede Globo",Sbt rj 4kk
 http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/119
 
+uruguay
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9b536cd1716647ee94c45fa4836d29d6:d691c88a95440666742d1d8183182347
+#EXTINF:-1, ch-number="801" tvg-id="TVCiudad.uy.uy" tvg-name="TEVECIUDAD" tvg-logo="https://dl.dropbox.com/scl/fi/xb8mxyjfndxc2a8b26s94/tvciudad.png?rlkey=tdm6cihv0v8kpneo2t8m3j2hv&dl=1", group-title="Uruguay", TV Ciudad Uruguay
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://flow-live.dlt.qwilted-cds.cqloud.com/live/c3eds/Teve_Ciudad/SA_Live_dash_enc/Teve_Ciudad.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=202a19e4871c4739a8010aa7b25af37d:07015b4cfa048a3351b83d60aeca5ead
+#EXTINF:-1 ch-number="802" tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UCLTV.png?raw=true" group-title="Variedades", group-title="Uruguay", UCL Uruguay
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://flow-live.dlt.qwilted-cds.cqloud.com/live/c3eds/Canal_U/SA_Live_dash_enc_C/Canal_U.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"W7/8aAdk29Y9kLd0s6oMCg","kid":"uWlgqnFaTlG36VLoHJmsjg"}],"type":"temporary"}
+#EXTINF:-1, ch-number="803" tvg-id="VTV.uy.uy" tvg-name="VTV" tvg-logo="https://dl.dropbox.com/scl/fi/j4p5brzwswii95bs08b2g/vtv.png?rlkey=dqxls5mo4n3idcc6rajqyeawd&dl=1", group-title="Uruguay", VTV Uruguay
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://flow-live.dlt.qwilted-cds.cqloud.com/live/c3eds/VTV_HD/SA_Live_dash_enc_2A/VTV_HD.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dabefaac89742589778fcfab78f08354:896dd914683b01c8044ffd34d7b6416b
+#EXTINF:-1, ch-number="804" tvg-id="Canal4.uy.uy" tvg-name="CANAL 4 MONTECARLO" tvg-logo="https://dl.dropbox.com/scl/fi/7ef5e0zgop0g50xhxbiqo/canal4uy.png?rlkey=00sjjzd95ouch0csx3guddlip&dl=1", group-title="Uruguay", Canal 4 Uruguay
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://flow-live.dlt.qwilted-cds.cqloud.com/live/c4eds/Canal4_URU/SA_Live_dash_enc/Canal4_URU.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"lgOPdqK6M4ZupU60smBXPw","kid":"xQUY1/WfTAqpowef4rAU/Q"}],"type":"temporary"}
+#EXTINF:-1, ch-number="805" tvg-id="Canal5.uy.uy" tvg-name="CANAL 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Canal_5_Uruguay.png", group-title="Uruguay", Canal 5 Uruguay
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://flow-live.dlt.qwilted-cds.cqloud.com/live/c3eds/TV_Nacional_Uy/SA_Live_dash_enc_2A/TV_Nacional_Uy.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=da8a49a594160cc0059f07b9f71cd39a:37ca91dd799b351a02445151c7f61070
+#EXTINF:-1 ch-number="806" tvg-id="VTVPlus.uy.uy" tvg-logo="https://dl.dropbox.com/scl/fi/euk6d7rq2vt77e7ttt6tz/vtvplus.png?rlkey=jubnbfbirssq1hur4kqp44ojd&dl=1" group-title="Uruguay", VTV Uruguay
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://flow-live.dlt.qwilted-cds.cqloud.com/live/c3eds/VTV_Plus_HD/SA_Live_dash_enc/VTV_Plus_HD.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"b7l0Z8Dw6hP4bUGnDgKcUQ","kid":"jdNHgtdU+Pyx6LONqf+tCw"}],"type":"temporary"}
+#EXTINF:-1, ch-number="810" tvg-id="Canal10.uy.uy" tvg-name="SAETA" tvg-logo="https://dl.dropbox.com/scl/fi/ttrrell21rdfzeoakfbfp/canal10uy.png?rlkey=5rhflccdyhxpytvvyhn82xk6r&dl=1", group-title="Uruguay", Canal 10 Uruguay
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://flow-live.dlt.qwilted-cds.cqloud.com/live/c4eds/Canal10_URU/SA_Live_dash_enc/Canal10_URU.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dfde9d35d7438bfdf61da5dfac0557c1:acb13370c03a7254e2bb9cc9d2125017
+#EXTINF:-1 ch-number="812" tvg-id="Teledoce.uy.uy" tvg-name="Teledoce" tvg-logo="https://www.teledoce.com/wp-content/uploads/2019/05/logo_tele2019.png", group-title="Uruguay", Canal 12 Uruguay
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://flow-live.dlt.qwilted-cds.cqloud.com/live/c4eds/Canal12URU/SA_Live_dash_enc/Canal12URU.mpdgroup-title="Uruguay",
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="CXB10HD" tvg-name="CANAL 10 (exclusivo)" tvg-logo="https://i.postimg.cc/sf0Yvp3m/My-project-removebg-preview.png" group-title="Uruguay",CANAL 10 (exclusivo)
+http://multiplay.plus/:8080/live/Superliga2025/20581410265ad76b/86058.m3u8
+#EXTINF:-1 tvg-id="CXB10HD" tvg-name="CANAL 10 OPCION 2" tvg-logo="https://i.postimg.cc/sf0Yvp3m/My-project-removebg-preview.png" group-title="Uruguay",CANAL 10 OPCION 2
+http://multiplay.plus/:8080/live/Superliga2025/20581410265ad76b/86059.m3u8
+#EXTINF:-1 tvg-id="Canal 12 Melo" tvg-name="TELE DOCE (exclusivo)" tvg-logo="https://i.postimg.cc/QN0FtsJr/My-project-1-removebg-preview.png" group-title="Uruguay",TELE DOCE (exclusivo)
+http://multiplay.plus/:8080/live/Superliga2025/20581410265ad76b/86061.m3u8
+#EXTINF:-1 tvg-id="TELED" tvg-name="TELE DOCE (exclusivo hd)" tvg-logo="https://i.postimg.cc/QN0FtsJr/My-project-1-removebg-preview.png" group-title="Uruguay",TELE DOCE (exclusivo hd)
+http://multiplay.plus/:8080/live/Superliga2025/20581410265ad76b/86062.m3u8
+#EXTINF:-1 tvg-id="MONTTHD" tvg-name="CANAL 4 (exclusivo sd)" tvg-logo="https://i.postimg.cc/ZK2mwKSZ/My-project-3-removebg-preview.png" group-title="Uruguay",CANAL 4 (exclusivo sd)
+http://multiplay.plus/:8080/live/Superliga2025/20581410265ad76b/86064.m3u8
+#EXTINF:-1 tvg-id="MONTTHD" tvg-name="CANAL 4 OPCION 2" tvg-logo="https://i.postimg.cc/ZK2mwKSZ/My-project-3-removebg-preview.png" group-title="Uruguay",CANAL 4 OPCION 2
+http://multiplay.plus/:8080/live/Superliga2025/20581410265ad76b/86065.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Uruguay: Canal 4 Salto" tvg-logo="https://i.postimg.cc/ZK2mwKSZ/My-project-3-removebg-preview.png" group-title="Uruguay",Uruguay: Canal 4 Salto
+http://multiplay.plus/:8080/live/Superliga2025/20581410265ad76b/86066.m3u8
+#EXTINF:-1 tvg-id="A + V" tvg-name="A+V OPCION 1" tvg-logo="https://i.postimg.cc/xdcgdYZx/My-project-4-removebg-preview.png" group-title="Uruguay",A+V OPCION 1
+http://multiplay.plus/:8080/live/Superliga2025/20581410265ad76b/86067.m3u8
+#EXTINF:-1 tvg-id="A + V" tvg-name="A+V OPCION 2" tvg-logo="https://i.postimg.cc/xdcgdYZx/My-project-4-removebg-preview.png" group-title="Uruguay",A+V OPCION 2
+http://multiplay.plus/:8080/live/Superliga2025/20581410265ad76b/86068.m3u8
+#EXTINF:-1 tvg-id="A + V" tvg-name="A+V OPCION 3" tvg-logo="https://i.postimg.cc/xdcgdYZx/My-project-4-removebg-preview.png" group-title="Uruguay",A+V OPCION 3
+http://multiplay.plus/:8080/live/Superliga2025/20581410265ad76b/86069.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LA RED OPCION 1" tvg-logo="https://i.postimg.cc/pdRRNG1L/My-project-5-removebg-preview.png" group-title="Uruguay",LA RED OPCION 1
+http://multiplay.plus/:8080/live/Superliga2025/20581410265ad76b/86070.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LA RED OPCION 2" tvg-logo="https://i.postimg.cc/pdRRNG1L/My-project-5-removebg-preview.png" group-title="Uruguay",LA RED OPCION 2
+http://multiplay.plus/:8080/live/Superliga2025/20581410265ad76b/86071.m3u8
+#EXTINF:-1 tvg-id="Canal 7 Punta" tvg-name="CANAL 7 PUNTA OPCION 1" tvg-logo="https://i.postimg.cc/C1KZ0L65/My-project-6-removebg-preview.png" group-title="Uruguay",CANAL 7 PUNTA OPCION 1
+http://multiplay.plus/:8080/live/Superliga2025/20581410265ad76b/86072.m3u8
+#EXTINF:-1 tvg-id="Canal 7 Punta" tvg-name="CANAL 7 PUNTA OPCION 2" tvg-logo="https://i.postimg.cc/C1KZ0L65/My-project-6-removebg-preview.png" group-title="Uruguay",CANAL 7 PUNTA OPCION 2
+http://multiplay.plus/:8080/live/Superliga2025/20581410265ad76b/86073.m3u8
+#EXTINF:-1 tvg-id="1000XHora TV" tvg-name="1000 X HORA TV OPCION 1" tvg-logo="https://i.postimg.cc/GhnDfY1h/My-project-7-removebg-preview.png" group-title="Uruguay",1000 X HORA TV OPCION 1
+http://multiplay.plus/:8080/live/Superliga2025/20581410265ad76b/86074.m3u8
+#EXTINF:-1 tvg-id="1000XHora TV" tvg-name="1000 X HORA TV OPCION 2" tvg-logo="https://i.postimg.cc/GhnDfY1h/My-project-7-removebg-preview.png" group-title="Uruguay",1000 X HORA TV OPCION 2
+http://multiplay.plus/:8080/live/Superliga2025/20581410265ad76b/86075.m3u8
+#EXTINF:-1 tvg-id="TV CIUDAD" tvg-name="TV CIUDAD OPCION 1" tvg-logo="https://i.postimg.cc/PrGwpD3n/My-project-8-removebg-preview.png" group-title="Uruguay",TV CIUDAD OPCION 1
+http://multiplay.plus/:8080/live/Superliga2025/20581410265ad76b/86076.m3u8
+#EXTINF:-1 tvg-id="TV CIUDAD" tvg-name="TV CIUDAD (exclusivo)" tvg-logo="https://i.postimg.cc/PrGwpD3n/My-project-8-removebg-preview.png" group-title="Uruguay",TV CIUDAD (exclusivo)
+http://multiplay.plus/:8080/live/Superliga2025/20581410265ad76b/86077.m3u8
+#EXTINF:-1 tvg-id="Maroñas Entertainment" tvg-name="MAROÑAS TV" tvg-logo="https://i.postimg.cc/zD2x9xGS/My-project-9-removebg-preview.png" group-title="Uruguay",MAROÑAS TV
+http://multiplay.plus/:8080/live/Superliga2025/20581410265ad76b/86080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHARRUA TV" tvg-logo="https://i.postimg.cc/cCDwP1yM/My-project-10-removebg-preview.png" group-title="Uruguay",CHARRUA TV
+http://multiplay.plus/:8080/live/Superliga2025/20581410265ad76b/86082.m3u8
+#EXTINF:-1 tvg-id="VTVUR" tvg-name="VTV OPCION 1" tvg-logo="https://i.postimg.cc/8PVTY7RT/My-project-16-removebg-preview.png" group-title="DEPORTES URUGUAY",VTV OPCION 1
+http://multiplay.plus/:8080/live/Superliga2025/20581410265ad76b/86088.m3u8
+#EXTINF:-1 tvg-id="VTVUR" tvg-name="VTV OPCION 2" tvg-logo="https://i.postimg.cc/8PVTY7RT/My-project-16-removebg-preview.png" group-title="DEPORTES URUGUAY",VTV OPCION 2
+http://multiplay.plus/:8080/live/Superliga2025/20581410265ad76b/86089.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VTV OPCION 3" tvg-logo="https://i.postimg.cc/8PVTY7RT/My-project-16-removebg-preview.png" group-title="DEPORTES URUGUAY",VTV OPCION 3
+http://multiplay.plus/:8080/live/Superliga2025/20581410265ad76b/86090.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VTV PLUS OPCION 1" tvg-logo="https://i.postimg.cc/QNp1WWS7/My-project-17-removebg-preview.png" group-title="DEPORTES URUGUAY",VTV PLUS OPCION 1
+http://multiplay.plus/:8080/live/Superliga2025/20581410265ad76b/86091.m3u8
+#EXTINF:-1 tvg-id="VTVMUR" tvg-name="VTV PLUS OPCION 2" tvg-logo="https://i.postimg.cc/QNp1WWS7/My-project-17-removebg-preview.png" group-title="DEPORTES URUGUAY",VTV PLUS OPCION 2
+http://multiplay.plus/:8080/live/Superliga2025/20581410265ad76b/86092.m3u8
+#EXTINF:-1 tvg-id="VTVMUR" tvg-name="VTV PLUS OPCION 3" tvg-logo="https://i.postimg.cc/QNp1WWS7/My-project-17-removebg-preview.png" group-title="DEPORTES URUGUAY",VTV PLUS OPCION 3
+http://multiplay.plus/:8080/live/Superliga2025/20581410265ad76b/86093.m3u8
+
+
 
 Eventos
 
