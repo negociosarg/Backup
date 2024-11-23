@@ -2,31 +2,43 @@
 
 FINALES COMEMBOL
 
-#EXTINF:-1 tvg-chno="206" tvg-id="ESPN HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/800/542/0/0/25899985073189.png" group-title="1⚽SUDAMERICANA/LIBERTADORES", ESPN
-http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png", group-title="1⚽SUDAMERICANA/LIBERTADORES", D Sports
-http://177.53.155.236:8000/play/a0co/index.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6362e1f36fcb7ee3c47debd9140336ad:9ba1d46c5b9c7a3130a5dabbf7155175
-#EXTINF:-1 ch-number="101" tvg-id="ESPN HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/800/542/0/0/25899985073189.png"group-title="1⚽SUDAMERICA/LIBERTADORES", ESPN
+#EXTINF:-1 ch-number="101" tvg-id="ESPN HD.uy" tvg-logo="https://i.ibb.co/kKRT43w/284685324-2948809311931800-1149644163741252235-n.jpg" group-title="1⚽SUDAMERICANA/LIBERTADORES", ESPN
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://cdn.cvattv.com.ar/live/c4eds/ESPN_UY/SA_Live_dash_enc/ESPN_UY.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d820100144772fed9f38b83650fa7e1:ded8cc47b29b0eb0b0a87df22e721847
-#EXTINF:-1 ch-number="102" tvg-id="ESPN 2 HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/800/542/0/0/32397574073429.png"group-title="1⚽SUDAMERICANA/LIBERTADORES", ESPN 2
+#EXTINF:-1 ch-number="102" tvg-id="ESPN 2 HD.uy" tvg-logo="https://i.ibb.co/kKRT43w/284685324-2948809311931800-1149644163741252235-n.jpg" group-title="1⚽SUDAMERICANA/LIBERTADORES", ESPN 2
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://cdn.cvattv.com.ar/live/c4eds/ESPN2_UY/SA_Live_dash_enc/ESPN2_UY.mpd
 
-#EXTINF:-1 tvg-chno="206" tvg-id="ESPN HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/800/542/0/0/25899985073189.png" group-title="1⚽SUDAMERICANA/LIBERTADORES", ESPN
+#EXTINF:-1 tvg-chno="206" tvg-id="ESPN HD.uy" tvg-logo="https://i.ibb.co/kKRT43w/284685324-2948809311931800-1149644163741252235-n.jpg" group-title="1⚽SUDAMERICANA/LIBERTADORES", ESPN
+http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/kKRT43w/284685324-2948809311931800-1149644163741252235-n.jpg", group-title="1⚽SUDAMERICANA/LIBERTADORES", D Sports
+http://177.53.155.236:8000/play/a0co/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6362e1f36fcb7ee3c47debd9140336ad:9ba1d46c5b9c7a3130a5dabbf7155175
+#EXTINF:-1 ch-number="101" tvg-id="ESPN HD.uy" tvg-logo="https://i.ibb.co/kKRT43w/284685324-2948809311931800-1149644163741252235-n.jpg"1⚽SUDAMERICA/LIBERTADORES", ESPN
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://cdn.cvattv.com.ar/live/c4eds/ESPN_UY/SA_Live_dash_enc/ESPN_UY.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d820100144772fed9f38b83650fa7e1:ded8cc47b29b0eb0b0a87df22e721847
+#EXTINF:-1 ch-number="102" tvg-id="ESPN 2 HD.uy" tvg-logo="https://i.ibb.co/kKRT43w/284685324-2948809311931800-1149644163741252235-n.jpg"group-title="1⚽SUDAMERICANA/LIBERTADORES", ESPN 2
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://cdn.cvattv.com.ar/live/c4eds/ESPN2_UY/SA_Live_dash_enc/ESPN2_UY.mpd
+
+#EXTINF:-1 tvg-chno="206" tvg-id="ESPN HD.uy" tvg-logo="https://i.ibb.co/kKRT43w/284685324-2948809311931800-1149644163741252235-n.jpg" group-title="1⚽SUDAMERICANA/LIBERTADORES", ESPN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d243ebd7a57bea4b4b052ae13f4c051:5c1925879de873d43b7c25925902539b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 http://cdn.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd
 
-#EXTINF:-1 tvg-chno="206" tvg-id="ESPN 2 HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/800/542/0/0/32397574073429.png" group-title="1⚽SUDAMERICANA/LIBERTADORES", ESPN 2
+#EXTINF:-1 tvg-chno="206" tvg-id="ESPN 2 HD.uy" tvg-logo="https://i.ibb.co/kKRT43w/284685324-2948809311931800-1149644163741252235-n.jpg" group-title="1⚽SUDAMERICANA/LIBERTADORES", ESPN 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a8bd6496d2444301c9d4d0feca9d75b:3fd1967701ba2897729187b60094c158
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
