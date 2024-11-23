@@ -1297,7 +1297,7 @@ http://flow-live.dlt.qwilted-cds.cqloud.com/live/c4eds/Canal10_URU/SA_Live_dash_
 #KODIPROP:inputstream.adaptive.license_key=dfde9d35d7438bfdf61da5dfac0557c1:acb13370c03a7254e2bb9cc9d2125017
 #EXTINF:-1 ch-number="812" tvg-id="Teledoce.uy.uy" tvg-name="Teledoce" tvg-logo="https://www.teledoce.com/wp-content/uploads/2019/05/logo_tele2019.png", group-title="Uruguay", Canal 12 Uruguay
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-http://flow-live.dlt.qwilted-cds.cqloud.com/live/c4eds/Canal12URU/SA_Live_dash_enc/Canal12URU.mpdgroup-title="Uruguay",
+http://flow-live.dlt.qwilted-cds.cqloud.com/live/c4eds/Canal12URU/SA_Live_dash_enc/Canal12URU.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
