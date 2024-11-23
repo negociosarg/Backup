@@ -1424,9 +1424,6 @@ http://tvplanet.online/live/Logitech25/Logitech25/1071727.m3u8
 http://tvplanet.online/live/Logitech25/Logitech25/1071728.m3u8
 #EXTINF:0 CUID="2505" tvg-name="VTV (OP2)" tvg-id="vtv.uy" tvg-logo="https://dnslivetv.online:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWut4H7YcTxkVmlspnABM0ExJ6PltnX6AJ4_BZBL2S7U_8CaOV6ZbbC4RrkLab2xdU.png" group-title="Uruguay",VTV (OP2)
 http://tvplanet.online/live/Logitech25/Logitech25/1071731.m3u8
-#EXTINF:0 CUID="1960" tvg-name="Canal i" tvg-id="canal7.ar" tvg-logo="https://dnslivetv.online:443/images/oroGAtXinmJEnFqwiOc-0M8pxbPbmMOK90rnM9eZ9MmnWd1Lzp9Ds9b5NV8yGFIrj9HfNTjEmXDJ_Rr3VpdYu1tjF3AJIAe2uLzNZ1Kc8u7FS9Dnb1mtCzM5YbHCHlJ_5traHF7qFGQ8UaHlLHLQiP1j-RcgWSguLqG2mZZFWgw.png" group-title="⚪ - VENEZUELA",Canal i
-http://tvplanet.online/live/Logitech25/Logitech25/1070298.m3u8
-#EXTINF:0 CUID="1961" tvg-name="Globovision" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Globovisi%C3%B3n_1994.png/revision/latest?cb=20191201143058&path-prefix=es" group-title="⚪ - VENEZUELA",Globovision
 
 #EXTINF:-1 tvg-id="GOL TV HD.cl" tvg-logo="https://dl.dropbox.com/scl/fi/b5vv58w3mdjkopsb9edhy/goltv.jpg?rlkey=digisjr7amuf7j7xudugbe3m4&dl=1", group-title="Uruguay⚽Deportes", Gol TV
 http://45.189.108.146:1935/xmp_trans/goltv.stream/playlist.m3u8
