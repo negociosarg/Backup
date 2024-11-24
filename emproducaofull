@@ -2007,6 +2007,15 @@ http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/156
 #EXTINF:0 CUID="63" tvg-name="Sbt rj 4kk" tvg-logo="https://logo.iptveditor.com/sbtrj.png" group-title="Brasil",Sbt rj 4kk
 http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/119
 
+Brasil Deportes
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d98239180d8380b3a1bb28d875b1ddf2:cf836ced579257d1c76ae8809818e6c4
+#EXTINF:-1 ch-number="101" tvg-id="ESPN HD.uy" tvg-logo="https://playertv.net/wp-content/uploads/2024/04/premiere-300x169.webp" group-title="Brasil⚽Deportes", Premiere
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd
+
+
 uruguay
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
