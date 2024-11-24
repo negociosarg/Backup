@@ -3,35 +3,31 @@ Lista Demo Argentina
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=019f72f2091d4cbea59ff8c85b117f86:a4eac51195506752f9f63ad24def9c37
-#EXTINF:-1 tvg-chno="823" tvg-id="BBCNewsLatinAmerica.uk.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/BBCNW.png?raw=true" group-title="🌍 Internacionales", BBC News
+#EXTINF:-1 tvg-chno="823" tvg-id="BBCNewsLatinAmerica.uk.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/BBCNW.png?raw=true"group-title="⚠️ CUENTA EXPIRADA", BBC News
 https://chromecast.cvattv.com.ar/live/c6eds/BBC_World_News/SA_Live_dash_enc_2A/BBC_World_News.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc8c82ac2ec7e9799527c29db7354e81:cc4aae173dd2ef17ae26be3f7ae87662
-#EXTINF:-1 tvg-chno="107" tvg-id="TVPublicaHD.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/C7TVP.png?raw=true" group-title="🇦🇷 Argentina", TV Pública
+#EXTINF:-1 tvg-chno="107" tvg-id="TVPublicaHD.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/C7TVP.png?raw=true" group-title="⚠️ CUENTA EXPIRADA", TV Pública
 https://chromecast.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_2A/Canal7.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9666b195171442afd4551a8de01291a6:1c0061df9b4b098e40355167e97cfbf0
-#EXTINF:-1 tvg-chno="151" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HCDTV.png?raw=true" tvg-group="🇦🇷 Argentina", Diputados TV
-https://chromecast.cvattv.com.ar/live/c6eds/Diputados_TV/SA_Live_dash_enc_2A/Diputados_TV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=93c40cee58a5f415828cc32d0c80d311:d00906d71ee69515cd4dca1162d5ae7f
-#EXTINF:-1 tvg-id="Universidad-LaPlata" tvg-logo="https://i.ibb.co/xHqzrPV/canal-universidad.png" group-title="🇦🇷 Argentina - Interior", Canal Universidad De La Plata
+#EXTINF:-1 tvg-id="Universidad-LaPlata" tvg-logo="https://i.ibb.co/xHqzrPV/canal-universidad.png" group-title="⚠️ CUENTA EXPIRADA", Canal Universidad De La Plata
 https://chromecast.cvattv.com.ar/live/c3eds/Canal_Universidad/SA_Live_dash_enc_C/Canal_Universidad.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOvN7HEybuqi5cATBqIDNouB6Kc5nVYBLZCA&usqp=CAU" group-title="🇦🇷 Argentina", CANAL 26
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOvN7HEybuqi5cATBqIDNouB6Kc5nVYBLZCA&usqp=CAU" group-title="⚠️ CUENTA EXPIRADA", CANAL 26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e32aaa4b67430b3b51be1efce5a74ac5:ad60c5e1d378a97271bf8688f094d092
 https://cdn.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc/26_TV_HD.mpd
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Canal_Rural_2016.png/revision/latest?cb=20200921033638&path-prefix=es" group-title="🇦🇷 Argentina", CANAL RURAL
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Canal_Rural_2016.png/revision/latest?cb=20200921033638&path-prefix=es" group-title="⚠️ CUENTA EXPIRADA", CANAL RURAL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b02c568163c14cfda4ddb958a0aab742:ef64a70ac85a663a3308be6476610aad
 https://cdn.cvattv.com.ar/live/c6eds/Canal_Rural/SA_Live_dash_enc/Canal_Rural.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S3j0Kw5/televisionnacionaluruguay-500x500-300x300.jpg" group-title="🇺🇾 URUGUAY", TNU
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S3j0Kw5/televisionnacionaluruguay-500x500-300x300.jpg" group-title="⚠️ CUENTA EXPIRADA", TNU
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c50518d7f59f4c0aa9a3079fe2b014fd:96038f76a2ba33866ea54eb4b260573f
 https://cdn.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/SA_Live_dash_enc_2A/TV_Nacional_Uy.mpd
@@ -46,60 +42,9 @@ https://chromecast.cvattv.com.ar/live/c3eds/Canal_U/SA_Live_dash_enc_C/Canal_U.m
 #EXTINF:-1 tvg-id="Telesur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/TeleSUR_Logo.jpg", Telesur
 https://chromecast.cvattv.com.ar/live/c6eds/Telesur/SA_Live_dash_enc/Telesur.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WsDVtKJ/AATXAJxna-EZa9-Kmw-LXr-Yq-Dc-MZTf88wo-Sug34-Gkqy5u-E-5-Q-s900-c-k-c0xffffffff-no-rj-mo.jpg" group-title="🇦🇷 Argentina", C5N
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WsDVtKJ/AATXAJxna-EZa9-Kmw-LXr-Yq-Dc-MZTf88wo-Sug34-Gkqy5u-E-5-Q-s900-c-k-c0xffffffff-no-rj-mo.jpg" group-title="⚠️ CUENTA EXPIRADA", C5N
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=050df5c6e78c774e78c3e99eef8a1b29:0e4141d6ab21a36cbc4da777ab3096d4
 https://cdn.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc/C5N.mpd
 
-#EXTINF:-1 tvg-logo="https://mondrian.claro.com.br/channels/default/band.svg" group-title="SPORTS",BAND
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"eb1a381423dba5a015ab153f51963d64":"354110a92a3176fa4004d5f772a3349b","71e0b26d9074f28859ec81298c2abcf6":"259b82830b8b7eedabce6a74a67a4f2a"}
-#EXTVLCOPT:http-referer=https://www.clarotvmais.com.br/
-#EXTVLCOPT:http-origin=https://www.clarotvmais.com.br
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.188 Safari/537.36 CrKey/1.54.250118
-https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOBNHD/dsc2/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
-#EXTINF:-1 tvg-logo="https://berita.99.co/wp-content/uploads/2021/03/cara-berlangganan-mola-tv.jpg", group-title="Deportes Internacionales", Event MolaTV 1
-https://live.mocdn.tv/out/v1/678ab9a54d9844568af751dcaf418d97/manifest_L1.mpd
-
-
-#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="SPORT PREMIUM",PREMIER BRAZIL 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fd2e8019f37211ca8b78a8b656f1b83a:273189c214e85b43ac36298d1c422330
-https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd
-
-#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="SPORT PREMIUM",PREMIER BRAZIL 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9547f9aead1237c8a3b1bf0a91ed9995:534fab4541fef31921dd970c65d51848
-https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/8ci7l7dt0d/out/v1/98fe69f2cdc041388004305e63353268/cenc.mpd
-
-#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="SPORT PREMIUM",PREMIER BRAZIL 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce5d18ffd68650affce1985201983ab7:397c64e42507d95e5460830918c22a98
-https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/zytzybatcd/out/v1/4e59aa00f6784bb98170741d40b33e3e/cenc.mpd
-
-#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="SPORT PREMIUM",PREMIER BRAZIL 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d5a3ac0b892bfccdf352b6def9cb2764:ac0936acc0036fad2273efaa42b1fafd
-https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/j4y12ucrx0/out/v1/9135597c4400465e9e752dc32de587fd/cenc.mpd
-
-
-#EXTINF:-1 tvg-id="Combate.HD.br" tvg-name="0000" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/canal-combate-logo.png" group-title="巴西",BR| Combate HD 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b3f1c9271d9d51999a401da6ded4d376&key=9ebd349045e5c8435e2cc50eeaf7d227
-https://0055-jbc.dtvott.com/dash_live_0057/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
- {
-        "name": "CANAL 9 ",
-        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc/Canal9.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=24f4ff211136ae6512a1b552200db405&key=602122f8426c5c942b8c18d299cc6020",
-        "icono": "https://i.postimg.cc/2S9JLKLG/Canal-9.png"
-      },
