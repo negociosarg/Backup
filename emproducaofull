@@ -166,7 +166,7 @@ http://cdn.sensa.com.ar/live/eds/CiudadMagazine/live_dash_cld/CiudadMagazine.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 http://cdn.sensa.com.ar/live/eds/Volver/live_dash_cld/Volver.mpd
 
-#EXTINF:-1 tvg-chno="601" tvg-id="CanalRural.ar" tvg-logo="https://3.bp.blogspot.com/-kRrQVEhftUU/V-_RmD35S8I/AAAAAAAABB0/3CbSCG5SblctjXDXlMkNc8V0bZHVAfFZACLcB/s1600/canalrural-2016.png" group-title="Agro", Canal Rural
+#EXTINF:-1 tvg-chno="601" tvg-id="CanalRural.ar" tvg-logo="https://3.bp.blogspot.com/-kRrQVEhftUU/V-_RmD35S8I/AAAAAAAABB0/3CbSCG5SblctjXDXlMkNc8V0bZHVAfFZACLcB/s1600/canalrural-2016.png" group-title="Argentina Noticias", Canal Rural
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=24ecaed20225a367ad8fde9b6e826cd6:14dbfc007a3f5648d2c30075f037a830
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
@@ -1638,7 +1638,6 @@ música
 
 
 #EXTINF:-1 tvg-id="Allegro HD.uy" tvg-logo="https://i.ibb.co/ts85rN6/allegro.png", Allegro
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=682f36b5736f4560951ca14b80d29524:3accb729067a39b3b8143f1b447b9d25
 #EXTINF:-1 tvg-chno="1110" tvg-id="CMElCanaldelaMusica.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CMMUS.png?raw=true" group-title="Música y Radios", CM
@@ -3586,6 +3585,7 @@ http://flow-live.dlt.qwilted-cds.cqloud.com/live/c4eds/Eventos3_UY/SA_Live_dash_
 http://flow-live.dlt.qwilted-cds.cqloud.com/live/c7eds/Flow_Music_XP/SA_Live_dash_enc_2A/Flow_Music_XP.mpd
 
 radios (1100xx)
+#EXTM3U
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Logo_La100_Verde.JPG" group-title="Argentina-Radios", La 100
 https://musicsrc.cvattv.com.ar/L100
