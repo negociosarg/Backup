@@ -2232,6 +2232,10 @@ https://chromecast.cvattv.com.ar/live/c3eds/Canal_U/SA_Live_dash_enc_C/Canal_U.m
 
 #EXTM3U
 
+#EXTINF:0 CUID="1971" tvg-name="deportes.uy" tvg-id="" tvg-logo="https://cds-assets.cdn.antel.net.uy/imagenes/recursos/XDr9YQ1zBD6HX0rudVQrXJk8fErb58CIUAUsEzTQ.png" group-title="Uruguay", DEPORTESUY
+https://vxlive.cdn.antel.net.uy/auth_V_SNdD,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfU05kRCUyRnZ4Zm10JTNEaGxzJTJGJTJBJmV4cGlyeT0xNzMyNTY5MzgyJnJhbmRvbT1JT1lJYkR3aFp4JmMtaXA9MTg2LjU3LjEzMS42MiZpZF9yZWZlcmVuY2lhPSZpZF9kaXNwb3NpdGl2bz0wJmlkX2Zyb250ZW5kPTExOTYmcHVibGljX2lkPTJzZjRmLDlhYjI0MDAzNTk4N2U2ODNhMmQ2MTY4N2EwZjkzOWEyOTU0YWUwNGFlMjU5Njg0NTA5NmVjOWZjZTFiNjhlZmM=/vxfmt=hls/playlist.m3u8
+
+
 #EXTINF:0 CUID="1971" tvg-name="Canal 11 HD" tvg-id="Canal11TV.uy" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/Canal-11-Las-Piedras-Uruguay-en-vivo-Online.png?resize=696%2C392&ssl=1" group-title="Uruguay", Canal 11 Las Piedras
 https://vxlive.cdn.antel.net.uy/auth_V_Canal11_Las_Piedras,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfQ2FuYWwxMV9MYXNfUGllZHJhcyUyRnZ4Zm10JTNEaGxzJTJGJTJBJmV4cGlyeT0xNzMyNTY4NDE5JnJhbmRvbT1XZG41dEdSS1FwJmMtaXA9MTg2LjU3LjEzMS42MiZpZF9yZWZlcmVuY2lhPSZpZF9kaXNwb3NpdGl2bz0wJmlkX2Zyb250ZW5kPTExOTYmcHVibGljX2lkPTJzNm5tLDFhZGY2YjExMTA4NWNiMzUwODk3MTRmMDllOTAwMjE4MzYwZmE5NGMxZTUxODdmZjFkMjNhYjEzNGVlZTc1ZmY=/vxfmt=hls/playlist.m3u8
 
