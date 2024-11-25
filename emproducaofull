@@ -2088,6 +2088,7 @@ https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wczqphrl5k/o
 
 uruguay
 
+
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9b536cd1716647ee94c45fa4836d29d6:d691c88a95440666742d1d8183182347
@@ -2230,6 +2231,12 @@ https://chromecast.cvattv.com.ar/live/c3eds/Canal_U/SA_Live_dash_enc_C/Canal_U.m
 
 
 #EXTM3U
+
+#EXTINF:0 CUID="1971" tvg-name="Canal 11 HD" tvg-id="Canal11TV.uy" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/Canal-11-Las-Piedras-Uruguay-en-vivo-Online.png?resize=696%2C392&ssl=1" group-title="Uruguay", Canal 11 Las Piedras
+https://vxlive.cdn.antel.net.uy/auth_V_Canal11_Las_Piedras,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfQ2FuYWwxMV9MYXNfUGllZHJhcyUyRnZ4Zm10JTNEaGxzJTJGJTJBJmV4cGlyeT0xNzMyNTY4NDE5JnJhbmRvbT1XZG41dEdSS1FwJmMtaXA9MTg2LjU3LjEzMS42MiZpZF9yZWZlcmVuY2lhPSZpZF9kaXNwb3NpdGl2bz0wJmlkX2Zyb250ZW5kPTExOTYmcHVibGljX2lkPTJzNm5tLDFhZGY2YjExMTA4NWNiMzUwODk3MTRmMDllOTAwMjE4MzYwZmE5NGMxZTUxODdmZjFkMjNhYjEzNGVlZTc1ZmY=/vxfmt=hls/playlist.m3u8
+
+#EXTINF:0 CUID="1971" tvg-name="Canal 11 HD" tvg-id="MaronasEntertainment.uy" tvg-logo="https://i.imgur.com/qssSxPn.png" group-title="Uruguay", Maroñas
+https://livedelta2.cdn.antel.net.uy/out,vxttoken=cGF0aFVSST0lMkZvdXQlMkZ1JTJGYXV0aF9EMl9NYXJvbmlhc19FbnRlcnRhaW5tZW50JTJGaGxzJTJGJTJBJmV4cGlyeT0xNzMyNTY4OTg4JnJhbmRvbT1ZNE9KdHNNdXFFJmMtaXA9MTg2LjU3LjEzMS42MiZpZF9yZWZlcmVuY2lhPSZpZF9kaXNwb3NpdGl2bz0wJmlkX2Zyb250ZW5kPTExOTYmcHVibGljX2lkPTJzNjhzLGRmOWI0MzUyNmE2OTgxYTNjOWRkZDU4MmM2MWZmN2JjYmY5MGUyOWRiNmM4OTE2OWRhZDU1YjYzNGNjMTQzNDQ=/u/auth_D2_Maronias_Entertainment/hls/auth_D2_Maronias_Entertainment_HLSDEF13697.m3u8
 
 #EXTINF:0 CUID="1971" tvg-name="Canal 10 HD" tvg-id="canal10.uy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/Canal_10_2014.png/revision/latest/scale-to-width-down/200?cb=20220210225717" group-title="Uruguay",Canal 10 HD
 http://tvplanet.online/live/Logitech25/Logitech25/1070312.m3u8
