@@ -3585,4 +3585,30 @@ http://flow-live.dlt.qwilted-cds.cqloud.com/live/c4eds/Eventos3_UY/SA_Live_dash_
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 http://flow-live.dlt.qwilted-cds.cqloud.com/live/c7eds/Flow_Music_XP/SA_Live_dash_enc_2A/Flow_Music_XP.mpd
 
+radios (1100xx)
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Logo_La100_Verde.JPG" group-title="Argentina-Radios", La 100
+https://musicsrc.cvattv.com.ar/L100
+
+#EXTINF:-1  tvg-logo="https://kuasark.com/files/stations-logos/radio-rivadavia-am630.png" group-title="Argentina-Radios", Rivadavia
+https://musicsrc.cvattv.com.ar/RRIV
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Logo_Mitre_SA.svg/512px-Logo_Mitre_SA.svg.png" group-title="Argentina-Radios", Mitre
+https://musicsrc.cvattv.com.ar/RMIT
+
+#EXTINF:-1  tvg-logo="https://play-lh.googleusercontent.com/bOj4RPzpOKNmWqvu11744ITAy3D1PAbh9b6pGWJ4BkvZ7mFJZ_OOEwFml3qVODRk31k=w240-h480-rw" group-title="Argentina-Radios", DSports Radio
+http://playerservices.streamtheworld.com/api/livestream-redirect/DSPORTSRADIO
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Radio_Continental_AM_590_%282015%29.png" group-title="Argentina-Radios", Continental
+http://playerservices.streamtheworld.com/api/livestream-redirect/CONTINENTAL
+
+#EXTINF:-1  tvg-logo="https://www.lared.am/css-custom/316/images/lared-logo-white.svg" group-title="Argentina-Radios", AM 910
+http://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/CNN_Radio_Argentina.png" group-title="Argentina-Radios", CNN
+https://musicsrc.cvattv.com.ar/RCNN
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_de_Radio_Nacional.svg/800px-Logo_de_Radio_Nacional.svg.png" group-title="Argentina-Radios", Nacional
+https://musicsrc.cvattv.com.ar/RNAC
+
 
