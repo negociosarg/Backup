@@ -416,6 +416,9 @@ https://cdn.cvattv.com.ar/live/c3eds/Canal_3_Rosario/SA_Live_dash_enc_2A/Canal_3
 #EXTINF:-1 tvg-logo="https://static.tvar.io/imagenes/telefeneuquen.png" group-title="Argentina - Regionales", TELEFE NEUQUEN
 https://cdn.cvattv.com.ar/live/c4eds/Telefe_Neuquen/SA_Live_dash_enc_2A/Telefe_Neuquen.mpd
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Canalsiete-nqn-logo.png" group-title="Argentina - Regionales", CANAL 7 NEUQUEN
+https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.tvar.io/imagenes/13maxdigital.png" group-title="Argentina - Regionales", 13 Max Televisi\u00f3n
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/chunklist_w247540946.m3u8
 
