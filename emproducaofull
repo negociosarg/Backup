@@ -219,6 +219,9 @@ https://cdn.cvattv.com.ar/live/c7eds/BravoTV/SA_Live_dash_enc_2A/BravoTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=7760caa058b51b7cce151c0539fa4a8f:edd086c1011ed2c54cbe869d0e8d9289
 https://cdn.cvattv.com.ar/live/c7eds/Canal_8_Tucuman/SA_Live_dash_enc/Canal_8_Tucuman.mpd
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/SNVpRUVg2G706XmVZBTynknHcZjFZhsT9yElEG6Z1B65XXgRWNWjt_3_WpHnsvKWlw=w240-h480-rw" group-title="Argentina - Regionales", Radio Fenix - Chaco
+https://server6.hostradios.com/8378/stream
+
 #EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/norte-vision-satelital-4905-w360.webp" group-title="Argentina - Regionales", Canal 10 Norte Visi\u00f3n Satelital
 https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8
 
