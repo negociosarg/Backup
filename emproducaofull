@@ -2240,6 +2240,9 @@ https://chromecast.cvattv.com.ar/live/c3eds/Canal_U/SA_Live_dash_enc_C/Canal_U.m
 
 #EXTM3U
 
+#EXTINF:0 CUID="1971" tvg-name="deportes.uy" tvg-id="" tvg-logo="http://canal11.uy/wp-content/uploads/2015/12/log.png" group-title="Uruguay", Canal 11 Montevideo
+https://5e50264bd6766.streamlock.net/canal11ury/videocanal11ury/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAyNCAyOjQ3OjAzIFBNJmhhc2hfdmFsdWU9Wk1xV25ycFR4SkRicno5ZTR1SjNBQT09JnZhbGlkbWludXRlcz01JmlkPQ==
+
 #EXTINF:0 CUID="1971" tvg-name="deportes.uy" tvg-id="" tvg-logo="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=202,fit=crop,q=95/dWxljeRWRnuM78Pj/canal2_vcanaria-YanBjMnZzptkvOa7.png" group-title="Uruguay", Canal 2 Vison Canaria
 https://vxlive.cdn.antel.net.uy/auth_V_Canal2VisionCanaria,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfQ2FuYWwyVmlzaW9uQ2FuYXJpYSUyRnZ4Zm10JTNEaGxzJTJGJTJBJmV4cGlyeT0xNzMyNTY5NjQ2JnJhbmRvbT1DTm1sbmR6S25KJmMtaXA9MTg2LjU3LjEzMS42MiZpZF9yZWZlcmVuY2lhPSZpZF9kaXNwb3NpdGl2bz0wJmlkX2Zyb250ZW5kPTExOTYmcHVibGljX2lkPTJzNm5oLGE3NzY4OGE0MTM3ZGI5NjMzNDg1MWYwMTZjMTI2ZWY2MjUyNjJlNGI4YTNlOTE3NmY1ODUxNGVlMzFjZTJmOGQ=/vxfmt=hls/playlist.m3u8
 
