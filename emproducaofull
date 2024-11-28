@@ -8,6 +8,25 @@ https://video.twimg.com/ext_tw_video/1861137156758020096/pu/pl/--e7UuqZuuwoEUGM.
 #EXTINF:-1 tvg-chno="206" tvg-id="ESPN HD.uy" tvg-logo="https://i.ibb.co/kKRT43w/284685324-2948809311931800-1149644163741252235-n.jpg" group-title="1⚽FINAL LIBERTADORES", PUBLICITARIO BOTAFOGO
 https://video.twimg.com/ext_tw_video/1861040285351849984/pu/pl/X4UC8gXqDggkSBIy.m3u8?variant_version=1&tag=12&v=feb
 
+#EXTINF:-1 tvg-chno="111" tvg-id="Telefe.ar" tvg-logo="https://git.io/JOTOu" group-title="1⚽FINAL LIBERTADORES", Telefé
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9bb54fccffaddd38916e85c08de98cc9:d06f509c418eb6f1b2fc2b766445328b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+http://cdn.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd
+
+#EXTINF:-1 tvg-chno="202" tvg-id="FoxSports.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/FOXSP.png?raw=true" group-title="1⚽FINAL LIBERTADORES", FOX Sports
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a61b644fdc68568b5be3e2629041564:a1672cdfb5de64707151128f811da667
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+http://cdn.sensa.com.ar/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cbc2a0c7a38df0aa3333cd71841d3b0d:aac61b730e2ac1df23f1e872e7541c1b
+#EXTINF:-1 ch-number="111" tvg-id="FoxSports.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/FOXSP.png?raw=true" group-title="1⚽FINAL LIBERTADORES", FOX Sports
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://flow-live.dlt.qwilted-cds.cqloud.com/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.mpd
+
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6362e1f36fcb7ee3c47debd9140336ad:9ba1d46c5b9c7a3130a5dabbf7155175
 #EXTINF:-1 ch-number="101" tvg-id="ESPN HD.uy" tvg-logo="https://i.ibb.co/kKRT43w/284685324-2948809311931800-1149644163741252235-n.jpg" group-title="1⚽FINAL LIBERTADORES", ESPN
@@ -20,35 +39,7 @@ https://cdn.cvattv.com.ar/live/c4eds/ESPN_UY/SA_Live_dash_enc/ESPN_UY.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://cdn.cvattv.com.ar/live/c4eds/ESPN2_UY/SA_Live_dash_enc/ESPN2_UY.mpd
 
-#EXTINF:-1 tvg-chno="206" tvg-id="ESPN HD.uy" tvg-logo="https://i.ibb.co/kKRT43w/284685324-2948809311931800-1149644163741252235-n.jpg" group-title="1⚽FINAL LIBERTADORES", ESPN
-http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/kKRT43w/284685324-2948809311931800-1149644163741252235-n.jpg", group-title="1⚽FINAL LIBERTADORES", D Sports
-http://177.53.155.236:8000/play/a0co/index.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6362e1f36fcb7ee3c47debd9140336ad:9ba1d46c5b9c7a3130a5dabbf7155175
-#EXTINF:-1 ch-number="101" tvg-id="ESPN HD.uy" tvg-logo="https://i.ibb.co/kKRT43w/284685324-2948809311931800-1149644163741252235-n.jpg" group-title="1⚽FINAL LIBERTADORES", ESPN
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://cdn.cvattv.com.ar/live/c4eds/ESPN_UY/SA_Live_dash_enc/ESPN_UY.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0d820100144772fed9f38b83650fa7e1:ded8cc47b29b0eb0b0a87df22e721847
-#EXTINF:-1 ch-number="102" tvg-id="ESPN 2 HD.uy" tvg-logo="https://i.ibb.co/kKRT43w/284685324-2948809311931800-1149644163741252235-n.jpg"group-title="1⚽FINAL LIBERTADORES", ESPN 2
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://cdn.cvattv.com.ar/live/c4eds/ESPN2_UY/SA_Live_dash_enc/ESPN2_UY.mpd
-
-#EXTINF:-1 tvg-chno="206" tvg-id="ESPN HD.uy" tvg-logo="https://i.ibb.co/kKRT43w/284685324-2948809311931800-1149644163741252235-n.jpg" group-title="1⚽FINAL LIBERTADORES", ESPN
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d243ebd7a57bea4b4b052ae13f4c051:5c1925879de873d43b7c25925902539b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-http://cdn.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd
-
-#EXTINF:-1 tvg-chno="206" tvg-id="ESPN 2 HD.uy" tvg-logo="https://i.ibb.co/kKRT43w/284685324-2948809311931800-1149644163741252235-n.jpg" group-title="1⚽FINAL LIBERTADORES", ESPN 2
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6a8bd6496d2444301c9d4d0feca9d75b:3fd1967701ba2897729187b60094c158
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-http://cdn.sensa.com.ar/live/eds/ESPN2/live_dash_cld/ESPN2.mpd
 
 
 nacionales, aire y noticias
@@ -207,6 +198,9 @@ Regionales
 
 #EXTINF:-1 tvg-id="Canal8SanJuan.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Canal_Ocho_San_Juan_%28Logo_2018%29.png/411px-Canal_Ocho_San_Juan_%28Logo_2018%29.png" group-title="Argentina - Regionales", Canal 8 San Juan
 https://ythls.armelin.one/channel/UC5UKMEIoqvNDMSDz2_6Sn9g.m3u8
+
+#EXTINF:-1 tvg-id="Canal8SanJuan.ar" tvg-logo="https://www.diarioelzondasj.com.ar/_rv20241104-01/web/assets/imgs/logos/zonda_color.svg" group-title="Argentina - Regionales", Canal Zonda San Juan
+https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal8SanJuan.ar" tvg-logo="https://www.telesoldiario.com/_rv20241101-01/web/assets/imgs/logos/telesol_w.png" group-title="Argentina - Regionales", Telesol Diario
 https://cnnsanjuan.com:9999/live/telesol/chunks.m3u8?nimblesessionid=70109200
