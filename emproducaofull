@@ -204,6 +204,16 @@ http://cdn.sensa.com.ar/live/eds/PakaPaka/live_dash_cld/PakaPaka.mpd
 
 Regionales
 
+
+#EXTINF:-1 tvg-id="Canal8SanJuan.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Canal_Ocho_San_Juan_%28Logo_2018%29.png/411px-Canal_Ocho_San_Juan_%28Logo_2018%29.png" group-title="Argentina - Regionales", Canal 8 San Juan
+https://ythls.armelin.one/channel/UC5UKMEIoqvNDMSDz2_6Sn9g.m3u8
+
+#EXTINF:-1 tvg-id="Canal8SanJuan.ar" tvg-logo="https://www.telesoldiario.com/_rv20241101-01/web/assets/imgs/logos/telesol_w.png" group-title="Argentina - Regionales", Telesol Diario
+https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal13SanJuan.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Logo_13_3d.jpg/220px-Logo_13_3d.jpg" group-title="Argentina - Regionales", Canal 13 San Juan
+https://ythls.armelin.one/channel/UCuJvDPQIaUhvdHiH275WjNA.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9c996a1465acddc9c3f7a2dd9b86aa88&key=a2b63e48c99bebb52bfcdb1830efdd3e
 #EXTINF:-1 ch-number="942" tvg-logo="https://www.canal12misiones.com/wp-content/uploads/2023/06/Recurso-3full-blanco-224x300.png" group-title="Argentina - Regionales", CANAL 12 MISIONES
