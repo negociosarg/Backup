@@ -505,7 +505,7 @@ https://m.mtd.llc/iptv-query.m3u8?streaming-ip=https://www.youtube.com/@Telesols
 https://cdn.cvattv.com.ar/live/c6eds/Argentinisima/SA_Live_dash_enc/Argentinisima.mpd
 
 #EXTINF:-1 tvg-logo="https://www.bragadotv.com.ar/images/custom/logo.png?_v=29" group-title="Argentina - Regionales", BRAGADO TV
-https://inliveserver.com:1936/12000/12000/playlist.m3u8
+https://inliveserver.com:1936/12000/12000/chunklist_w100079146.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.tvar.io/imagenes/canalochosanjuan.png" group-title="Argentina - Regionales", Canal 8 San Juan
 https://m.mtd.llc/iptv-query.m3u8?url=http://www.youtube.com/@canal8sanjuan904/live
