@@ -8,13 +8,13 @@ https://video.twimg.com/ext_tw_video/1861137156758020096/pu/pl/--e7UuqZuuwoEUGM.
 #EXTINF:-1 tvg-chno="206" tvg-id="ESPN HD.uy" tvg-logo="https://i.ibb.co/kKRT43w/284685324-2948809311931800-1149644163741252235-n.jpg" group-title="1⚽FINAL LIBERTADORES", PUBLICITARIO BOTAFOGO
 https://video.twimg.com/ext_tw_video/1861040285351849984/pu/pl/X4UC8gXqDggkSBIy.m3u8?variant_version=1&tag=12&v=feb
 
-#EXTINF:-1 tvg-chno="111" tvg-id="Telefe.ar" tvg-logo="https://git.io/JOTOu" group-title="1⚽FINAL LIBERTADORES", Telefé
+#EXTINF:-1 tvg-chno="111" tvg-id="Telefe.ar" tvg-logo="https://i.ibb.co/kKRT43w/284685324-2948809311931800-1149644163741252235-n.jpg" group-title="1⚽FINAL LIBERTADORES", Telefé
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9bb54fccffaddd38916e85c08de98cc9:d06f509c418eb6f1b2fc2b766445328b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 http://cdn.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd
 
-#EXTINF:-1 tvg-chno="202" tvg-id="FoxSports.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/FOXSP.png?raw=true" group-title="1⚽FINAL LIBERTADORES", FOX Sports
+#EXTINF:-1 tvg-chno="202" tvg-id="FoxSports.ar" tvg-logo="https://i.ibb.co/kKRT43w/284685324-2948809311931800-1149644163741252235-n.jpg" group-title="1⚽FINAL LIBERTADORES", FOX Sports
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a61b644fdc68568b5be3e2629041564:a1672cdfb5de64707151128f811da667
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
