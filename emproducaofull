@@ -1704,31 +1704,31 @@ mundiales e internacionales
 
 
 
-#EXTINF:-1 tvg-chno="901" tvg-id="LasEstrellasLatinAmerica.mx.uy" tvg-logo="https://static.flow.com.ar/images/670/CH_LOGO/350/500/0/0/74835190079.png" group-title="Mundo", Canal De Las Estrellas
+#EXTINF:-1 tvg-chno="901" tvg-id="LasEstrellasLatinAmerica.mx.uy" tvg-logo="https://static.flow.com.ar/images/670/CH_LOGO/350/500/0/0/74835190079.png" group-title="🌏 Mundo", Canal De Las Estrellas
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d17e47a4a6feed691363e2e57c2e322:5e4906262b25b3f461eb9c63ea04b500
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 http://cdn.sensa.com.ar/live/eds/Estrellas/live_dash_cld/Estrellas.mpd
 
-#EXTINF:-1 tvg-chno="821" tvg-id="CNNenEspanol.us.uy" tvg-name="CNNEE" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CNNEE.png?raw=true" group-title="Mundo", CNN En Español
+#EXTINF:-1 tvg-chno="821" tvg-id="CNNenEspanol.us.uy" tvg-name="CNNEE" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CNNEE.png?raw=true" group-title="🌏 Mundo", CNN En Español
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=718f07e2beccf40cc207365ea8a70ef6:672d59d617c4a697025be0fb8d382cc0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 http://cdn.sensa.com.ar/live/eds/CnnEspanol/live_dash_cld/CnnEspanol.mpd
 
-#EXTINF:-1 tvg-chno="821" tvg-id="CNNInternationalLatinAmerica.us.uy" tvg-name="CNNEE" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CNNEE.png?raw=true" group-title="Mundo", CNN Internacional
+#EXTINF:-1 tvg-chno="821" tvg-id="CNNInternationalLatinAmerica.us.uy" tvg-name="CNNEE" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CNNEE.png?raw=true" group-title="🌏 Mundo", CNN Internacional
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=16c07e6ffdddf95b34e666f9fb745eb4:adbd7d96395740ad5a389cba976e31d8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 http://cdn.sensa.com.ar/live/eds/CnnINT/live_dash_cld/CnnINT.mpd
 
-#EXTINF:-1 tvg-chno="807" tvg-id="Deustche Welle.uy" tvg-logo="https://git.io/JOTLM" group-title="Mundo", Deutsche Welle
+#EXTINF:-1 tvg-chno="807" tvg-id="Deustche Welle.uy" tvg-logo="https://git.io/JOTLM" group-title="🌏 Mundo", Deutsche Welle
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5a24d18dae30689d554afc6fc1348734:2f7420bfacfeac635b9e8ed0b5afa554
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 http://cdn.sensa.com.ar/live/eds/DWChannel/live_dash_cld/DWChannel.mpd
 
-#EXTINF:-1 tvg-chno="810" tvg-id="RaiItaliaAmerica.it.uy" tvg-logo="https://static.flow.com.ar/images/716/CH_LOGO/1920/1080/0/0/577119940729.png" group-title="Mundo", RAI Italia
+#EXTINF:-1 tvg-chno="810" tvg-id="RaiItaliaAmerica.it.uy" tvg-logo="https://static.flow.com.ar/images/716/CH_LOGO/1920/1080/0/0/577119940729.png" group-title="🌏 Mundo", RAI Italia
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cd225327cc07001ffff55bd9271b1b2f:faae6578b5c3fde01b9f41fd39696605
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
@@ -1740,17 +1740,17 @@ http://cdn.sensa.com.ar/bpk-tv/RAI/default/index.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 http://cdn.sensa.com.ar/live/eds/Telemundo/live_dash_cld/Telemundo.mpd
 
-#EXTINF:-1 tvg-chno="812" tvg-id="TVChile.cl.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVNI.png?raw=true" group-title="Mundo", TV Chile
+#EXTINF:-1 tvg-chno="812" tvg-id="TVChile.cl.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVNI.png?raw=true" group-title="🌏 Mundo", TV Chile
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 http://cdn.sensa.com.ar/bpk-tv/TVChile/default/index.mpd
 
-#EXTINF:-1 tvg-chno="801" tvg-id="TVEInternacionalAmerica.es.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVESP.png?raw=true" group-title="Mundo", TVE
+#EXTINF:-1 tvg-chno="801" tvg-id="TVEInternacionalAmerica.es.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVESP.png?raw=true" group-title="🌏 Mundo", TVE
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=49c79f1d16db45b4e6671c3a7550e8fc:ac26680d5cfdcab87e4139a410b9984b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 http://cdn.sensa.com.ar/live/eds/TVE/live_dash_cld/TVE.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropbox.com/scl/fi/xk05kx05hq2265pfgmdvk/ve-plus.jpg?rlkey=7ery39zxclpw9gp4swdl8fj89&dl=1", group-title="Mundo", Ve Plus
+#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropbox.com/scl/fi/xk05kx05hq2265pfgmdvk/ve-plus.jpg?rlkey=7ery39zxclpw9gp4swdl8fj89&dl=1", group-title="🌏 Mundo", Ve Plus
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8236bef638490a63aacdc424df908658:6229f752364cd5e71cd31a9ef9757bf1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
@@ -2014,6 +2014,9 @@ http://78.159.122.159:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/119
 
 Brasil Deportes
 
+#EXTINF:0 CUID="63" tvg-name="" tvg-logo="https://www.bettingtop10.com.br/img/width=1170,height=680/89/2024/02/08/bt10-br-jogos-de-hoje-ao-vivo-na-tv-1170x680%20(1).webp" group-title="Brasil⚽Deportes 🇧🇷", Jogos de Hoje
+http://multiplay.plus/:8080/live/Copacabana2025/60889deadcb0af22/673339.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d98239180d8380b3a1bb28d875b1ddf2:cf836ced579257d1c76ae8809818e6c4
 #EXTINF:-1 ch-number="101" tvg-id="premiere1.br" tvg-logo="https://playertv.net/wp-content/uploads/2024/04/premiere-300x169.webp" group-title="Brasil⚽Deportes 🇧🇷", Premiere
@@ -2061,6 +2064,37 @@ https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wczqphrl5k/o
 #EXTINF:-1 ch-number="101" tvg-id="premiere8.br" tvg-logo="https://playertv.net/wp-content/uploads/2024/04/premiere-300x169.webp" group-title="Brasil⚽Deportes 🇧🇷", Premiere 8
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wczqphrl5k/out/v1/7a20b4be236a4a9484fdf5cdfcbe79d5/cenc.mpd
+
+APPLE TV -MLS
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://epg.svrtv.xyz/logos/p2/apple-tv.png" group-title="⚽Apple TV", MLS Eventos 1
+http://multiplay.plus/:8080/live/Copacabana2025/60889deadcb0af22/674512.m3u8
+
+#EXTINF:-1 tvg-logo="https://epg.svrtv.xyz/logos/p2/apple-tv.png" group-title="⚽Apple TV", MLS Eventos 1
+http://multiplay.plus/:8080/live/Copacabana2025/60889deadcb0af22/674513.m3u8
+
+#EXTINF:-1 tvg-logo="https://epg.svrtv.xyz/logos/p2/apple-tv.png" group-title="⚽Apple TV", MLS Eventos 2
+http://multiplay.plus/:8080/live/Copacabana2025/60889deadcb0af22/674514.m3u8
+
+#EXTINF:-1 tvg-logo="https://epg.svrtv.xyz/logos/p2/apple-tv.png" group-title="⚽Apple TV", MLS Eventos 3
+http://multiplay.plus/:8080/live/Copacabana2025/60889deadcb0af22/674515.m3u8
+
+#EXTINF:-1 tvg-logo="https://epg.svrtv.xyz/logos/p2/apple-tv.png" group-title="Apple TV", MLS Eventos 4
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/674512.m3u8
+
+#EXTINF:-1 tvg-logo="https://epg.svrtv.xyz/logos/p2/apple-tv.png" group-title="⚽Apple TV", MLS Eventos 5
+http://multiplay.plus/:8080/live/Copacabana2025/60889deadcb0af22/331508.m3u8
+
+#EXTINF:-1 tvg-logo="https://epg.svrtv.xyz/logos/p2/apple-tv.png" group-title="⚽Apple TV", MLS Eventos 5
+http://multiplay.plus/:8080/live/Copacabana2025/60889deadcb0af22/331509.m3u8
+
+#EXTINF:-1 tvg-logo="https://epg.svrtv.xyz/logos/p2/apple-tv.png" group-title="⚽Apple TV", MLS Eventos 6
+http://multiplay.plus/:8080/live/Copacabana2025/60889deadcb0af22/331510.m3u8
+
+#EXTINF:-1 tvg-logo="https://epg.svrtv.xyz/logos/p2/apple-tv.png" group-title="⚽Apple TV", MLS Eventos 7
+http://multiplay.plus/:8080/live/Copacabana2025/60889deadcb0af22/331511.m3u8
 
 
 uruguay
@@ -2506,7 +2540,7 @@ http://flow-live.dlt.qwilted-cds.cqloud.com/live/c4eds/NOTICIAS_PY_C4/SA_Live_da
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=68a5bd6c58e6c05bacfd18d3feec31f2:ae23f8357512df2dfabcb8104b078182
-#EXTINF:-1 ch-number="708" tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/PYTV.png?raw=true" group-title="Mundo", Paraguay TV
+#EXTINF:-1 ch-number="708" tvg-id="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/PYTV.png?raw=true" group-title="🌏 Mundo", Paraguay TV
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 http://flow-live.dlt.qwilted-cds.cqloud.com/live/c7eds/Paraguay_TV/SA_Live_dash_enc_2A/Paraguay_TV.mpd
 
