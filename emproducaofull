@@ -3651,3 +3651,660 @@ https://musicsrc.cvattv.com.ar/RCNN
 https://musicsrc.cvattv.com.ar/RNAC
 
 
+
+
+
+
+Portugal Deportes
+
+#EXTM3U
+#EXTINF:0 CUID="9431" tvg-name="SP: PT: Sport TV+ SD" tvg-logo="http://swedtv.vip/logos/port_Portugal_Sports/Sport_Plus.png" group-title="Portugal ⚽ Deportes 🇵🇹",SP: PT: Sport TV+ SD
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/491671.m3u8
+#EXTINF:0 CUID="9432" tvg-name="SP: PT: Sport TV+ HD (H265)" tvg-logo="http://swedtv.vip/logos/port_Portugal_Sports/Sport_Plus.png" group-title="Portugal ⚽ Deportes 🇵🇹",SP: PT: Sport TV+ HD (H265)
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/491672.m3u8
+#EXTINF:0 CUID="9433" tvg-name="SP: PT: Sport TV+ FHD" tvg-logo="http://swedtv.vip/logos/port_Portugal_Sports/Sport_Plus.png" group-title="Portugal ⚽ Deportes 🇵🇹",SP: PT: Sport TV+ FHD
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/491673.m3u8
+#EXTINF:0 CUID="9434" tvg-name="SP: PT: Sport TV 1 SD" tvg-logo="http://swedtv.vip/logos/port_Portugal_Sports/Sport_TV.png" group-title="Portugal ⚽ Deportes 🇵🇹",SP: PT: Sport TV 1 SD
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/491674.m3u8
+#EXTINF:0 CUID="9435" tvg-name="SP: PT: Sport TV 1 HD" tvg-logo="http://swedtv.vip/logos/port_Portugal_Sports/Sport_TV.png" group-title="Portugal ⚽ Deportes 🇵🇹",SP: PT: Sport TV 1 HD
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/491675.m3u8
+#EXTINF:0 CUID="9436" tvg-name="SP: PT: Sport TV 1 FHD" tvg-logo="http://swedtv.vip/logos/port_Portugal_Sports/Sport_TV.png" group-title="Portugal ⚽ Deportes 🇵🇹",SP: PT: Sport TV 1 FHD
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/491676.m3u8
+#EXTINF:0 CUID="9437" tvg-name="SP: PT: Sport TV 2 SD" tvg-logo="http://swedtv.vip/logos/port_Portugal_Sports/Sport_TV.png" group-title="Portugal ⚽ Deportes 🇵🇹",SP: PT: Sport TV 2 SD
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/491677.m3u8
+#EXTINF:0 CUID="9438" tvg-name="SP: PT: Sport TV 2 HD" tvg-logo="http://swedtv.vip/logos/port_Portugal_Sports/Sport_TV.png" group-title="Portugal ⚽ Deportes 🇵🇹",SP: PT: Sport TV 2 HD
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/491678.m3u8
+#EXTINF:0 CUID="9439" tvg-name="SP: PT: Sport TV 2 FHD" tvg-logo="http://swedtv.vip/logos/port_Portugal_Sports/Sport_TV.png" group-title="Portugal ⚽ Deportes 🇵🇹",SP: PT: Sport TV 2 FHD
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/491679.m3u8
+#EXTINF:0 CUID="9440" tvg-name="SP: PT: Sport TV 3 SD" tvg-logo="http://swedtv.vip/logos/port_Portugal_Sports/Sport_TV.png" group-title="Portugal ⚽ Deportes 🇵🇹",SP: PT: Sport TV 3 SD
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/491680.m3u8
+#EXTINF:0 CUID="9441" tvg-name="SP: PT: Sport TV 3 HD (H265)" tvg-logo="http://swedtv.vip/logos/port_Portugal_Sports/Sport_TV.png" group-title="Portugal ⚽ Deportes 🇵🇹",SP: PT: Sport TV 3 HD (H265)
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/491681.m3u8
+#EXTINF:0 CUID="9442" tvg-name="SP: PT: Sport TV 3 FHD" tvg-logo="http://swedtv.vip/logos/port_Portugal_Sports/Sport_TV.png" group-title="Portugal ⚽ Deportes 🇵🇹",SP: PT: Sport TV 3 FHD
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/491682.m3u8
+#EXTINF:0 CUID="9443" tvg-name="SP: PT: Sport TV 4 SD" tvg-logo="http://swedtv.vip/logos/port_Portugal_Sports/Sport_TV.png" group-title="Portugal ⚽ Deportes 🇵🇹",SP: PT: Sport TV 4 SD
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/491683.m3u8
+#EXTINF:0 CUID="9444" tvg-name="SP: PT: Sport TV 4 HD (H265)" tvg-logo="http://swedtv.vip/logos/port_Portugal_Sports/Sport_TV.png" group-title="Portugal ⚽ Deportes 🇵🇹",SP: PT: Sport TV 4 HD (H265)
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/491684.m3u8
+#EXTINF:0 CUID="9445" tvg-name="SP: PT: Sport TV 4 FHD" tvg-logo="http://swedtv.vip/logos/port_Portugal_Sports/Sport_TV.png" group-title="Portugal ⚽ Deportes 🇵🇹",SP: PT: Sport TV 4 FHD
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/491685.m3u8
+#EXTINF:0 CUID="9446" tvg-name="SP: PT: Sport TV 5 SD" tvg-logo="http://swedtv.vip/logos/port_Portugal_Sports/Sport_TV.png" group-title="Portugal ⚽ Deportes 🇵🇹",SP: PT: Sport TV 5 SD
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/491686.m3u8
+#EXTINF:0 CUID="9447" tvg-name="SP: PT: Sport TV 5 FHD" tvg-logo="http://swedtv.vip/logos/port_Portugal_Sports/Sport_TV.png" group-title="Portugal ⚽ Deportes 🇵🇹",SP: PT: Sport TV 5 FHD
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/491687.m3u8
+#EXTINF:0 CUID="9448" tvg-name="SP: PT: Eleven Sports 1 SD" tvg-logo="http://swedtv.vip/logos/port_Portugal_Sports/ELEVEN_SPORTS.png" group-title="Portugal ⚽ Deportes 🇵🇹",SP: PT: Eleven Sports 1 SD
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/491688.m3u8
+#EXTINF:0 CUID="9449" tvg-name="SP: PT: Eleven Sports 1 FHD" tvg-logo="http://swedtv.vip/logos/port_Portugal_Sports/ELEVEN_SPORTS.png" group-title="Portugal ⚽ Deportes 🇵🇹",SP: PT: Eleven Sports 1 FHD
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/491689.m3u8
+#EXTINF:0 CUID="9450" tvg-name="SP: PT: Eleven Sports 2 SD" tvg-logo="http://swedtv.vip/logos/port_Portugal_Sports/ELEVEN_SPORTS.png" group-title="Portugal ⚽ Deportes 🇵🇹",SP: PT: Eleven Sports 2 SD
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/491690.m3u8
+#EXTINF:0 CUID="9451" tvg-name="SP: PT: Eleven Sports 2 FHD" tvg-logo="http://swedtv.vip/logos/port_Portugal_Sports/ELEVEN_SPORTS.png" group-title="Portugal ⚽ Deportes 🇵🇹",SP: PT: Eleven Sports 2 FHD
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/491691.m3u8
+#EXTINF:0 CUID="9452" tvg-name="SP: PT: Eleven Sports 3" tvg-logo="http://swedtv.vip/logos/port_Portugal_Sports/ELEVEN_SPORTS.png" group-title="Portugal ⚽ Deportes 🇵🇹",SP: PT: Eleven Sports 3
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/491692.m3u8
+#EXTINF:0 CUID="9453" tvg-name="SP: PT: Eleven Sports 3 FHD" tvg-logo="http://swedtv.vip/logos/port_Portugal_Sports/ELEVEN_SPORTS.png" group-title="Portugal ⚽ Deportes 🇵🇹",SP: PT: Eleven Sports 3 FHD
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/491693.m3u8
+#EXTINF:0 CUID="9454" tvg-name="SP: PT: Eleven Sports 4 SD" tvg-logo="http://swedtv.vip/logos/port_Portugal_Sports/ELEVEN_SPORTS.png" group-title="Portugal ⚽ Deportes 🇵🇹",SP: PT: Eleven Sports 4 SD
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/491694.m3u8
+#EXTINF:0 CUID="9455" tvg-name="SP: PT: Eleven Sports 4 FHD" tvg-logo="http://swedtv.vip/logos/port_Portugal_Sports/ELEVEN_SPORTS.png" group-title="Portugal ⚽ Deportes 🇵🇹",SP: PT: Eleven Sports 4 FHD
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/491695.m3u8
+#EXTINF:0 CUID="9456" tvg-name="SP: PT: Eleven Sports 5 SD" tvg-logo="http://swedtv.vip/logos/port_Portugal_Sports/ELEVEN_SPORTS.png" group-title="Portugal ⚽ Deportes 🇵🇹",SP: PT: Eleven Sports 5 SD
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/491696.m3u8
+#EXTINF:0 CUID="9457" tvg-name="SP: PT: Eleven Sports 5 FHD" tvg-logo="http://swedtv.vip/logos/port_Portugal_Sports/ELEVEN_SPORTS.png" group-title="Portugal ⚽ Deportes 🇵🇹",SP: PT: Eleven Sports 5 FHD
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/491697.m3u8
+#EXTINF:0 CUID="9458" tvg-name="SP: PT: Sport TV 6 SD" tvg-logo="http://swedtv.vip/logos/port_Portugal_Sports/Sport_TV.png" group-title="Portugal ⚽ Deportes 🇵🇹",SP: PT: Sport TV 6 SD
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/491698.m3u8
+#EXTINF:0 CUID="9459" tvg-name="SP: PT: Sport TV 6 HD" tvg-logo="http://swedtv.vip/logos/port_Portugal_Sports/Sport_TV.png" group-title="Portugal ⚽ Deportes 🇵🇹",SP: PT: Sport TV 6 HD
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/491699.m3u8
+#EXTINF:0 CUID="9460" tvg-name="SP: PT: Sport TV 6 FHD" tvg-logo="http://swedtv.vip/logos/port_Portugal_Sports/Sport_TV.png" group-title="Portugal ⚽ Deportes 🇵🇹",SP: PT: Sport TV 6 FHD
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/491700.m3u8
+#EXTINF:0 CUID="9461" tvg-name="SP: PT: PFC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png" group-title="Portugal ⚽ Deportes 🇵🇹",SP: PT: PFC
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/491701.m3u8
+#EXTINF:0 CUID="9462" tvg-name="SP: PT: Canal 11" tvg-ID="canal10.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/2106px-Logo_Canal_11_FPF.svg.png" group-title="Portugal ⚽ Deportes 🇵🇹",SP: PT: Canal 11
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/491702.m3u8
+#EXTINF:0 CUID="9463" tvg-name="SP: PT: Canal 11 HD (H265)" tvg-ID="canal10.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/2106px-Logo_Canal_11_FPF.svg.png" group-title="Portugal ⚽ Deportes 🇵🇹",SP: PT: Canal 11 HD (H265)
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/491703.m3u8
+#EXTINF:0 CUID="9464" tvg-name="SP: PT: Canal 11 FHD" tvg-ID="canal10.ar" tvg-logo="http://swedtv.vip/logos/port_Portugal_Sports/Canal_Once.png" group-title="Portugal ⚽ Deportes 🇵🇹",SP: PT: Canal 11 FHD
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/491704.m3u8
+#EXTINF:0 CUID="9465" tvg-name="SP: PT: A Bola TV" tvg-logo="http://swedtv.vip/logos/port_Portugal_Sports/A_Bola.png" group-title="Portugal ⚽ Deportes 🇵🇹",SP: PT: A Bola TV
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/491705.m3u8
+#EXTINF:0 CUID="9466" tvg-name="SP: PT: A Bola TV HD (H265)" tvg-logo="http://swedtv.vip/logos/port_Portugal_Sports/A_Bola.png" group-title="Portugal ⚽ Deportes 🇵🇹",SP: PT: A Bola TV HD (H265)
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/491706.m3u8
+#EXTINF:0 CUID="9467" tvg-name="SP: PT: A Bola TV FHD" tvg-logo="https://www.kindpng.com/picc/m/252-2520269_a-bola-logo-logo-a-bola-tv-hd.png" group-title="Portugal ⚽ Deportes 🇵🇹",SP: PT: A Bola TV FHD
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/491707.m3u8
+#EXTINF:0 CUID="9468" tvg-name="SP: PT: Eurosport 1 SD" tvg-logo="https://i.postimg.cc/Cx84vByr/My-project-15-removebg-preview.png" group-title="Portugal ⚽ Deportes 🇵🇹",SP: PT: Eurosport 1 SD
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/491708.m3u8
+#EXTINF:0 CUID="9469" tvg-name="SP: PT: Eurosport 1 FHD" tvg-logo="https://i.postimg.cc/Cx84vByr/My-project-15-removebg-preview.png" group-title="Portugal ⚽ Deportes 🇵🇹",SP: PT: Eurosport 1 FHD
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/491709.m3u8
+#EXTINF:0 CUID="9470" tvg-name="SP: PT: Eurosport 2 SD" tvg-logo="https://i.postimg.cc/Ghz5GSw3/My-project-16-removebg-preview.png" group-title="Portugal ⚽ Deportes 🇵🇹",SP: PT: Eurosport 2 SD
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/491710.m3u8
+#EXTINF:0 CUID="9471" tvg-name="SP: PT: Eurosport 2 FHD" tvg-logo="https://i.postimg.cc/Ghz5GSw3/My-project-16-removebg-preview.png" group-title="Portugal ⚽ Deportes 🇵🇹",SP: PT: Eurosport 2 FHD
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/491711.m3u8
+#EXTINF:0 CUID="9472" tvg-name="SP: PT: Benfica TV SD" tvg-logo="http://swedtv.vip/logos/port_Portugal_Sports/Benfica_TV.png" group-title="Portugal ⚽ Deportes 🇵🇹",SP: PT: Benfica TV SD
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/491712.m3u8
+#EXTINF:0 CUID="9473" tvg-name="SP: PT: BTV" tvg-logo="http://swedtv.vip/logos/port_Portugal_Sports/BTV.png" group-title="Portugal ⚽ Deportes 🇵🇹",SP: PT: BTV
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/491713.m3u8
+#EXTINF:0 CUID="9474" tvg-name="PT: BTV HD (H265)" tvg-logo="http://swedtv.vip/logos/port_Portugal_Sports/BTV.png" group-title="Portugal ⚽ Deportes 🇵🇹",PT: BTV HD (H265)
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/491714.m3u8
+#EXTINF:0 CUID="9475" tvg-name="SP: PT: BTV FHD" tvg-logo="https://1.bp.blogspot.com/-bmo-eSDKLm0/WDrqBACM5GI/AAAAAAAAFas/uDRGh2C-tZ0oRPUufWBWVRtVHnHBJoduwCLcB/s1600/BTV%2BHD%2Blogo.png" group-title="Portugal ⚽ Deportes 🇵🇹",SP: PT: BTV FHD
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/491715.m3u8
+#EXTINF:0 CUID="9476" tvg-name="SP: PT: Benfica TV FHD" tvg-logo="http://swedtv.vip/logos/port_Portugal_Sports/Benfica_TV.png" group-title="Portugal ⚽ Deportes 🇵🇹",SP: PT: Benfica TV FHD
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/491716.m3u8
+#EXTINF:0 CUID="9477" tvg-name="SP: PT: BTV 1" tvg-logo="https://1.bp.blogspot.com/-oZKppN3ouvk/WDrqBTKfm2I/AAAAAAAAFa0/XqtKJP8Ld3gXPJfCi43-7evKAMkf5ooJgCLcB/s1600/BTV%2Blogo.png" group-title="Portugal ⚽ Deportes 🇵🇹",SP: PT: BTV 1
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/491717.m3u8
+#EXTINF:0 CUID="9478" tvg-name="SP: PT: BTV 1 FHD" tvg-logo="https://1.bp.blogspot.com/-bmo-eSDKLm0/WDrqBACM5GI/AAAAAAAAFas/uDRGh2C-tZ0oRPUufWBWVRtVHnHBJoduwCLcB/s1600/BTV%2BHD%2Blogo.png" group-title="Portugal ⚽ Deportes 🇵🇹",SP: PT: BTV 1 FHD
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/491718.m3u8
+#EXTINF:0 CUID="9479" tvg-name="SP: PT: Sporting TV SD" tvg-logo="http://swedtv.vip/logos/port_Portugal_Sports/Sporting_TV.png" group-title="Portugal ⚽ Deportes 🇵🇹",SP: PT: Sporting TV SD
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/491719.m3u8
+#EXTINF:0 CUID="9480" tvg-name="SP: PT: Sporting TV HD (H265)" tvg-logo="http://swedtv.vip/logos/port_Portugal_Sports/Sporting_TV.png" group-title="Portugal ⚽ Deportes 🇵🇹",SP: PT: Sporting TV HD (H265)
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/491720.m3u8
+#EXTINF:0 CUID="9481" tvg-name="SP: PT: Sporting TV FHD" tvg-logo="http://swedtv.vip/logos/port_Portugal_Sports/Sporting_TV.png" group-title="Portugal ⚽ Deportes 🇵🇹",SP: PT: Sporting TV FHD
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/491721.m3u8
+#EXTINF:0 CUID="9482" tvg-name="SP: PT: NBA" tvg-logo="https://pngimg.com/uploads/nba/nba_PNG6.png" group-title="Portugal ⚽ Deportes 🇵🇹",SP: PT: NBA
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/491722.m3u8
+#EXTINF:0 CUID="9483" tvg-name="SP: PT: Combate SD" tvg-logo="http://swedtv.vip/logos/port_Portugal_Sports/Combate.png" group-title="Portugal ⚽ Deportes 🇵🇹",SP: PT: Combate SD
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/491723.m3u8
+#EXTINF:0 CUID="9484" tvg-name="SP: PT: Fuel TV" tvg-logo="https://4.bp.blogspot.com/-84QYv6TaqYU/WDrqDd1VwAI/AAAAAAAAFcU/pV-kPNIFJuIzfmYUbqVc3qRzuxqqR47vQCLcB/s1600/Fuel%2BTV%2BHD%2Blogo.png" group-title="Portugal ⚽ Deportes 🇵🇹",SP: PT: Fuel TV
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/491724.m3u8
+#EXTINF:0 CUID="9485" tvg-name="SP: PT: Fuel TV FHD" tvg-logo="https://4.bp.blogspot.com/-84QYv6TaqYU/WDrqDd1VwAI/AAAAAAAAFcU/pV-kPNIFJuIzfmYUbqVc3qRzuxqqR47vQCLcB/s1600/Fuel%2BTV%2BHD%2Blogo.png" group-title="Portugal ⚽ Deportes 🇵🇹",SP: PT: Fuel TV FHD
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/491725.m3u8
+#EXTINF:0 CUID="9486" tvg-name="SP: PT: Eleven Sports 6 SD" tvg-logo="http://swedtv.vip/logos/port_Portugal_Sports/ELEVEN_SPORTS.png" group-title="Portugal ⚽ Deportes 🇵🇹",SP: PT: Eleven Sports 6 SD
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/491726.m3u8
+#EXTINF:0 CUID="9487" tvg-name="SP: PT: Eleven Sports 6 FHD" tvg-logo="http://swedtv.vip/logos/port_Portugal_Sports/ELEVEN_SPORTS.png" group-title="Portugal ⚽ Deportes 🇵🇹",SP: PT: Eleven Sports 6 FHD
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/491727.m3u8
+#EXTINF:0 CUID="9488" tvg-name="SP: PT: Caca e Pesca" tvg-logo="https://1.bp.blogspot.com/-CcUmFV1cbCs/WDrqCOTY0jI/AAAAAAAAFbc/MfuHFTePIy8OMnAcnvKij83r4XuzK9OPwCLcB/s1600/Ca%25C3%25A7a%2Be%2BPesca%2Blogo.png" group-title="Portugal ⚽ Deportes 🇵🇹",SP: PT: Caca e Pesca
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/491728.m3u8
+#EXTINF:0 CUID="9489" tvg-name="SP: PT: Caca e Pesca FHD" tvg-logo="https://1.bp.blogspot.com/-CcUmFV1cbCs/WDrqCOTY0jI/AAAAAAAAFbc/MfuHFTePIy8OMnAcnvKij83r4XuzK9OPwCLcB/s1600/Ca%25C3%25A7a%2Be%2BPesca%2Blogo.png" group-title="Portugal ⚽ Deportes 🇵🇹",SP: PT: Caca e Pesca FHD
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/491729.m3u8
+#EXTINF:0 CUID="9490" tvg-name="SP: PT: Caçavision" tvg-logo="http://swedtv.vip/logos/france/Ca%c3%a7avision.jpg" group-title="Portugal ⚽ Deportes 🇵🇹",SP: PT: Caçavision
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/491730.m3u8
+#EXTINF:0 CUID="9491" tvg-name="SP: PT: Porto Canal SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Logo_porto_canal.png" group-title="Portugal ⚽ Deportes 🇵🇹",SP: PT: Porto Canal SD
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/491731.m3u8
+#EXTINF:0 CUID="9492" tvg-name="SP: PT: Porto Canal FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Logo_porto_canal.png" group-title="Portugal ⚽ Deportes 🇵🇹",SP: PT: Porto Canal FHD
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/491732.m3u8
+#EXTINF:0 CUID="9493" tvg-name="SP: PT: Motorvision FHD" tvg-logo="https://www.pngitem.com/pimgs/m/749-7493847_motorvision-tv-hd-png-download.png" group-title="Portugal ⚽ Deportes 🇵🇹",SP: PT: Motorvision FHD
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/491733.m3u8
+#EXTINF:0 CUID="19178" tvg-name="PT| KOMBAT SPORT HD" tvg-logo="https://lo1.in/por/port.png" group-title="Portugal ⚽ Deportes 🇵🇹",PT| KOMBAT SPORT HD
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/646104.m3u8
+#EXTINF:0 CUID="19179" tvg-name="PT| ELEVEN SPORT 1 HD" tvg-logo="https://lo1.in/por/ELEVEN SPORT 1.png" group-title="Portugal ⚽ Deportes 🇵🇹",PT| ELEVEN SPORT 1 HD
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/646107.m3u8
+#EXTINF:0 CUID="19180" tvg-name="PT| ELEVEN SPORT 1 HD [BK]" tvg-logo="https://lo1.in/por/ELEVEN SPORT 1.png" group-title="Portugal ⚽ Deportes 🇵🇹",PT| ELEVEN SPORT 1 HD [BK]
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/646106.m3u8
+#EXTINF:0 CUID="19181" tvg-name="PT| ELEVEN SPORT 2 HD" tvg-logo="https://lo1.in/por/ELEVEN SPORT 2.png" group-title="Portugal ⚽ Deportes 🇵🇹",PT| ELEVEN SPORT 2 HD
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/646105.m3u8
+#EXTINF:0 CUID="19182" tvg-name="PT| ELEVEN SPORT 2 HD [BK]" tvg-logo="https://lo1.in/por/ELEVEN SPORT 2.png" group-title="Portugal ⚽ Deportes 🇵🇹",PT| ELEVEN SPORT 2 HD [BK]
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/646103.m3u8
+#EXTINF:0 CUID="19183" tvg-name="PT| ELEVEN SPORT 3 HD" tvg-logo="https://lo1.in/por/ELEVEN SPORT 3.png" group-title="Portugal ⚽ Deportes 🇵🇹",PT| ELEVEN SPORT 3 HD
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/646102.m3u8
+#EXTINF:0 CUID="19184" tvg-name="PT| ELEVEN SPORT 3 HD [BK]" tvg-logo="https://lo1.in/por/ELEVEN SPORT 3.png" group-title="Portugal ⚽ Deportes 🇵🇹",PT| ELEVEN SPORT 3 HD [BK]
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/646101.m3u8
+#EXTINF:0 CUID="19185" tvg-name="PT| ELEVEN SPORT 4 HD" tvg-logo="https://lo1.in/por/ELEVEN SPORT 4.png" group-title="Portugal ⚽ Deportes 🇵🇹",PT| ELEVEN SPORT 4 HD
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/646100.m3u8
+#EXTINF:0 CUID="19186" tvg-name="PT| ELEVEN SPORT 4 HD [BK]" tvg-logo="https://lo1.in/por/ELEVEN SPORT 4.png" group-title="Portugal ⚽ Deportes 🇵🇹",PT| ELEVEN SPORT 4 HD [BK]
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/646099.m3u8
+#EXTINF:0 CUID="19187" tvg-name="PT| ELEVEN SPORT 5 HD" tvg-logo="https://lo1.in/por/ELEVEN SPORT 5.png" group-title="Portugal ⚽ Deportes 🇵🇹",PT| ELEVEN SPORT 5 HD
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/646098.m3u8
+#EXTINF:0 CUID="19188" tvg-name="PT| ELEVEN SPORT 5 HD [BK]" tvg-logo="https://lo1.in/por/ELEVEN SPORT 5.png" group-title="Portugal ⚽ Deportes 🇵🇹",PT| ELEVEN SPORT 5 HD [BK]
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/646097.m3u8
+#EXTINF:0 CUID="19189" tvg-name="PT| ELEVEN SPORT 6 HD" tvg-logo="https://lo1.in/por/ELEVEN SPORT 6.png" group-title="Portugal ⚽ Deportes 🇵🇹",PT| ELEVEN SPORT 6 HD
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/646096.m3u8
+#EXTINF:0 CUID="19190" tvg-name="PT| ELEVEN SPORT 6 HD [BK]" tvg-logo="https://lo1.in/por/ELEVEN SPORT 6.png" group-title="Portugal ⚽ Deportes 🇵🇹",PT| ELEVEN SPORT 6 HD [BK]
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/646095.m3u8
+#EXTINF:0 CUID="19191" tvg-name="PT| MTV 00S HD" tvg-logo="https://lo1.in/por/MTV 00S.png" group-title="Portugal ⚽ Deportes 🇵🇹",PT| MTV 00S HD
+http://multiplay.plus:8080/live/Copacabana2025/60889deadcb0af22/646094.m3u8
+
+24/7
+
+
+#EXTM3U
+#EXTINF:0 CUID="1464" tvg-name="24/7 Paso a Paso" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 Paso a Paso
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/254116.m3u8
+#EXTINF:0 CUID="1465" tvg-name="24/7 Porcel Y Olmedo" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 Porcel Y Olmedo
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/254120.m3u8
+#EXTINF:0 CUID="1466" tvg-name="24/7 Los 3 Chiflados" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 Los 3 Chiflados
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/254122.m3u8
+#EXTINF:0 CUID="1467" tvg-name="24/7 Invicto" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 Invicto
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/254123.m3u8
+#EXTINF:0 CUID="1468" tvg-name="24/7 Duro de Matar" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 Duro de Matar
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/254124.m3u8
+#EXTINF:0 CUID="1469" tvg-name="24/7 La Niñera" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 La Niñera
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/254126.m3u8
+#EXTINF:0 CUID="1470" tvg-name="24/7 Crepusculo" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 Crepusculo
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/254129.m3u8
+#EXTINF:0 CUID="1471" tvg-name="24/7 The Good Doctor" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 The Good Doctor
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/254130.m3u8
+#EXTINF:0 CUID="1472" tvg-name="24/7 Cobra Kai" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 Cobra Kai
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/254131.m3u8
+#EXTINF:0 CUID="1473" tvg-name="24/7 ER Sala de Urgencias" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 ER Sala de Urgencias
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/254132.m3u8
+#EXTINF:0 CUID="1474" tvg-name="24/7 FBI Temporada 1" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 FBI Temporada 1
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/254135.m3u8
+#EXTINF:0 CUID="1475" tvg-name="24/7 FBI Temporada 2" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 FBI Temporada 2
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/254136.m3u8
+#EXTINF:0 CUID="1476" tvg-name="24/7 Mentes Criminales Temporada 1" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 Mentes Criminales Temporada 1
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/254137.m3u8
+#EXTINF:0 CUID="1477" tvg-name="24/7 NCIS Los Angeles Temporada 1" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 NCIS Los Angeles Temporada 1
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/254138.m3u8
+#EXTINF:0 CUID="1478" tvg-name="24/7 NCIS Los Angeles Temporada 2" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 NCIS Los Angeles Temporada 2
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/254140.m3u8
+#EXTINF:0 CUID="1479" tvg-name="24/7 Cine Marvel" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 Cine Marvel
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/254141.m3u8
+#EXTINF:0 CUID="1480" tvg-name="24/7 El Auto Fantastico (2008)" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 El Auto Fantastico (2008)
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/254142.m3u8
+#EXTINF:0 CUID="1481" tvg-name="24/7 Mentes Criminales" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 Mentes Criminales
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/254143.m3u8
+#EXTINF:0 CUID="1482" tvg-name="24/7 FBI" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 FBI
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/254144.m3u8
+#EXTINF:0 CUID="1483" tvg-name="24/7 NCIS Los Angeles" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 NCIS Los Angeles
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/254145.m3u8
+#EXTINF:0 CUID="1484" tvg-name="24/7 hawaii 5-0" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 hawaii 5-0
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/254146.m3u8
+#EXTINF:0 CUID="1485" tvg-name="24/7 Caso Cerrado 1" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 Caso Cerrado 1
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/254149.m3u8
+#EXTINF:0 CUID="1486" tvg-name="24/7 Los Simpson" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 Los Simpson
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283158.m3u8
+#EXTINF:0 CUID="1488" tvg-name="24/7 El Juego del Calamar" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 El Juego del Calamar
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283160.m3u8
+#EXTINF:0 CUID="1489" tvg-name="24/7 Historias de Ultratumba" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 Historias de Ultratumba
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283161.m3u8
+#EXTINF:0 CUID="1490" tvg-name="24/7 Contacto Extranormal" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 Contacto Extranormal
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283162.m3u8
+#EXTINF:0 CUID="1491" tvg-name="24/7 Los Magnificos" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 Los Magnificos
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283171.m3u8
+#EXTINF:0 CUID="1492" tvg-name="24/7 Atrapados en el Tiempo" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 Atrapados en el Tiempo
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283172.m3u8
+#EXTINF:0 CUID="1493" tvg-name="24/7 La Casa de Papel" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 La Casa de Papel
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283174.m3u8
+#EXTINF:0 CUID="1494" tvg-name="24/7 Los Años Maravillosos" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 Los Años Maravillosos
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283175.m3u8
+#EXTINF:0 CUID="1495" tvg-name="24/7 La Lista Negra" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 La Lista Negra
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283176.m3u8
+#EXTINF:0 CUID="1496" tvg-name="24/7 Smallville" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 Smallville
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283182.m3u8
+#EXTINF:0 CUID="1497" tvg-name="24/7 The Big Bang Theory" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 The Big Bang Theory
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283189.m3u8
+#EXTINF:0 CUID="1498" tvg-name="24/7 Hercules Los Viajes Legendarios" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 Hercules Los Viajes Legendarios
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283206.m3u8
+#EXTINF:0 CUID="1499" tvg-name="24/7 La Isla Misteriosa" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 La Isla Misteriosa
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283208.m3u8
+#EXTINF:0 CUID="1500" tvg-name="24/7 Los Simpsons Noche de Brujas" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 Los Simpsons Noche de Brujas
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283217.m3u8
+#EXTINF:0 CUID="1501" tvg-name="24/7 Liveman" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 Liveman
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283224.m3u8
+#EXTINF:0 CUID="1502" tvg-name="24/7 Saga Alien" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 Saga Alien
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283227.m3u8
+#EXTINF:0 CUID="1503" tvg-name="24/7 Cine Disney" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 Cine Disney
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283228.m3u8
+#EXTINF:0 CUID="1504" tvg-name="24/7 South Park" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 South Park
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283266.m3u8
+#EXTINF:0 CUID="1505" tvg-name="24/7 Arma Mortal" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 Arma Mortal
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283267.m3u8
+#EXTINF:0 CUID="1506" tvg-name="24/7 Los Simpsons HD" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 Los Simpsons HD
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283317.m3u8
+#EXTINF:0 CUID="1507" tvg-name="24/7 Chucky" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 Chucky
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283318.m3u8
+#EXTINF:0 CUID="1508" tvg-name="24/7 Lo Que Callamos Las Mujeres" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 Lo Que Callamos Las Mujeres
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283357.m3u8
+#EXTINF:0 CUID="1509" tvg-name="24/7 Alerta Aeropuerto" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 Alerta Aeropuerto
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283397.m3u8
+#EXTINF:0 CUID="1510" tvg-name="24/7 Luisito Comunica" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 Luisito Comunica
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283398.m3u8
+#EXTINF:0 CUID="1511" tvg-name="24/7 1000 Maneras de Morir" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 1000 Maneras de Morir
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283399.m3u8
+#EXTINF:0 CUID="1512" tvg-name="24/7 Mayday Catastrofes Aereas" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 Mayday Catastrofes Aereas
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283400.m3u8
+#EXTINF:0 CUID="1513" tvg-name="24/7 Caso Cerrado 2" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 Caso Cerrado 2
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283402.m3u8
+#EXTINF:0 CUID="1514" tvg-name="24/7 Caso Cerrado 3" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 Caso Cerrado 3
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283403.m3u8
+#EXTINF:0 CUID="1515" tvg-name="24/7 Caso Cerrado 4" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 Caso Cerrado 4
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283404.m3u8
+#EXTINF:0 CUID="1516" tvg-name="24/7 Laura Bozzo" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 Laura Bozzo
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283406.m3u8
+#EXTINF:0 CUID="1517" tvg-name="24/7 Exponiendo Infieles" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 Exponiendo Infieles
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283407.m3u8
+#EXTINF:0 CUID="1518" tvg-name="24/7 Cine Happy Madison" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 Cine Happy Madison
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283412.m3u8
+#EXTINF:0 CUID="1519" tvg-name="24/7 Cine Halloween" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 Cine Halloween
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283415.m3u8
+#EXTINF:0 CUID="1520" tvg-name="24/7 Cine Actividad Paranormal" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 Cine Actividad Paranormal
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283416.m3u8
+#EXTINF:0 CUID="1521" tvg-name="24/7 Cine Keanu Reeves" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 Cine Keanu Reeves
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283417.m3u8
+#EXTINF:0 CUID="1522" tvg-name="24/7 Cine Accion Clasico" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 Cine Accion Clasico
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283420.m3u8
+#EXTINF:0 CUID="1523" tvg-name="24/7 Juegos del Hambre" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 Juegos del Hambre
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283422.m3u8
+#EXTINF:0 CUID="1524" tvg-name="24/7 Ocean's Eleven" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 Ocean's Eleven
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283423.m3u8
+#EXTINF:0 CUID="1525" tvg-name="24/7 Rocky" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 Rocky
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283424.m3u8
+#EXTINF:0 CUID="1526" tvg-name="24/7 Duro de Matar" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 Duro de Matar
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283425.m3u8
+#EXTINF:0 CUID="1527" tvg-name="24/7 Blade" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 Blade
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283427.m3u8
+#EXTINF:0 CUID="1528" tvg-name="24/7 El padrino" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 El padrino
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283429.m3u8
+#EXTINF:0 CUID="1529" tvg-name="24/7 Mi Abuela es un Peligro" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 Mi Abuela es un Peligro
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283430.m3u8
+#EXTINF:0 CUID="1530" tvg-name="24/7 Ciencia Ficcion" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 Ciencia Ficcion
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283431.m3u8
+#EXTINF:0 CUID="1531" tvg-name="24/7 Cinema Brad Pitt" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 Cinema Brad Pitt
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283433.m3u8
+#EXTINF:0 CUID="1532" tvg-name="24/7 Cinema Búsqueda implacable" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 Cinema Búsqueda implacable
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283436.m3u8
+#EXTINF:0 CUID="1533" tvg-name="24/7 See" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 See
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283438.m3u8
+#EXTINF:0 CUID="1534" tvg-name="24/7 Breaking Bad Temp 3" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 Breaking Bad Temp 3
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283439.m3u8
+#EXTINF:0 CUID="1535" tvg-name="24/7 Breaking Bad Temp 4 - 5" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 Breaking Bad Temp 4 - 5
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283441.m3u8
+#EXTINF:0 CUID="1536" tvg-name="24/7 Cine Amazon Prime" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 Cine Amazon Prime
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283443.m3u8
+#EXTINF:0 CUID="1537" tvg-name="24/7 Cine Netflix" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 Cine Netflix
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283444.m3u8
+#EXTINF:0 CUID="1538" tvg-name="24/7 Two and a Half Men" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 Two and a Half Men
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283445.m3u8
+#EXTINF:0 CUID="1539" tvg-name="24/7 El Chavo del 8" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 El Chavo del 8
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/487793.m3u8
+#EXTINF:0 CUID="1540" tvg-name="24/7 Game of Thrones" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 Game of Thrones
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/495616.m3u8
+#EXTINF:0 CUID="1541" tvg-name="24/7 Cinema 1" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 Cinema 1
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/495624.m3u8
+#EXTINF:0 CUID="1542" tvg-name="24/7 El Chapulin Colorado" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 El Chapulin Colorado
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/503418.m3u8
+#EXTINF:0 CUID="1543" tvg-name="24/7 RompePortones" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 RompePortones
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/503431.m3u8
+#EXTINF:0 CUID="1544" tvg-name="24/7 Chespirito" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 Chespirito
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/526159.m3u8
+#EXTINF:0 CUID="17226" tvg-name="Pone A Francella" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWEyMDBjYTEtOWFmMS00NTU0LWIxNTYtNjkzNGQyYjczNDU4XkEyXkFqcGdeQXVyNjExODE1MDc@._V1_.jpg" group-title="24/7 - Clásicos",Pone A Francella
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/611431.m3u8
+#EXTINF:0 CUID="17240" tvg-name="24/7 Sailor Moon (001-046)" tvg-logo="https://lemoncity.files.wordpress.com/2017/02/a363-1543286731-1411119328.jpg" group-title="24/7 - Clásicos",24/7 Sailor Moon (001-046)
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/625777.m3u8
+#EXTINF:0 CUID="17241" tvg-name="24/7 Sailor Moon R (047-089)" tvg-logo="https://lemoncity.files.wordpress.com/2017/02/a363-1543286731-1411119328.jpg" group-title="24/7 - Clásicos",24/7 Sailor Moon R (047-089)
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/625778.m3u8
+#EXTINF:0 CUID="17242" tvg-name="24/7 Sailor Moon S (090-127)" tvg-logo="https://lemoncity.files.wordpress.com/2017/02/a363-1543286731-1411119328.jpg" group-title="24/7 - Clásicos",24/7 Sailor Moon S (090-127)
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/625779.m3u8
+#EXTINF:0 CUID="17243" tvg-name="24/7 Sailor Moon SuperS (128-166)" tvg-logo="https://lemoncity.files.wordpress.com/2017/02/a363-1543286731-1411119328.jpg" group-title="24/7 - Clásicos",24/7 Sailor Moon SuperS (128-166)
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/625780.m3u8
+#EXTINF:0 CUID="17244" tvg-name="24/7 Sailor Moon Sailor Stars (167-200)" tvg-logo="https://lemoncity.files.wordpress.com/2017/02/a363-1543286731-1411119328.jpg" group-title="24/7 - Clásicos",24/7 Sailor Moon Sailor Stars (167-200)
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/625781.m3u8
+#EXTINF:0 CUID="21211" tvg-name="24/7 Matrix" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 Matrix
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/519127.m3u8
+#EXTINF:0 CUID="46314" tvg-name="24/7 CSI Miami" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 - Clásicos",24/7 CSI Miami
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283159.m3u8
+#EXTINF:0 CUID="810998" tvg-name="24/7 Transformers" tvg-logo="https://i.ibb.co/y46NGHV/Copia-de-Plantilla-de-logos-new-1.png" group-title="24/7 - Clásicos",24/7 Transformers
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/679873.m3u8
+#EXTINF:0 CUID="810999" tvg-name="24/7 Volver al futuro" tvg-logo="https://i.ibb.co/bBj0qyT/Copia-de-Plantilla-de-logos-new-2.png"" group-title="24/7 - Clásicos",24/7 Volver al futuro
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/679874.m3u8
+#EXTINF:0 CUID="811000" tvg-name="24/7 Avengers" tvg-logo="https://i.ibb.co/tqG6yct/Copia-de-Plantilla-de-logos-new-3.png" group-title="24/7 - Clásicos",24/7 Avengers
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/679875.m3u8
+#EXTINF:0 CUID="1552" tvg-name="Bonanza" tvg-logo="https://i.postimg.cc/VkPBGpDP/Bonanza.png" group-title="24/7 Retro",Bonanza
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/538238.m3u8
+#EXTINF:0 CUID="1558" tvg-name="24/7 El Principe del Rap" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 Retro",24/7 El Principe del Rap
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/254113.m3u8
+#EXTINF:0 CUID="1559" tvg-name="24/7 Cantinflas" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 Retro",24/7 Cantinflas
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/254114.m3u8
+#EXTINF:0 CUID="1560" tvg-name="24/7 Malcolm el del Medio" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 Retro",24/7 Malcolm el del Medio
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/254115.m3u8
+#EXTINF:0 CUID="1561" tvg-name="24/7 la India Maria" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 Retro",24/7 la India Maria
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/254117.m3u8
+#EXTINF:0 CUID="1562" tvg-name="24/7 Mr Bean" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 Retro",24/7 Mr Bean
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/254118.m3u8
+#EXTINF:0 CUID="1563" tvg-name="24/7 Pedro Infante" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 Retro",24/7 Pedro Infante
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/254119.m3u8
+#EXTINF:0 CUID="1564" tvg-name="24/7 Hechizada" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 Retro",24/7 Hechizada
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/254125.m3u8
+#EXTINF:0 CUID="1565" tvg-name="24/7 Los 3 Chiflados" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 Retro",24/7 Los 3 Chiflados
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283177.m3u8
+#EXTINF:0 CUID="1566" tvg-name="24/7 La Familia Ingalls" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 Retro",24/7 La Familia Ingalls
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283179.m3u8
+#EXTINF:0 CUID="1567" tvg-name="24/7 Xena La Princesa Guerrera" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 Retro",24/7 Xena La Princesa Guerrera
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283183.m3u8
+#EXTINF:0 CUID="1568" tvg-name="24/7 Alf" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 Retro",24/7 Alf
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283440.m3u8
+#EXTINF:0 CUID="1569" tvg-name="24/7 Dinosaurios" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 Retro",24/7 Dinosaurios
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/495030.m3u8
+#EXTINF:0 CUID="1570" tvg-name="24/7 Power Rangers" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 Retro",24/7 Power Rangers
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/494986.m3u8
+#EXTINF:0 CUID="1571" tvg-name="24/7 Kung Fu" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 Retro",24/7 Kung Fu
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/503410.m3u8
+#EXTINF:0 CUID="1572" tvg-name="24/7 El Avispon Verde - Bruce Lee -" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 Retro",24/7 El Avispon Verde - Bruce Lee -
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/503411.m3u8
+#EXTINF:0 CUID="1573" tvg-name="24/7 Mi Bella Genio" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 Retro",24/7 Mi Bella Genio
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/503430.m3u8
+#EXTINF:0 CUID="1574" tvg-name="24/7  Bond Channel US/SUB" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 Retro",24/7  Bond Channel US/SUB
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/503432.m3u8
+#EXTINF:0 CUID="17144" tvg-name="Gunsmoke 24/7" tvg-logo="https://i.postimg.cc/P52Z3mK3/Gunsmoke-con-fondo-removebg-preview.png" group-title="24/7 Retro",Gunsmoke 24/7
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/570947.m3u8
+#EXTINF:0 CUID="17145" tvg-name="Mash (M*A*S*H)" tvg-logo="https://i.postimg.cc/pLKmnK5c/Mash-removebg-preview.png" group-title="24/7 Retro",Mash (M*A*S*H)
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/570949.m3u8
+#EXTINF:0 CUID="17146" tvg-name="King of Queens 24/7" tvg-logo="https://i.postimg.cc/qBLq0kVS/King-of-Queens-removebg-preview.png" group-title="24/7 Retro",King of Queens 24/7
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/570950.m3u8
+#EXTINF:0 CUID="17147" tvg-name="Frasier 24/7" tvg-logo="https://i.postimg.cc/8khKz0tq/Frasier-removebg-preview.png" group-title="24/7 Retro",Frasier 24/7
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/570951.m3u8
+#EXTINF:0 CUID="17148" tvg-name="Matlock 24/7" tvg-logo="https://i.postimg.cc/d0QP2TVj/Matlock-removebg-preview.png" group-title="24/7 Retro",Matlock 24/7
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/570952.m3u8
+#EXTINF:0 CUID="1575" tvg-name="24/7 Lo Que Callamos Las Mujeres" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 NOVELAS",24/7 Lo Que Callamos Las Mujeres
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283410.m3u8
+#EXTINF:0 CUID="1576" tvg-name="24/7 La Rosa de Guadalupe" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7 NOVELAS",24/7 La Rosa de Guadalupe
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283411.m3u8
+#EXTINF:0 CUID="1577" tvg-name="24/7 Dragon Ball Z freezer" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Dragon Ball Z freezer
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/254094.m3u8
+#EXTINF:0 CUID="1578" tvg-name="24/7 Dragon Ball Z Cell" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Dragon Ball Z Cell
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/254095.m3u8
+#EXTINF:0 CUID="1579" tvg-name="24/7 Dragon Ball GT" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Dragon Ball GT
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/254096.m3u8
+#EXTINF:0 CUID="1580" tvg-name="24/7 Dragon Ball Z Freezer" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Dragon Ball Z Freezer
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/254097.m3u8
+#EXTINF:0 CUID="1581" tvg-name="24/7 Dragon Ball Z" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Dragon Ball Z
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/254098.m3u8
+#EXTINF:0 CUID="1582" tvg-name="24/7 Bob Esponja" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Bob Esponja
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/254099.m3u8
+#EXTINF:0 CUID="1583" tvg-name="24/7 Los Simpson" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Los Simpson
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/254100.m3u8
+#EXTINF:0 CUID="1584" tvg-name="24/7 Caballeros Del Zodiaco" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Caballeros Del Zodiaco
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/254101.m3u8
+#EXTINF:0 CUID="1585" tvg-name="24/7 Ben 10 Fuerza Alienigena" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Ben 10 Fuerza Alienigena
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/269924.m3u8
+#EXTINF:0 CUID="1586" tvg-name="24/7 Capitan America y Los Planetarios" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Capitan America y Los Planetarios
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283209.m3u8
+#EXTINF:0 CUID="1587" tvg-name="24/7 Naruto" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Naruto
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283211.m3u8
+#EXTINF:0 CUID="1588" tvg-name="24/7 Las Guerreras Magicas" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Las Guerreras Magicas
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283212.m3u8
+#EXTINF:0 CUID="1589" tvg-name="24/7 Pinki Y Cerebro" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Pinki Y Cerebro
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283215.m3u8
+#EXTINF:0 CUID="1590" tvg-name="24/7 Pokemon" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Pokemon
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283218.m3u8
+#EXTINF:0 CUID="1591" tvg-name="24/7 Popeye" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Popeye
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283220.m3u8
+#EXTINF:0 CUID="1592" tvg-name="24/7 Fabulas de Esopo" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Fabulas de Esopo
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283225.m3u8
+#EXTINF:0 CUID="1593" tvg-name="24/7 Cinema Lego Movies" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Cinema Lego Movies
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283240.m3u8
+#EXTINF:0 CUID="1594" tvg-name="24/7 Cinema Disney Pixar FHD" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Cinema Disney Pixar FHD
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283241.m3u8
+#EXTINF:0 CUID="1595" tvg-name="24/7 Cinema DC Comics" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Cinema DC Comics
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283244.m3u8
+#EXTINF:0 CUID="1596" tvg-name="24/7 Super Mario Bros 3" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Super Mario Bros 3
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283245.m3u8
+#EXTINF:0 CUID="1597" tvg-name="24/7 Cinema Disney" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Cinema Disney
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283246.m3u8
+#EXTINF:0 CUID="1598" tvg-name="24/7 Los Pitufos" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Los Pitufos
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283247.m3u8
+#EXTINF:0 CUID="1599" tvg-name="24/7 He-Man y los Masters del Universo" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 He-Man y los Masters del Universo
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283248.m3u8
+#EXTINF:0 CUID="1600" tvg-name="24/7 Futurama" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Futurama
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283249.m3u8
+#EXTINF:0 CUID="1601" tvg-name="24/7 Scooby Doo" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Scooby Doo
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283250.m3u8
+#EXTINF:0 CUID="1602" tvg-name="24/7 Las Aventuras de Tin Tin" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Las Aventuras de Tin Tin
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283251.m3u8
+#EXTINF:0 CUID="1603" tvg-name="24/7 Candy Candy" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Candy Candy
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283253.m3u8
+#EXTINF:0 CUID="1604" tvg-name="24/7 La Pequeña Lulu" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 La Pequeña Lulu
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283254.m3u8
+#EXTINF:0 CUID="1605" tvg-name="24/7 Samurai Jack" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Samurai Jack
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283255.m3u8
+#EXTINF:0 CUID="1606" tvg-name="24/7 Don gato y su Pandilla" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Don gato y su Pandilla
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283256.m3u8
+#EXTINF:0 CUID="1607" tvg-name="24/7 Pocoyo" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Pocoyo
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283259.m3u8
+#EXTINF:0 CUID="1608" tvg-name="24/7 El Inspector Ardilla" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 El Inspector Ardilla
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283260.m3u8
+#EXTINF:0 CUID="1609" tvg-name="24/7 El pequeño reino de Ben y Holly" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 El pequeño reino de Ben y Holly
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283262.m3u8
+#EXTINF:0 CUID="1610" tvg-name="24/7 Lazy Town" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Lazy Town
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283263.m3u8
+#EXTINF:0 CUID="1611" tvg-name="24/7 La Doctora Juguete" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 La Doctora Juguete
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283265.m3u8
+#EXTINF:0 CUID="1612" tvg-name="24/7 Autobus Magico" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Autobus Magico
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283268.m3u8
+#EXTINF:0 CUID="1613" tvg-name="24/7 Dora y sus Amigos en la Ciudad" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Dora y sus Amigos en la Ciudad
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283269.m3u8
+#EXTINF:0 CUID="1614" tvg-name="24/7 El Agente Oso" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 El Agente Oso
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283270.m3u8
+#EXTINF:0 CUID="1615" tvg-name="24/7 El Laboratorio de Dexter" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 El Laboratorio de Dexter
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283271.m3u8
+#EXTINF:0 CUID="1616" tvg-name="24/7 Peppa Pig" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Peppa Pig
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283272.m3u8
+#EXTINF:0 CUID="1617" tvg-name="24/7 Gargolas Heroes Goticos" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Gargolas Heroes Goticos
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283273.m3u8
+#EXTINF:0 CUID="1618" tvg-name="24/7 Las Chicas Superpoderosas" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Las Chicas Superpoderosas
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283277.m3u8
+#EXTINF:0 CUID="1619" tvg-name="24/7 Gasparin y sus Amigos" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Gasparin y sus Amigos
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283279.m3u8
+#EXTINF:0 CUID="1620" tvg-name="24/7 El Reto de los Super Amigos" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 El Reto de los Super Amigos
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283283.m3u8
+#EXTINF:0 CUID="1621" tvg-name="24/7 El Oso Yogui" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 El Oso Yogui
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283284.m3u8
+#EXTINF:0 CUID="1622" tvg-name="24/7 Beast Wars" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Beast Wars
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283285.m3u8
+#EXTINF:0 CUID="1623" tvg-name="24/7 Beast Wars Machines" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Beast Wars Machines
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283286.m3u8
+#EXTINF:0 CUID="1624" tvg-name="24/7 Fenomenoide" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Fenomenoide
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283287.m3u8
+#EXTINF:0 CUID="1625" tvg-name="24/7 El Pais de Donkey Kong" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 El Pais de Donkey Kong
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283288.m3u8
+#EXTINF:0 CUID="1626" tvg-name="24/7 Heathcliff" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Heathcliff
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283292.m3u8
+#EXTINF:0 CUID="1627" tvg-name="24/7 Cantinflas (Animada)" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Cantinflas (Animada)
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283293.m3u8
+#EXTINF:0 CUID="1628" tvg-name="24/7 Beetlejuice" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Beetlejuice
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283295.m3u8
+#EXTINF:0 CUID="1629" tvg-name="24/7 Street Sharks" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Street Sharks
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283296.m3u8
+#EXTINF:0 CUID="1630" tvg-name="24/7 Dragones de Berck" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Dragones de Berck
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283298.m3u8
+#EXTINF:0 CUID="1631" tvg-name="24/7 Los Osos Gummi" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Los Osos Gummi
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283299.m3u8
+#EXTINF:0 CUID="1632" tvg-name="24/7 La Liga del Dragon" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 La Liga del Dragon
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283300.m3u8
+#EXTINF:0 CUID="1633" tvg-name="24/7 Samurai X" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Samurai X
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283302.m3u8
+#EXTINF:0 CUID="1634" tvg-name="24/7 Mighty Ducks" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Mighty Ducks
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283303.m3u8
+#EXTINF:0 CUID="1635" tvg-name="24/7 PJ Masks: Heroes en pijamas" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 PJ Masks: Heroes en pijamas
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283306.m3u8
+#EXTINF:0 CUID="1636" tvg-name="24/7 Guardianes de la Galaxia" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Guardianes de la Galaxia
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283307.m3u8
+#EXTINF:0 CUID="1637" tvg-name="24/7 Robotech" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Robotech
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283308.m3u8
+#EXTINF:0 CUID="1638" tvg-name="24/7 Transformers Armada" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Transformers Armada
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283309.m3u8
+#EXTINF:0 CUID="1639" tvg-name="24/7 Transformers Energon" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Transformers Energon
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283311.m3u8
+#EXTINF:0 CUID="1640" tvg-name="24/7 Transformers G1" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Transformers G1
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283312.m3u8
+#EXTINF:0 CUID="1641" tvg-name="24/7 El Inspector" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 El Inspector
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283313.m3u8
+#EXTINF:0 CUID="1642" tvg-name="24/7 Ghostbuster Filmation" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Ghostbuster Filmation
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283315.m3u8
+#EXTINF:0 CUID="1643" tvg-name="24/7 Jumangi" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Jumangi
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283316.m3u8
+#EXTINF:0 CUID="1644" tvg-name="24/7 Justicia Joven" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Justicia Joven
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283319.m3u8
+#EXTINF:0 CUID="1645" tvg-name="24/7 La Leyenda de Zelda" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 La Leyenda de Zelda
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283320.m3u8
+#EXTINF:0 CUID="1646" tvg-name="24/7 La Mascara" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 La Mascara
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283321.m3u8
+#EXTINF:0 CUID="1647" tvg-name="24/7 Las Aventuras de Fly" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Las Aventuras de Fly
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283322.m3u8
+#EXTINF:0 CUID="1648" tvg-name="24/7 Rick y Morty" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Rick y Morty
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283323.m3u8
+#EXTINF:0 CUID="1649" tvg-name="24/7 Bob Zoom" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Bob Zoom
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283324.m3u8
+#EXTINF:0 CUID="1650" tvg-name="24/7 Spiderwoman" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Spiderwoman
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283325.m3u8
+#EXTINF:0 CUID="1651" tvg-name="24/7 Los Reyes de la Colina" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Los Reyes de la Colina
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283326.m3u8
+#EXTINF:0 CUID="1652" tvg-name="24/7 ThunderCats (2011)" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 ThunderCats (2011)
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283327.m3u8
+#EXTINF:0 CUID="1653" tvg-name="24/7 Mágicas aventuras de Quasimodo" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Mágicas aventuras de Quasimodo
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283329.m3u8
+#EXTINF:0 CUID="1654" tvg-name="24/7 Brujilda" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Brujilda
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283330.m3u8
+#EXTINF:0 CUID="1655" tvg-name="24/7 Avatar" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Avatar
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283331.m3u8
+#EXTINF:0 CUID="1656" tvg-name="24/7 Los 3 de abajo: Relatos de Arcadia" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Los 3 de abajo: Relatos de Arcadia
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283334.m3u8
+#EXTINF:0 CUID="1657" tvg-name="24/7 Los Intrepidos" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Los Intrepidos
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283335.m3u8
+#EXTINF:0 CUID="1658" tvg-name="24/7 Almendrita" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Almendrita
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283337.m3u8
+#EXTINF:0 CUID="1659" tvg-name="24/7 Baby Looney Tunes" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Baby Looney Tunes
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283338.m3u8
+#EXTINF:0 CUID="1660" tvg-name="24/7 Doraemon" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Doraemon
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283339.m3u8
+#EXTINF:0 CUID="1661" tvg-name="24/7 Beware the Batman" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Beware the Batman
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283343.m3u8
+#EXTINF:0 CUID="1662" tvg-name="24/7 Bayblade" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Bayblade
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283344.m3u8
+#EXTINF:0 CUID="1663" tvg-name="24/7 Birdman y el Trío Galaxia" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Birdman y el Trío Galaxia
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283345.m3u8
+#EXTINF:0 CUID="1664" tvg-name="24/7 capitan Centella" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 capitan Centella
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283347.m3u8
+#EXTINF:0 CUID="1665" tvg-name="24/7 Blaze y los Monster Machine" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Blaze y los Monster Machine
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283348.m3u8
+#EXTINF:0 CUID="1666" tvg-name="24/7 Go Diego Go" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Go Diego Go
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283352.m3u8
+#EXTINF:0 CUID="1667" tvg-name="24/7 Harry Potter & Animales Fantasticos" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Harry Potter & Animales Fantasticos
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/283437.m3u8
+#EXTINF:0 CUID="1668" tvg-name="24/7 Los Simpson Retro" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Los Simpson Retro
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/417706.m3u8
+#EXTINF:0 CUID="1669" tvg-name="24/7 Mazinger Z" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Mazinger Z
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/495614.m3u8
+#EXTINF:0 CUID="1670" tvg-name="24/7 Las Pistas de Blue" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Las Pistas de Blue
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/495620.m3u8
+#EXTINF:0 CUID="1671" tvg-name="24/7 Las Tortugas Ninja" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Las Tortugas Ninja
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/495621.m3u8
+#EXTINF:0 CUID="1672" tvg-name="24/7 Los Backyardigans" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Los Backyardigans
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/495622.m3u8
+#EXTINF:0 CUID="1673" tvg-name="24/7 Hey Arnold" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Hey Arnold
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/503394.m3u8
+#EXTINF:0 CUID="1674" tvg-name="24/7 Huckleberry Hound" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Huckleberry Hound
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/503396.m3u8
+#EXTINF:0 CUID="1675" tvg-name="24/7 Walt Disney" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Walt Disney
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/503397.m3u8
+#EXTINF:0 CUID="1676" tvg-name="24/7 Mr Bean Animated" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Mr Bean Animated
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/503400.m3u8
+#EXTINF:0 CUID="1677" tvg-name="24/7 El Auto Fantastico" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 El Auto Fantastico
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/503403.m3u8
+#EXTINF:0 CUID="1678" tvg-name="24/7 Pinky & Cerebro" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Pinky & Cerebro
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/503404.m3u8
+#EXTINF:0 CUID="1679" tvg-name="24/7 Pinguinos de Madagascar" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Pinguinos de Madagascar
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/503405.m3u8
+#EXTINF:0 CUID="1680" tvg-name="24/7 Johnny Bravo" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Johnny Bravo
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/503406.m3u8
+#EXTINF:0 CUID="1681" tvg-name="24/7 Los SuperSonicos" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Los SuperSonicos
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/503408.m3u8
+#EXTINF:0 CUID="1682" tvg-name="24/7 La Pantera Rosa" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 La Pantera Rosa
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/503412.m3u8
+#EXTINF:0 CUID="1683" tvg-name="24/7 Jonny Quest" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Jonny Quest
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/503414.m3u8
+#EXTINF:0 CUID="1684" tvg-name="24/7 Las aventuras de los Osos Gummi" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Las aventuras de los Osos Gummi
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/503415.m3u8
+#EXTINF:0 CUID="1685" tvg-name="24/7 Aquaman" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Aquaman
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/503416.m3u8
+#EXTINF:0 CUID="1686" tvg-name="24/7 : EL CHAPULIN COLORADO" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 : EL CHAPULIN COLORADO
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/503417.m3u8
+#EXTINF:0 CUID="1687" tvg-name="24/7 El Chavo del 8" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 El Chavo del 8
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/503419.m3u8
+#EXTINF:0 CUID="1688" tvg-name="24/7 AstroBoy" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 AstroBoy
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/503421.m3u8
+#EXTINF:0 CUID="1689" tvg-name="24/7 El Gallo Claudio" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 El Gallo Claudio
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/503422.m3u8
+#EXTINF:0 CUID="1690" tvg-name="24/7 Looney Toons" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Looney Toons
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/503423.m3u8
+#EXTINF:0 CUID="1691" tvg-name="24/7 Los ThunderCats Classic" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Los ThunderCats Classic
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/503424.m3u8
+#EXTINF:0 CUID="1692" tvg-name="24/7 Los Picapiedras Movies" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Los Picapiedras Movies
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/503425.m3u8
+#EXTINF:0 CUID="1693" tvg-name="24/7 Los Picapiedras" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Los Picapiedras
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/503429.m3u8
+#EXTINF:0 CUID="1694" tvg-name="24/7 Los Autos Locos" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Los Autos Locos
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/503435.m3u8
+#EXTINF:0 CUID="1695" tvg-name="24/7 La Hormiga Atomica" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 La Hormiga Atomica
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/503441.m3u8
+#EXTINF:0 CUID="1696" tvg-name="24/7 Animaniacs Channel" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Animaniacs Channel
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/503443.m3u8
+#EXTINF:0 CUID="1697" tvg-name="24/7 Animacion Movies" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Animacion Movies
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/503445.m3u8
+#EXTINF:0 CUID="1698" tvg-name="24/7 Disney Casa de Mickey Mouse" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Disney Casa de Mickey Mouse
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/503446.m3u8
+#EXTINF:0 CUID="1699" tvg-name="24/7 Disney Tarzan Leyenda" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Disney Tarzan Leyenda
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/503448.m3u8
+#EXTINF:0 CUID="1700" tvg-name="24/7 Disney Quack Pack" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Disney Quack Pack
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/503452.m3u8
+#EXTINF:0 CUID="1701" tvg-name="24/7 Disney 101 Dalmatas" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Disney 101 Dalmatas
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/503453.m3u8
+#EXTINF:0 CUID="1702" tvg-name="24/7 Disney Mickey Channel" tvg-ID="disneychannel.ar" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Disney Mickey Channel
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/503454.m3u8
+#EXTINF:0 CUID="1703" tvg-name="24/7 El Pajaro Loco" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 El Pajaro Loco
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/503455.m3u8
+#EXTINF:0 CUID="1704" tvg-name="24/7 Disney" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Disney
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/503457.m3u8
+#EXTINF:0 CUID="17227" tvg-name="24/7 Dragon Ball Super" tvg-logo="https://i.postimg.cc/RCw4KNkT/My-project-removebg-preview.png" group-title="24/7  - Infantiles",24/7 Dragon Ball Super
+http://multiplay.plus:8080/live/BotafogoRJ2025/8ad9c2bdf12c469a/620207.m3u8
+
