@@ -32,7 +32,7 @@ https://delivery.cdn.rcs.net.ar/mnp/el13_hls/playlist.m3u8
 https://delivery.cdn.rcs.net.ar/mnp/el13/output.mpd
 
 
-#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/26428256071569.png" group-title="...TV FUEGO",#️⃣  TV PUBLICA 
+#EXTINF:-1  tvg-id="ElTrece.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/26428256071569.png" group-title="...TV FUEGO",#️⃣  TV PUBLICA 
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Tv_Publica/SA_HLS/Tv_Publica.m3u8
 
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/26428256071569.png" group-title="...TV FUEGO DASH",#️⃣  TV PUBLICA 
