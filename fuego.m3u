@@ -72,7 +72,13 @@ https://delivery.cdn.rcs.net.ar/mnp/tn/output.mpd
 #EXTINF:-1  tvg-id="A24.ar.uy" tvg-name="AME24" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/160/160/0/0/5552631907343.png" group-title="...TV FUEGO",📰 A 24 
 https://delivery.cdn.rcs.net.ar/mnp/a24_hls/playlist.m3u8
 
-#EXTINF:-1  tvg-id="A24.ar.uy" tvg-name="AME24" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/160/160/0/0/5552631907343.png" group-title="...TV FUEGO DASH",📰 A 24 
+#EXTINF:-1  tvg-id="a24.ar" tvg-name="AME24" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/160/160/0/0/5552631907343.png" group-title="...TV FUEGO DASH",📰 A 24 
+https://delivery.cdn.rcs.net.ar/mnp/a24/output.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3b1b027dd011af20fd9956c16dc084fb:45f75aacf06593c9b693fe427c67e5b8
+#EXTINF:-1 tvg-chno="2" tvg-id="a24.ar" tvg-name="AME24" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/A24.png?raw=true" tvg-group="Noticias", A24
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://delivery.cdn.rcs.net.ar/mnp/a24/output.mpd
 
 
