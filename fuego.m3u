@@ -69,10 +69,10 @@ https://delivery.cdn.rcs.net.ar/mnp/tn_hls/playlist.m3u8
 https://delivery.cdn.rcs.net.ar/mnp/tn/output.mpd
 
 
-#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/160/160/0/0/5552631907343.png" group-title="...TV FUEGO",📰 A 24 
+#EXTINF:-1  tvg-id="A24.ar.uy" tvg-name="AME24" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/160/160/0/0/5552631907343.png" group-title="...TV FUEGO",📰 A 24 
 https://delivery.cdn.rcs.net.ar/mnp/a24_hls/playlist.m3u8
 
-#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/160/160/0/0/5552631907343.png" group-title="...TV FUEGO DASH",📰 A 24 
+#EXTINF:-1  tvg-id="A24.ar.uy" tvg-name="AME24" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/160/160/0/0/5552631907343.png" group-title="...TV FUEGO DASH",📰 A 24 
 https://delivery.cdn.rcs.net.ar/mnp/a24/output.mpd
 
 
