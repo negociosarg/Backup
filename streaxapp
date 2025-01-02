@@ -1547,6 +1547,8 @@ https://cdn.cvattv.com.ar/live/c3eds/Canal7_Bahia_Blanca/SA_Live_dash_enc/Canal7
 #EXTINF:-1 ch-number="809" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Elnuevetv_bahia_blanca_logocolor.svg/526px-Elnuevetv_bahia_blanca_logocolor.svg.png" group-title="Bahía Blanca", ELNUEVE TV BAHÍA BLANCA
 https://cdn.cvattv.com.ar/live/c3eds/Canal9_Bahia_Blanca/SA_Live_dash_enc/Canal9_Bahia_Blanca.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
+#EXTINF:-1 tvg-logo="https://www.bragadotv.com.ar/images/custom/logo.png?_v=29" group-title="Argentina", BRAGADO TV
+https://inliveserver.com:1936/12000/12000/chunklist_w100079146.m3u8
 
 
 
